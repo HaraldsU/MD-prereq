@@ -1,0 +1,39 @@
+digraph {
+	ranksep=3
+	node [fontsize=30]
+	node [height=1.5]
+	Algoritmi -> "Programminženierija"
+	Algoritmi -> "Programmēšanas valoda"
+	Algoritmi -> "Mākslīgais intelekts"
+	Algoritmi -> "Datubāzes"
+	Algoritmi -> Translators
+	Algoritmi -> "Informācijas izguve"
+	Algoritmi -> "Sistēmu programmēšana"
+	Algoritmi -> "Objektorientētais dizains"
+	Algoritmi -> "Objektorientētā programmēšana"
+	Algoritmi -> Datizrace
+	"Datu struktūra" -> "Informācijas izguve"
+	"Datu struktūra" -> "Objektorientētā programmēšana"
+	"Datu struktūra" -> "Programminženierija"
+	"Datu struktūra" -> "Sistēmu programmēšana"
+	"Datu struktūra" -> Datizrace
+	"Datu struktūra" -> "Datubāzes"
+	"Datu struktūra" -> "Mākslīgais intelekts"
+	"Datu struktūra" -> Algoritmi
+	"Datu struktūra" -> "Objektorientētais dizains"
+	"Datu struktūra" -> Translators
+	"Datu struktūra" -> "Programmēšanas valoda"
+	"Mākslīgais intelekts" -> "Informācijas pārvaldība"
+	"Mākslīgais intelekts" -> "Zināšanu pārvaldība"
+	"Datubāzes" -> "Programminženierija"
+	"Datubāzes" -> "Zināšanu pārvaldība"
+	"Datubāzes" -> "Informācijas pārvaldība"
+	"Informācijas izguve" -> "Informācijas pārvaldība"
+	"Informācijas izguve" -> "Zināšanu pārvaldība"
+	Datizrace -> "Informācijas pārvaldība"
+	Datizrace -> "Zināšanu pārvaldība"
+	"Operētājsistēma" -> "Datortīkli"
+	"Sistēmu programmēšana" -> "Operētājsistēma"
+	"Objektorientētā programmēšana" -> "Objektorientētais dizains"
+	Translators -> "Programmēšanas valoda"
+}
