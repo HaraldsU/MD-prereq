@@ -14,7 +14,7 @@ Concepts,Annotator 1,Annotator 2,Annotator 3
 "['nonrelevant documents', 'nonrelevant document']",1,1,1.0
 ['vector space model'],1,1,1.0
 ['vector space'],1,1,1.0
-['nonrelevant document's vector'],1,1,0.0
+['nonrelevant documents vector'],1,1,0.0
 ['negative term weights'],0,0,0.0
 "['term weight', 'term weights']",1,1,1.0
 ['recall'],1,1,1.0

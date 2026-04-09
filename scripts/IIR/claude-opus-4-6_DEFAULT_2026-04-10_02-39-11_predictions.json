@@ -1,0 +1,518 @@
+[
+  {
+    "section_number": "1",
+    "section_name": "Boolean retrieval",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "information retrieval, IR, unstructured data, structured data, documents, text, information need, collections, web search, personal information retrieval, enterprise search, indexing, browsing, filtering, clustering, classification, term-document matrix, inverted index, Boolean retrieval model, Boolean queries, semistructured search, document collections, retrieved documents, search engine, spam filter, text classification, hypertext, information access, domain-specific search"
+  },
+  {
+    "section_number": "1.1",
+    "section_name": "An example information retrieval problem",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "document retrieval, linear scan, grepping through text, wildcard pattern matching, querying, document collections, flexible matching operations, ranked retrieval, information need, index, Boolean retrieval model, binary term-document incidence matrix, terms, term-document incidence matrix, vector, bitwise AND, Boolean expression, collection, corpus, ad hoc retrieval task, IR task, relevant, query, information need, precision, recall, relevance, evaluation measures, search results, term-document matrix, sparse, inverted index, inverted file, dictionary, vocabulary, lexicon, postings list, posting, postings, document ID, indexed units"
+  },
+  {
+    "section_number": "1.2",
+    "section_name": "A first take at building an inverted index",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "indexing, retrieval, index, documents, tokenize, tokens, linguistic preprocessing, normalized tokens, indexing terms, inverted index, dictionary, postings, sort-based indexing, document collection, document identifier, docID, index construction, term, sorting, postings list, document frequency, Boolean search engine, query time, ranked retrieval models, query processing, ad hoc text search, postings lists, singly linked lists, variable length arrays, skip lists, pointers, disk seeks, storage, memory, data structure, statistics, contiguous run of postings, hybrid scheme, linked list of fixed length arrays, offsets, compressed"
+  },
+  {
+    "section_number": "1.3",
+    "section_name": "Processing Boolean queries",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "query, inverted index, Boolean retrieval model, conjunctive query, Dictionary, postings, postings lists, intersect, documents, terms, merging postings lists, merge algorithm, pointers, docID, results list, intersection, postings entries, collection, indexing methods, linear scan, numeric sort, query optimization, document frequency, intermediate results, frequency, disjuncts, disjunctive term, arbitrary Boolean queries, intermediate expressions, query language, conjunctive queries, postings list compression, binary searches, hashtable, posting, in-memory data, disk"
+  },
+  {
+    "section_number": "1.4",
+    "section_name": "The extended Boolean model versus ranked retrieval",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "Boolean retrieval model, ranked retrieval models, vector space model, free text queries, query expressions, ranked retrieval, Boolean retrieval, Boolean operations, AND, OR, NOT, extended Boolean retrieval models, term proximity operators, proximity operator, intervening words, sentence, paragraph, Boolean search, phrase search, wildcard query, trailing wildcard, disjunction, precision, recall, high precision, low recall, low precision, high recall, information needs, inverted index, dictionary, postings lists, query optimization, query models, index structures, spelling mistakes, compounds, phrases, proximity queries, term presence, term frequency, postings, document score, rank, ad hoc searching, unstructured information, indexing, querying, Boolean operators, free text querying, web search engines, document ranking, information retrieval"
+  },
+  {
+    "section_number": "2.1",
+    "section_name": "The term vocabulary and postings lists",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "inverted index construction, documents, indexed, tokenize, text, tokens, linguistic preprocessing, index, term, vocabulary, postings lists, document, character sequence, tokenization, equivalence classes, terms, indexing, postings list, querying, postings data structures, phrase and proximity queries, extended Boolean models, document delineation, character sequence decoding, encoding, byte sequence, Unicode UTF-8, decode, document metadata, XML, document format, decoder, document types, linear sequence of characters, writing systems, indexing granularity, collection, mini-document, precision recall tradeoff, proximity search, index granularity, XML retrieval, IR system, document collection, information needs"
+  },
+  {
+    "section_number": "2.2",
+    "section_name": "Determining the vocabulary of terms",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "tokenization, tokens, terms, words, type, token, term, document, IR system's dictionary, index terms, vocabulary, normalization, stop words, stop list, collection frequency, document collection, indexing, postings, postings lists, keyword searches, phrase searches, phrase queries, query, token normalization, equivalence classes, query expansion, query expansion list, query expansion dictionary, index construction, stemming, lemmatization, inflectional forms, derivationally related words, base form, lemma, derivational affixes, morphological analysis, Porter's algorithm, Porter Stemmer, Lovins stemmer, Paice/Husk stemmer, stemmers, lemmatizer, word segmentation, character sequence, document unit, character -grams, compound-splitter module, word boundaries, Boolean queries, Boolean retrieval systems, free text queries, tokenizer, language identification, classifiers, document metadata, index, recall, precision, information retrieval, IR systems, web search engines, compression, term weighting, idf, impact-sorted indexes, token list, unnormalized tokens, synonyms, acronyms, normalized type, processing, semantic unit, word reductions, linguistic processing, indexing process, plug-in component, Natural Language Processing, search, retrieval, CLEF evaluations, compound splitting"
+  },
+  {
+    "section_number": "2.3",
+    "section_name": "Faster postings list intersection via skip pointers",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "postings list, postings list intersection, skip pointers, skip list, indexing time, postings entries, list lengths, intersection, sublinear time, index, merging, search results, postings lists intersection with skip pointers, skip list pointer, AND queries, OR queries, skip spans, comparisons, query terms, inverted index, compressed techniques, disk postings list size, index construction time, index size, intermediate result, complex query, postings intersection"
+  },
+  {
+    "section_number": "2.4",
+    "section_name": "Positional postings and phrase queries",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "phrase queries, search engine, postings lists, documents, terms, biword indexes, biwords, vocabulary term, two-word phrase queries, Boolean query, false positives, nouns, noun phrases, function words, tokenize, part-of-speech-tagging, extended biword, extended biword index, index, phrase index, variable length word sequences, dictionary, false positive matches, indexed phrases, vocabulary size, biword dictionary, partial phrase index, compound indexing scheme, positional index, postings, docID, token index, posting, term frequency, inverted index, merge operation, positional postings lists, within word proximity searches, positional indexes, combination schemes, combination strategy, next word index, phrase index entry, query, querying behavior, double quotes syntax, implicit phrase queries, term proximity weighting, ranked retrieval, biword indexing model"
+  },
+  {
+    "section_number": "3.1",
+    "section_name": "Dictionaries and tolerant retrieval",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "inverted indexes, Boolean queries, proximity queries, typographical errors, query, alternative spellings, vocabulary, inverted index, wildcard query, search engine, query term, spelling errors, collection, postings list, vocabulary lookup, dictionary, hashing, search trees, keys, hash collisions, postings, prefix, binary search tree, binary tree, search tree, B-tree, balanced, rebalancing, disk-resident, disk blocks, standard inverted index, documents, terms, vocabulary terms, phonetically close, spelling corrections"
+  },
+  {
+    "section_number": "3.2",
+    "section_name": "Wildcard queries",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "wildcard queries, query term, spelling, documents, variants, stemming, search engine, trailing wildcard query, search string, search tree, dictionary, prefix, inverted index, leading wildcard queries, reverse B-tree, B-tree, root-to-leaf path, vocabulary, suffix, intersection, Boolean query, vocabulary terms, k-gram indexes, k-gram index, k-gram, 3-grams, postings list, post-filtering, string-matching, single-term query, disjunction, conjunction, conjunction of disjunctions, Boolean operators, general wildcard queries, standard inverted index"
+  },
+  {
+    "section_number": "3.3",
+    "section_name": "Spelling correction",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "spelling correction, spelling errors, queries, query, misspellings, edit distance, k-gram overlap, isolated-term correction, context-sensitive correction, query term, dictionary, vocabulary, Levenshtein distance, edit operations, insert a character, delete a character, replace a character, dynamic programming, weighted edit distance, permuterm index, B-tree, rotation, spelling correction problem, decoding problem, exhaustive search, heuristics, k-gram index, bigram, postings, linear scan, intersection of postings, Jaccard coefficient, threshold, postings scan, candidate vocabulary terms, collection, query logs, biword, spell-corrected, search engine, documents, terms, character strings, proximity, nearness, proximity measures, number of occurrences, correction, multiple-term query, typographical errors, phrase, substitute phrase, biword statistics"
+  },
+  {
+    "section_number": "3.4",
+    "section_name": "Phonetic correction",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "tolerant retrieval, phonetic correction, misspellings, query, term, phonetic hash, soundex algorithms, soundex algorithm, phonetic hashing, inverted index, soundex index, indexed, query terms, soundex match, vocabulary terms, standard inverted index, soundex codes, phonetic misspellings, proper nouns, similar-sounding terms, equivalence classes, soundex code, soundex map, 4-character reduced form"
+  },
+  {
+    "section_number": "4.1",
+    "section_name": "Index construction",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "inverted index, index construction, indexing, indexer, indexing algorithms, blocked sort-based indexing, sort-based indexing, single-pass in-memory indexing, vocabulary, dynamic indexing, index, indexes for ranked retrieval, web search, enterprise search, crawled, spidered, raw text, documents, compress, decompress, intermediate files, information retrieval, IR system, caching, disk, memory, seek time, transfer time, buffer, compressed data, decompression, collections, computer clusters, distributed"
+  },
+  {
+    "section_number": "4.2",
+    "section_name": "Blocked sort-based indexing",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "nonpositional index, term-docID pairs, sort, term, docID, postings list, term frequency, document frequency, collection, secondary storage, index construction, termIDs, vocabulary, inverted index, single pass, multipass algorithms, Reuters-RCV1, tokens, termID-docID pairs, compression techniques, postings file, external sorting algorithm, disk, random disk seeks, sequential disk reads, blocked sort-based indexing, BSBI, block, in-memory sort, inversion, posting, merged index, block files, read buffers, write buffer, priority queue, time complexity, parsing, P ARSE N EXT B LOCK, M ERGE B LOCKS, index construction time, document, terms, tokenization, case folding"
+  },
+  {
+    "section_number": "4.3",
+    "section_name": "Single-pass in-memory indexing",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "blocked sort-based indexing, scaling properties, terms, termIDs, collections, data structure, single-pass in-memory indexing, SPIMI, dictionary, disk, block, index, inversion, algorithm, documents, stream, term-docID pairs, tokens, token stream, SPIMI-INVERT, hash, postings list, posting, BSBI, termID-docID pairs, sorting, postings, index construction, memory, intermediate data structures, inverted index, merging, lexicographic order, merging blocks, linear scan, compression, dictionary terms, time complexity"
+  },
+  {
+    "section_number": "4.4",
+    "section_name": "Distributed indexing",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "distributed indexing, index construction, single machine, World Wide Web, web index, web search engines, distributed indexing algorithms, distributed index, term-partitioned index, document-partitioned index, MapReduce, distributed computing, computer clusters, commodity machines, nodes, master node, worker nodes, map phase, reduce phase, splits, key-value pairs, termID, docID, term, termIDs, mapping from terms to termIDs, single-machine indexing, parsers, segment files, term partitions, inverters, postings list, postings, inverted index, inverted index construction, term frequencies, posting, BSBI, SPIMI, map function, reduce function, collections, partitioning, network traffic, indexing system, document-partitioned, term-partitioned, key ranges, parsing, intermediate files, sorted postings list"
+  },
+  {
+    "section_number": "4.5",
+    "section_name": "Dynamic indexing",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "document collection, static, collections, documents, terms, dictionary, postings lists, index, reconstruct the index, searchable, main index, auxiliary index, searches, results merged, invalidation bit vector, deleted documents, search result, merging operation, file system, postings list, disk seeks, vocabulary, auxiliary and main indexes, one-file-per-postings-list scheme, postings, docIDs, time complexity, token, termID, in-memory index, logarithmic merging, indexes, in-memory auxiliary index, disk, search requests, query processing, inverted indexes, index construction time, collection-wide statistics, spelling correction, hits, IR system, index maintenance, distribution, dynamic indexing, reconstruction-from-scratch strategy"
+  },
+  {
+    "section_number": "4.6",
+    "section_name": "Other types of indexes",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "nonpositional indexes, positional indexes, postings, postings lists, docID, tokens, termID, compression, gaps, index, ranked retrieval, Boolean retrieval, weight, impact, impact-sorted index, docID-sorted index, inverted index, query processing, access control lists, ACLs, user-document matrix, inverted ACL index, access list, incremental indexing, retrieval systems, search results, documents"
+  },
+  {
+    "section_number": "5.1",
+    "section_name": "Index compression",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "dictionary, inverted index, information retrieval, IR, compression techniques, index compression, disk space, compression ratios, caching, postings list, query term, main memory, decompression, decompression methods, response time, IR system, disk to memory, decompression algorithms, compressed postings list, uncompressed postings lists, compression algorithms, posting, docID, postings, termID, frequency, position information, nonpositional postings, dictionary-as-a-string, blocked storage, variable byte encoding, postings file, terms, collection, preprocessing, stemming, case folding, stop words, tokens, positional index, nonpositional index, Porter stemmer, lossless, lossy compression, vocabulary size, inverted index, search system, Heaps' law, collection size, dictionary compression, Zipf's law, collection frequency, rank, power law, term distributions, postings lists, dictionary size, stop list, compressed index, retrieval system, vector space model, dimensionality reduction, latent semantic indexing, tokenization, distinct terms, vocabulary growth, document"
+  },
+  {
+    "section_number": "5.2",
+    "section_name": "Dictionary compression",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "dictionary data structures, compression ratios, dictionary, postings file, IR system, disk seeks, query evaluation, compressing the dictionary, main memory, query throughput, vocabulary, fixed-width entries, lexicographically, document frequency, postings list, binary search, dictionary-as-a-string storage, term pointers, blocked storage, block size, term lookup, linear search, front coding, common prefixes, alphabetically sorted list, minimal perfect hashing, hash function, collisions, perfect hash function, dynamic environment, text collections, postings, B-tree, dictionary compression, term pointers into string, blocking"
+  },
+  {
+    "section_number": "5.3",
+    "section_name": "Postings file compression",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "postings file compression, document IDs, docIDs, gaps, postings list, postings, posting, frequency, position information, uncompressed postings file, variable encoding method, bytewise compression, bitwise compression, variable byte codes, VB encoding, continuation bit, payload, VB code, compressed index, VB compression, bit manipulation, compression ratios, speed of decompression, bit-level encodings, gamma codes, delta codes, unary code, unary codes, variable-length encoding, length, offset, prefix free, parameter free, encoding, decoding, entropy, universal, optimal encoding, Zipf's law, term distribution model, collection frequency, rank, relative frequency, term occurrence probability, term statistics, distribution of gaps, inverted index, index compression, postings file, compressed inverted index, compression ratio, term incidence matrix, uncompressed, variable byte encoded, gamma encoded, query processing, disk space, query response time, cache, data transfers, disk to memory, compression techniques, vocabulary, term frequencies, index size"
+  },
+  {
+    "section_number": "6",
+    "section_name": "Scoring, term weighting and the vector space model",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "Boolean queries, document collections, matching documents, search engine, rank-order, query, score, scoring, ranking, parametric indexes, zone indexes, index, retrieve, documents, metadata, weighting, term, document, statistics of occurrence, vector, weights, vector space scoring, vector space model, term-weighting, free text queries, query terms"
+  },
+  {
+    "section_number": "6.1",
+    "section_name": "Parametric and zone indexes",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "document, terms, metadata, fields, author, title, date of publication, date of creation, format, query, query processing, postings intersections, inverted, parametric indexes, parametric index, dictionary, B-tree, parametric search, zones, free text, zone index, inverted index, vocabulary, postings, main memory, weighted zone scoring, Boolean query, score, linear combination, zone scores, Boolean score, ranked Boolean retrieval, query term, accumulators, scoring, ranking, information retrieval, machine-learned relevance, training examples, relevance judgment, Relevant, Non-relevant, collection, Boolean match scores, Boolean function, scoring function, training document, training query"
+  },
+  {
+    "section_number": "6.2",
+    "section_name": "Term frequency and weighting",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "scoring, query term, zone, document, free text query, search interface, Boolean operators, set of words, score, match scores, term, weight, number of occurrences, term frequency, weighting scheme, weighting function, bag of words model, Boolean retrieval, retrieval, stop words, indexing, relevance, inverse document frequency, collection frequency, document frequency, collection, discriminating power, idf, rare term, frequent term, tf-idf weighting scheme, tf-idf weight, composite weight, vector, dictionary, overlap score measure, ranking, relevancy, relevance determination, document-level statistic, collection-wide statistic, scoring mechanism"
+  },
+  {
+    "section_number": "6.3",
+    "section_name": "The vector space model for scoring",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "document vector, vector space model, information retrieval, scoring, document classification, document clustering, vector space scoring, queries as vectors, dot products, dictionary term, tf-idf weighting scheme, weighting scheme, bag of words representation, vector space, similarity, document length, term frequencies, cosine similarity, vector representations, inner product, Euclidean lengths, length-normalize, unit vectors, Euclidean normalization, tf values, term-document matrix, stemming, query, dot product, score, vocabulary size, query vector, document vector, cosine score, query terms, tf weights, term weight functions, document frequencies, idf, wf, Euclidean normalization, vector space scores, free text query, top documents, rank-order, normalization factors, accumulators, term-at-a-time scoring, postings entry, inverse document frequency, postings, term frequency, priority queue, heap, postings lists, concurrent postings traversal, document-at-a-time scoring, inverted index, tf-idf weights, collection, scoring documents on a query"
+  },
+  {
+    "section_number": "6.4",
+    "section_name": "Variant tf-idf functions",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "weight, term, document, tf, tf-idf, sublinear tf scaling, term frequency, logarithm of the term frequency, wf-idf, maximum tf normalization, tf weights, normalized term frequency, smoothing term, stop word list, term weightings, ranking, vector space scoring, weights, document vector, query vector, SMART notation, term weighting, document frequency component, normalization, lnc.ltc, log-weighted term frequency, idf, idf weighting, cosine normalization, Euclidean length, unit vectors, document length, document length normalization, term and document frequencies, pivoted document length normalization, relevance, relevance judgments, query ensemble, document collection, probability of relevance, pivot length, normalization factor, scoring, information retrieval systems, weighting schemes, vector representations, dot product score, unique terms, machine learning based scoring"
+  },
+  {
+    "section_number": "7.1",
+    "section_name": "Computing scores in a complete search system",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "term weighting, scoring, vector space models, cosine scoring, cosine scoring algorithm, search engine, computing scores, indexes, ranking factors, query term proximity, vector space model, free text queries, query operators, efficient scoring and ranking, unit vector, query terms, relative scores, cosine similarity, document unit vector, query vector, postings intersection, postings, inverted index, Boolean query, idf, tf, dictionary term, postings entry, heap, top documents, inexact top K document retrieval, index elimination, champion lists, fancy lists, top docs, dictionary, tf values, cosine computation, index construction, static quality scores, query-dependent score, net score, static quality-ordered index, global champion list, document IDs, high lists, low lists, postings lists, document-at-a-time scoring, term-at-a-time scoring, accumulating scores, impact ordering, cluster pruning, document vectors, leaders, followers, candidate set, stop words, idf threshold, preset threshold, weighting, tf-idf weighting, common ordering, concurrent traversal, collection"
+  },
+  {
+    "section_number": "7.2",
+    "section_name": "Components of an information retrieval system",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "tiered indexes, champion lists, postings entries, tf values, document ID, free text queries, query terms, proximity-weighted scoring, cosine similarity, scoring function, machine learning, query operators, retrieval operators, indexes, query parser, phrase query, vector space scoring, vector space retrieval, static quality, proximity weighting, aggregate scoring function, scoring operators, query parsing, zones, metadata, machine-learned scoring, Boolean, zone and field queries, search system, parsing, linguistic processing, tokenization, stemming, tokens, document cache, results snippets, zone and field indexes, positional indexes, spelling correction, tolerant retrieval, inexact top retrieval, scoring module, machine-learned ranking, ranking, index elimination, postings, stop words, document collection, results page, query distribution, collection, documents, retrieval, search, information retrieval system"
+  },
+  {
+    "section_number": "7.3",
+    "section_name": "Vector space scoring and query operator interaction",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "vector space model, free text queries, vector space scoring, query operators, index, retrieval methods, search engine, query operators, Boolean, wildcard, phrase queries, free text retrieval, query terms, retrieved document, web search engines, conjunctive query, scoring, ranked, documents"
+  },
+  {
+    "section_number": "8.1",
+    "section_name": "Evaluation in information retrieval",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "IR system, stop lists, stem, inverse document frequency weighting, information retrieval, evaluation, effectiveness, document collections, test collections, relevant, nonrelevant documents, evaluation methodology, unranked retrieval results, evaluation measures, document retrieval, text classification, ranked retrieval results, user utility, document relevance, relevance, relevance ranking, ad hoc information retrieval, test collection, document collection, test suite, information needs, queries, relevance judgments, binary assessment, query-document pair, information retrieval system evaluation, gold standard, ground truth, binary classification, information need, query, relevant or nonrelevant, binary relevance judgments, parameters, system performance, development test collections, test collection, performance, user happiness, result summary snippets, user interface"
+  },
+  {
+    "section_number": "8.2",
+    "section_name": "Standard test collections",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "Cranfield collection, test collection, quantitative measures, information retrieval effectiveness, abstracts, queries, exhaustive relevance judgments, query, document, Text Retrieval Conference, TREC, National Institute of Standards and Technology, NIST, IR test bed evaluation series, tracks, test collections, TREC Ad Hoc track, documents, newswire articles, relevance judgments, information needs, topics, subcollection, NIST assessors, top returned, evaluation, document collections, GOV2, web page collection, Web collection, web search companies, NII Test Collections for IR Systems, NTCIR, cross-language information retrieval, Reuters-21578, text classification, Reuters Corpus Volume 1, RCV1, 20 Newsgroups, ad hoc information retrieval system evaluation, standard test collections, evaluation series, Cross Language Evaluation Forum, CLEF, East Asian language"
+  },
+  {
+    "section_number": "8.3",
+    "section_name": "Evaluation of unranked retrieval sets",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "precision, recall, information retrieval, retrieved documents, relevant documents, contingency table, accuracy, nonrelevant, two-class classifier, false positives, true positives, F measure, weighted harmonic mean, balanced F measure, arithmetic mean, geometric mean, harmonic mean, recall is a non-decreasing function of the number of documents retrieved, precision usually decreases as the number of documents retrieved is increased, system effectiveness, information retrieval effectiveness, ranked retrieval, unranked retrieval, retrieving all documents, classifications"
+  },
+  {
+    "section_number": "8.4",
+    "section_name": "Evaluation of ranked retrieval results",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "precision, recall, F measure, set-based measures, unordered sets of documents, ranked retrieval results, search engines, retrieved documents, top retrieved documents, precision-recall curve, saw-tooth shape, nonrelevant, relevant, interpolated precision, recall level, 11-point interpolated average precision, information need, test collection, arithmetic mean, TREC, TREC Ad Hoc evaluations, Mean Average Precision, MAP, single-figure measure of quality, discrimination, stability, Average Precision, relevant documents, uninterpolated precision-recall curve, area under the precision-recall curve, fixed recall levels, interpolation, test information needs, system effectiveness, precision at fixed low levels of retrieved results, Precision at k, Precision at 10, evaluation measures, R-precision, known relevant documents, relevance judgments, pooled top results, break-even point, ROC curve, true positive rate, sensitivity, false positive rate, specificity, true negatives, area under the ROC curve, cumulative gain, normalized discounted cumulative gain, NDCG, non-binary notions of relevance, relevance score, perfect ranking, normalization factor, ranked retrieval, ranking"
+  },
+  {
+    "section_number": "8.5",
+    "section_name": "Assessing relevance",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "test information needs, documents, test document collection, information need, query terms, relevance assessments, relevance, query, document, Cranfield, judgments of relevance, pooling, IR systems, Boolean keyword searches, expert searchers, gold standard, relevance judgments, judges, kappa statistic, categorical judgments, agreement rate, chance agreement, marginal statistics, expected agreement, marginal distribution, pooled marginals, pairwise kappa value, interjudge agreement, TREC evaluations, medical IR collections, binary relevance judgment, relevance labeling, IR evaluation, assessors' judgments, gold standard judgment, relative effectiveness ranking, evaluation, document collection, information needs"
+  },
+  {
+    "section_number": "8.5.1",
+    "section_name": "Critiques and justifications of the concept of relevance ",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "system evaluation, standard model, relevant and nonrelevant documents, IR systems, system parameters, comparative experiments, formal testing, retrieval effectiveness, user studies, formal measure, effectiveness, machine learning methods, user satisfaction, formal measures for IR evaluation, evaluation measures, document length normalization, TREC, parameter weights, scoring, relevance, collection, retrieval systems, queries, evaluation methods, assessments, binary, nuanced assessments of relevance, information need, objective decision, judgments of relevance, subjective, human assessors, retrieval results, relevance judgment set, user population, ordinal notion of relevance, slightly relevant documents, highly relevant documents, INEX, TREC tracks, NTCIR, relevance-based assessment, marginal relevance, redundant, duplicates, diversity, novelty, utility, distinct facts, evaluation units, test collection"
+  },
+  {
+    "section_number": "8.6",
+    "section_name": "A broader perspective: System quality and user utility",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "formal evaluation measures, human utility, user studies, quantitative measures, qualitative measures, user satisfaction, search engine, search interface, information retrieval system, retrieval quality, index, documents, latency, index size, query language, document collection, number of documents, collection, relevance, user interface, web search engine, eCommerce, enterprise, intranet search engine, user productivity, search results, user happiness, proxy of relevance, system design, IR system, A/B testing, ranking algorithm, clickthrough log analysis, clickstream mining, implicit feedback, single variable tests, control, live system, multivariate statistical analysis, multiple linear regression, information need, indexing speed, search speed, query language expressiveness, distribution over document lengths, aggregate user happiness, rate of return of users, time to purchase, fraction of searchers who become buyers, information security, human usability testing, user utility"
+  },
+  {
+    "section_number": "8.7",
+    "section_name": "Results snippets",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "results list, query, documents, relevance, information need, snippet, summary, document title, static, dynamic, query-dependent, metadata, zones, description metadata, indexing time, search results, text summarization, sentences, positional factors, content factors, key terms, document frequency, collection, frequency, distribution, text generation, keyword-in-context, KWIC, snippets, scoring, phrase, query terms, positional index, search engine hits, static summaries, dynamic summaries, IR systems, IR system design, index, cached, results, crawler, indexer, cache, document content, document summary, usability"
+  },
+  {
+    "section_number": "9",
+    "section_name": "Relevance feedback and query expansion",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "synonymy, recall, information retrieval systems, search, query, query refinement, global methods, local methods, query expansion, reformulation, query terms, results, query wording, semantically similar terms, thesaurus, WordNet, automatic thesaurus generation, spelling correction, relevance feedback, pseudo relevance feedback, blind relevance feedback, indirect relevance feedback, documents"
+  },
+  {
+    "section_number": "9.1",
+    "section_name": "Relevance feedback and pseudo relevance feedback",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "relevance feedback, retrieval process, result set, relevance of documents, retrieval results, query, information need, user feedback, iterative query refinement, query refinement, precision, image search, relevant documents, nonrelevant documents, Rocchio algorithm, vector space model, probabilistic relevance feedback, Naive Bayes probabilistic model, term-weighting, collection statistics, term distribution, cross-language information retrieval, vocabulary, cluster, centroid, multimodal class, recall, relevance feedback option, clickstream data, implicit relevance feedback, retrieval performance, judged documents, precision-recall graph, mean average precision, residual collection, relevance judgments, user studies, pseudo relevance feedback, blind relevance feedback, automatic local analysis, global analysis, TREC ad hoc task, query drift, implicit feedback, explicit feedback, ranking, document summaries, results lists, clickstream mining, term frequency, information filter, active learning, ad hoc retrieval, interactive retrieval, query reformulation, Boolean indicator variable, reweight, initial query, collection, relevant, nonrelevant, feedback, spelling correction, misspellings, web search, link structure, top ranked documents, modified query, Rocchio relevance feedback model, length normalization, TREC, SMART system, annotation costs"
+  },
+  {
+    "section_number": "9.2",
+    "section_name": "Global methods for query reformulation",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "query reformulation, global methods, query expansion, thesaurus, manual thesaurus, controlled vocabulary, automatically derived thesaurus, vocabulary tools, stop lists, stemmed, inverted index, relevance feedback, term weighting, synonyms, related words, canonical term, subject headings, Library of Congress Subject Headings, Dewey Decimal system, Unified Medical Language System, UMLS, MedLine, interactive query expansion, automatic query expansion, preferred terms, broader terms, narrower terms, query log mining, recall, precision, local analysis, global analysis, word cooccurrence, co-occurrence thesaurus, term-term similarities, term-document matrix, weighted count, length-normalized rows, similarity score, dimensionality reduction, Latent Semantic Indexing, term ambiguity, false positives, false negatives, pseudo relevance feedback, domain-specific thesaurus, grammatical relations, grammatical dependencies, search terms, query terms, hits, phrases, result set, collection, documents"
+  },
+  {
+    "section_number": "10",
+    "section_name": "XML retrieval",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "information retrieval, relational databases, unstructured text, markup, relational data, records, attributes, retrieval model, data structures, query language, structured retrieval, inverted index, free text queries, SQL, structured queries, XQuery, information need, precision, recall, structured documents, digital libraries, patent databases, entity tagging, queries, textual criteria, structural criteria, unranked retrieval system, Boolean model, ranked retrieval, structured elements, advanced search interfaces, Extensible Markup Language, XML, HTML, SGML, markup languages, text-centric XML, data-centric XML, XML retrieval, semistructured retrieval, database querying, parametric and zone search, parametric fields, zones, tree structure, nesting, vector space model, INEX, shared task evaluation, XML retrieval research"
+  },
+  {
+    "section_number": "10.1",
+    "section_name": "Basic XML concepts",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "XML document, ordered labeled tree, node, XML element, opening tag, closing tag, XML attributes, child elements, leaf nodes, internal nodes, metadata, XML Document Object Model, DOM, DOM API, root element, XPath, paths, XML contexts, contexts, XPath expression, slashes, double slashes, path, vocabulary term, schema, XML DTD, document type definition, XML Schema, structured queries, XML retrieval, XML query, NEXI, Narrowed Extended XPath I, relational attribute constraints, about clause, ranking constraint, relevance, prefiltering, postfiltering, result set, element nodes, attribute nodes, element-node tree, query-by-example, query language design, XML document collection"
+  },
+  {
+    "section_number": "10.2",
+    "section_name": "Challenges in XML retrieval",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "structured retrieval, unstructured retrieval, structured documents, queries, XML elements, documents, IR systems, structured document retrieval principle, retrieval strategy, query, indexing units, document unit, indexing unit, indexing, retrieval, pseudodocuments, non-overlapping indexing units, search results, two-stage retrieval process, relevance, subelement, top down, bottom up, leaves, postprocessing, index all elements, nested elements, result set, redundancy, restriction strategies, relevance assessments, highlighting, query terms, schema, structured queries, term statistics, ranking, inverse document frequency, idf, document frequency, XML-context term pairs, idf weights, sparse data problems, schema heterogeneity, schema diversity, approximate matching, query-document mismatches, query interface, keyword queries, descendant relationships, extended queries, structural constraints, collection, XML retrieval, XML documents, result sets"
+  },
+  {
+    "section_number": "10.3",
+    "section_name": "A vector space model for XML retrieval",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "vector space model, XML retrieval, documents, structure, retrieval, unstructured retrieval, dimension, vector space, XML tree, text node, leaf, lexicalized subtrees, vocabulary term, queries, vectors, matches, dimensionality, accuracy, query results, vector space retrieval system, collection, paths, XML-context, structural term, XML-contextterm pairs, index, schema, extended queries, query structure, weight, context resemblance function, path, query path, document path, cosine measure, S IM N O M ERGE, non-structural terms, XML contexts, weights, weightings, inverse document frequency, similarity measure, document length, query length normalization, ranking, scoring, postings lists, query-document similarities, context match, query weight, query-document similarity function, weighting, S IM M ERGE, matching conditions, document frequency, term statistics, matching function, structural queries, effectiveness, evaluation"
+  },
+  {
+    "section_number": "10.4",
+    "section_name": "Evaluation of XML retrieval",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "INEX, Initiative for the Evaluation of XML retrieval, XML retrieval, reference collections, queries, relevance judgments, relevance, documents, human assessors, structured documents, information needs, content-only topics, CO topics, content-and-structure topics, CAS topics, keyword queries, unstructured information retrieval, structural constraints, keywords, CAS queries, relevance assessments, component coverage, topical relevance, exact coverage, too small, too large, no coverage, highly relevant, fairly relevant, marginally relevant, nonrelevant, binary relevance judgments, quantization function, relevant components, retrieved set, precision, recall, F, graded relevance, overlap, marginal relevance, non-redundant results lists, evaluation measures, vector space model, average precision, median average precision, effectiveness, graded judgments, interpolated precision, content-only search, full-structure search, language-model-based system, precision at k, discretization function, bags of words, structured retrieval, recall, precision-oriented tasks, test collection, evaluation"
+  },
+  {
+    "section_number": "10.5",
+    "section_name": "Text-centric vs. data-centric XML retrieval",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "structured retrieval, XML structure, text of the query, text of the XML documents, text-centric XML, unstructured retrieval methods, structural constraints, XML document retrieval, inexact matching, relevance-ranked results, data-centric XML, exact match, XML documents, queries, ranking, exact matching, information need, text-centric approaches, document structure, text databases, data-centric approaches, text-centric structured retrieval model, joins, ordering constraints, query languages, XML retrieval, XQuery, ranked retrieval system, information retrieval, relational databases, retrieval results, unordered sets, data-centric XML retrieval systems"
+  },
+  {
+    "section_number": "11",
+    "section_name": "Probabilistic information retrieval",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "relevance feedback, relevant documents, nonrelevant documents, probability of a term appearing in a relevant document, classifier, probabilistic approach to IR, retrieval model, term weights, information needs, query representations, documents, document representations, non-positional index, Boolean, vector space models, matching, index terms, query, IR system, information need, document, probability theory, reasoning under uncertainty, Probability Ranking Principle, Binary Independence Model, probabilistic retrieval model, term counts, Okapi BM25 weighting scheme, Bayesian Network models, probabilistic language modeling approach"
+  },
+  {
+    "section_number": "11.1",
+    "section_name": "Review of basic probability theory",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "variable, event, random variable, probability, joint event, joint probability, conditional probability, chain rule, complement, partition rule, Bayes' Rule, prior probability, posterior probability, evidence, likelihood, odds"
+  },
+  {
+    "section_number": "11.2",
+    "section_name": "The Probability Ranking Principle",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "ranked retrieval, collection of documents, query, ordered list of documents, relevance, indicator random variable, probabilistic model, probability of relevance, information need, Probability Ranking Principle, PRP, reference retrieval system, ranking, decreasing probability of relevance, overall effectiveness, retrieval costs, utility, 1/0 loss, nonrelevant document, relevant document, retrieval results, Bayes Optimal Decision Rule, risk of loss, expected loss, Bayes risk, probabilities, models of IR, PRP with retrieval costs, cost of not retrieving a relevant document, cost of retrieval of a nonrelevant document, false positives, false negatives, evaluation, loss/utility models"
+  },
+  {
+    "section_number": "11.3",
+    "section_name": "The Binary Independence Model",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "Binary Independence Model, BIM, PRP, probability function, documents, queries, binary term incidence vectors, term, document, vector representation, Naive Bayes, conditional independence assumption, multivariate Bernoulli Naive Bayes model, vector space model, information need, relevance feedback, term frequency, document frequency, document length, document relevance, probability of document relevance, Bayes rule, prior probability, relevant document, nonrelevant document, query, ranking function, query terms, odds of relevance, probability of relevance, term incidence vector, contingency table, Retrieval Status Value, RSV, log odds ratios, term weights, document score, accumulators, idf weighting, smoothing, relative frequency, maximum likelihood estimate, MLE, pseudocounts, Bayesian prior, maximum a posteriori, MAP estimation, probability models, combination match model, Croft and Harper, pseudo-relevance feedback, Bayesian updating, beta distribution prior, Bernoulli random variable, tf-idf, retrieval, ranking, relevance judgments, document collection, vocabulary, estimation, probabilistic retrieval strategy, odds ratio"
+  },
+  {
+    "section_number": "11.4",
+    "section_name": "An appraisal and some extensions",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "probabilistic models, Information Retrieval, IR, formal models, probabilistic methods, term independence, relevance, term weighting models, BM25 weighting scheme, vector space, probabilistic IR systems, cosine similarity, tf-idf, probability theory, term weighting formulas, probabilistic model, term dependencies, Tree Augmented Naive Bayes model, BIM, short catalog records, abstracts, full-text search collections, term frequency, document length, Okapi weighting, document scoring, idf weighting, query terms, relevance feedback, stop list, document term frequency scaling, binary model, raw term frequency, length normalization, tuning parameters, development test collection, grid search, relevance judgments, smoothed-rf, document term frequency, document length scaling, term frequency in the query, query vector, TREC evaluations, Bayesian networks, probabilistic graphical model, directed graphs, probabilistic dependencies, directed acyclic graphs, information need, document collection network, query network, thesaurus-based expansion, query subexpressions, Boolean, AND, OR operators, structured query operators, ranked retrieval model, InQuery text retrieval system, parameter estimation, independence assumptions, probabilistic language modeling approach, term pairs, machine learning, retrieval, relevance factor, collections, search tasks"
+  },
+  {
+    "section_number": "12.1.1",
+    "section_name": "Finite automata and language models",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "document model, generative model, language, formal language theory, strings, finite automaton, language of the automaton, language model, probabilistic, probability measure, vocabulary, alphabet, probabilistic finite automaton, probability distribution, terms, finishing state, probability of a word sequence, term emission probabilities, stop probability, well-formed language model, likelihood ratio, probability of the data, ranking of documents, unigram language models, probability estimate, sequence of terms, sums of log probabilities, STOP probabilities"
+  },
+  {
+    "section_number": "12.1.2",
+    "section_name": "Types of language models",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "language model, unigram language model, bigram language models, grammar-based language models, probabilistic context-free grammars, chain rule, probabilities over sequences of terms, conditioning context, probability of a term conditioned on surrounding context, language-modeling work in IR, IR language models, data sparseness, bias-variance tradeoff, training data, higher-order models, phrase and proximity queries, sophisticated language models"
+  },
+  {
+    "section_number": "12.1.3",
+    "section_name": "Multinomial distributions over words",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "unigram language model, bag of words, multinomial distribution over words, unigram models, language model, multinomial model, multinomial probability, bag of words, multinomial coefficient, document, term vocabulary, vocabulary, likelihood ratio, multinomial distributions, language models, training sample, model distribution, estimate a language model, probability, rank documents, generating the query, ordering of terms, conditioning, preceding context, probability of a particular ordering of terms, positions in the document, STOP probabilities, observed data, word sequence, query"
+  },
+  {
+    "section_number": "12.2.1",
+    "section_name": "Using query likelihood language models in IR",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "language modeling, IR, query likelihood model, language models, document, collection, rank documents, probability of a document, likelihood, relevant, query, Bayes rule, prior probability, results, query generation process, document model, multinomial unigram language model, multinomial Naive Bayes model, classes, estimation, multinomial coefficient, retrieval, LM, random process, document models, prototype document, query terms, collection statistics, language model"
+  },
+  {
+    "section_number": "12.2.2",
+    "section_name": "Estimating the query generation probability",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "query generation probability, language model, document, maximum likelihood estimation, MLE, unigram assumption, term frequency, tokens, multinomial, word counts, estimation, zero probabilities, conjunctive semantics, query terms, training data, IR, vector space systems, smoothing, term weighting component, probability mass, unseen words, probability distributions, observed counts, reference probability distribution, collection, document-specific multinomial distribution, multinomial distribution, linear interpolation language model, collection frequency, prior distribution, Bayesian updating process, discounted MLE, prevalence, LM, retrieval ranking, query, document collection, MLE unigram models, mixture, smoothing methods, line search, expectation maximization algorithm, query size, short queries, long queries, information need, raw term frequency, number of tokens, language model of document, non-zero probabilities, whole collection"
+  },
+  {
+    "section_number": "12.2.3",
+    "section_name": "Ponte and Croft\u2019s Experiments",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "language modeling approach, information retrieval, language model, mixture of two multinomials, multivariate Bernoulli model, multinomials, LM approach, experimental results, IR, text classification, term weights, tf-idf weights, tf-idf, TREC topics, TREC disks, queries, natural language queries, term weighting approach, baseline"
+  },
+  {
+    "section_number": "12.3",
+    "section_name": "Language modeling versus other approaches in IR",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "language modeling approach, text retrieval, speech and language processing, IR, scoring matches, queries, documents, probabilistic language modeling, weights, performance, document model, smoothing, retrieval results, probabilistic approaches, BIM, LM approach, modeling relevance, relevance, information needs, language modeling, model, XML retrieval, IR models, document and information need representation, unigram models, relevance feedback, user preferences, phrase matching, passage matching, Boolean retrieval operators, language mismatch, query language, document language, tf-idf models, term frequency, document length normalization, document generation probability, collection generation probability, idf, ranking of documents, term independence, mathematical models, document length, retrieval experiments, BM25 weights, vector space retrieval system, mixture"
+  },
+  {
+    "section_number": "12.4",
+    "section_name": "Extended language modeling approaches",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "language modeling approach, document language model, query language model, document likelihood model, smoothed, relevance feedback, language model, BIM model, relevance model, pseudo-relevance feedback, query likelihood, document likelihood, model comparison, risk minimization, Kullback-Leibler divergence, KL divergence, divergence measure, information theory, probability distribution, ranking function, ad hoc retrieval, topic tracking, normalized log-likelihood ratio, cross-entropies, synonymy, translation models, query-document gap, cross-language IR, conditional probability distribution, translation query generation model, document language model, translation model, thesaurus, bilingual dictionary, statistical machine translation, document collection, anchor-text, hypertext environment, extended LM approaches, relevance feedback models, model comparison approaches, query likelihood LM, information retrieval"
+  },
+  {
+    "section_number": "13",
+    "section_name": "Text classification and Naive Bayes",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "ad hoc retrieval, information needs, queries, search engine, index, standing queries, collection, documents, recall, Boolean search engine, stemming, classification, two-class classification, routing, filtering, text classification, text categorization, topic classification, topic spotting, topics, information retrieval, classifier, indexing, word segmentation, truecasing, spam pages, search engine index, sentiment detection, vertical search, vertical search engines, precision, recall, ranking function, document classifier, training data, training documents, labeling, relevance feedback, Naive Bayes, feature selection, dimensionality, high-dimensional spaces, evaluation of text classification, vector space classifiers, support vector machines, machine learning-based text classification, statistical text classification, hand-crafted rules, manual classification, Boolean expressions, classes, decision criterion"
+  },
+  {
+    "section_number": "13.1",
+    "section_name": "The text classification problem",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "text classification, document, document space, classes, categories, labels, training set, labeled documents, learning method, learning algorithm, classifier, classification function, supervised learning, training documents, learning problems, Naive Bayes, error rate, Reuters-RCV1, test set, test data, hierarchy, any-of problem, one-of problem, accuracy, training data, distribution"
+  },
+  {
+    "section_number": "13.2",
+    "section_name": "Naive Bayes text classification",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "multinomial Naive Bayes, multinomial NB model, probabilistic learning method, supervised learning method, probability of a document, class, conditional probability, term, prior probability, tokens, vocabulary, classification, text classification, best class, maximum a posteriori, MAP, conditional probabilities, floating point underflow, logarithms of probabilities, log probability score, monotonic, conditional parameter, weight, indicator, prior, term weights, multinomial NB, parameters, maximum likelihood estimate, MLE, relative frequency, training data, priors, number of documents, number of occurrences, training documents, positional independence assumption, training set, term-class combination, sparseness, rare events, add-one smoothing, Laplace smoothing, uniform prior, NB classifier, test document, multinomial parameters, positive indicator, negative indicators, time complexity, preprocessing, extracting the vocabulary, counting terms, training collection, test documents, training, testing, optimal time complexity, multinomial unigram language model, language modeling, query, relevant, sparse data, mixture of two distributions, stop words, document level"
+  },
+  {
+    "section_number": "13.3",
+    "section_name": "The Bernoulli model",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "NB classifier, multinomial model, vocabulary, generative model, multivariate Bernoulli model, Bernoulli model, binary independence model, term, document, training, testing, classification rules, estimation strategies, time complexity, fraction of documents, class, binary occurrence information, number of occurrences, tokens, fraction of tokens, fraction of positions, test document, long documents, nonoccurring terms, classification decision, nonoccurrence, absence of terms, priors, conditional probabilities, denominators, term frequency, occurrence"
+  },
+  {
+    "section_number": "13.4",
+    "section_name": "Properties of Naive Bayes",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "Naive Bayes, classification rules, class membership, probability, Bayes' rule, argmax, generative process, Bayesian text classification, conditional distribution, vocabulary, document space, classification problem, document representation, text classification, Bernoulli model, multinomial model, parameters, Naive Bayes conditional independence assumption, attribute values, random variable, term, binary attributes, conditional independence assumption, conditionally dependent, probability distribution, positional independence, bag of words model, ad hoc retrieval, term-class combination, token generation model, document generation model, stop word, event model, parameter estimation, decision rule, multiple occurrences, estimate, features, independence assumptions, natural language, noise features, concept drift, kNN, baseline, text classification research, training data, classifier, accuracy, error rate, term frequency, multinomial factor, sequence model, data sparseness, training, classification, document, class"
+  },
+  {
+    "section_number": "13.5",
+    "section_name": "Feature selection",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "feature selection, training set, features, text classification, classifier, vocabulary, noise features, document representation, classification error, overfitting, training data, bias-variance tradeoff, utility measure, mutual information, chi2 feature selection, frequency, Bernoulli model, multinomial model, feature selection algorithm, term, class, MLE, document frequency, collection frequency, independence, statistically significant, classification accuracy, greedy methods, information-theoretic, two-class classification, feature set, document, token, binary occurrence, parameter estimation, rare terms, strong indicators, weak indicators, redundancy, non-greedy methods"
+  },
+  {
+    "section_number": "13.6",
+    "section_name": "Evaluation of text classification",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "text classification, evaluation, Reuters-21578, collection, benchmark, newswire articles, CONSTRUE text classification system, Reuters-RCV1, topic categories, classes, any-of problem, two-class classifiers, recall, precision, accuracy, ModApte split, training documents, test documents, classification error, classification accuracy, always-no classifier, relative frequency, F, effectiveness, macroaveraging, microaveraging, contingency table, true negatives, true positives, microaveraged precision, macroaveraged precision, micro-avg, macro-avg, one-of classification, Naive Bayes, SVMs, Rocchio, kNN, decision trees, break-even scores, training set, test set, development set, held-out data, parameter, selected features, i.i.d., concept drift, machine learning algorithm, document collection, experimental setup, microaveraged F, macroaveraged F, text classification system, classifiers, per-document classification decision, aggregate measure"
+  },
+  {
+    "section_number": "14",
+    "section_name": "Vector space classification",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "document representation, Naive Bayes, terms, binary vector, text classification, vector space model, document, vector, real-valued component, tf-idf weight, term, document space, classification function, classification methods, real-valued vectors, contiguity hypothesis, classes, word patterns, dimensions, contiguous region, vector space classification, document representation, weighting, stop list, length-normalized tf-idf representations, weighted representations, unnormalized counts, unweighted, Rocchio, kNN, Rocchio classification, centroids, prototypes, center of mass, nearest neighbor classification, majority class, nearest neighbors, test document, training set, linear classifiers, linear combination, features, linear decision hyperplanes, bias-variance tradeoff, nonlinear models, linear models, training data, two-class classifiers, one-of tasks, any-of tasks, mutually exclusive classes, tf-idf"
+  },
+  {
+    "section_number": "14.1",
+    "section_name": "Document representations and measures of relatedness in vector spaces",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "document vectors, vectors, length-normalized unit vectors, hypersphere, vector space classifiers, distance, Euclidean distance, distance measure, cosine similarity, length-normalized vectors, vector space classification, similarity, relatedness, centroids, averages of vectors, dot product, unnormalized vectors, kNN classification, nearest neighbors, documents"
+  },
+  {
+    "section_number": "14.2",
+    "section_name": "Rocchio classification",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "classes, documents, decision boundaries, vector space classification, classification accuracy, training, Rocchio classification, centroids, centroid, class boundaries, vector average, center of mass, normalized vector, hyperplane, normal vector, classification rule, Rocchio algorithm, class centroids, tf-idf, vector representations, term weights, distances, test document, separating hyperplane, Euclidean distance, cosine similarity, classification decisions, k-means clustering, Rocchio relevance feedback, relevant documents, Rocchio vector, relevance feedback, query, text classification, contiguity, distribution, prototype, multimodal class, multimodality, two-class classification, false positives, decision rule, time complexity, tokens, types, training time, collection, Naive Bayes, kNN, non-spherical, disconnected, irregular shapes"
+  },
+  {
+    "section_number": "14.3",
+    "section_name": "k nearest neighbor",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "nearest neighbor, kNN classification, 1NN, decision boundary, contiguity hypothesis, test document, training documents, Voronoi tessellation, Voronoi cells, convex polygon, nearest neighbors, majority class, classification decision, incorrectly labeled, atypical, probability of membership, probability estimates, class membership, parameter, held-out portion, training set, cosine similarity, voting, weighting by similarities, time complexity, training, testing, preprocessing, tokenization, vocabulary, number of classes, estimation of parameters, Rocchio classification, centroids, Naive Bayes, priors, conditional probabilities, memory-based learning, instance-based learning, machine learning, classification, accuracy, ad hoc retrieval, similarity, query, inverted index, term overlap, stop list, postings lists, Heaps' law, search time, text classification, Bayes error rate, error rate, noise, noisy features, dimensionality, documents, collection"
+  },
+  {
+    "section_number": "14.4",
+    "section_name": "Linear versus nonlinear classifiers",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "linear classifiers, text classifiers, nonlinear classifiers, two-class classifiers, linear combination, features, threshold, hyperplanes, linearly separable, linear classifier, two-dimensional vector representation, parameter vector, decision boundary, decision hyperplane, linear classification, training, training set, learning methods, effectiveness, Rocchio, Naive Bayes, class centroids, decision rule, log odds, log space, vocabulary, binary vector representation, Reuters-21578, linear problem, class boundary, noise documents, document representation, classification error, representation space, linear separability, linear separators, kNN, nonlinear classifier, decision boundaries, hyperplane, noise feature, learning method, two-class classifier, separating hyperplanes"
+  },
+  {
+    "section_number": "14.5",
+    "section_name": "Classification with more than two classes",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "two-class linear classifiers, classes, mutually exclusive, any-of, multilabel, multivalue classification, document, classification, single class, classifiers, classification problem, any-of classification, linear classifiers, training set, positive labels, negative labels, test document, one-of classification, multinomial, polytomous, multiclass, single-label classification, classification function, kNN, nonlinear, one-of classifier, text classification, any-of problems, one-of assumption, any-of classifiers, combination method, one-of classification with linear classifiers, rank classes, top-ranked class, distances from the linear separators, confidence, probability of class membership, maximum score, maximum confidence value, maximum probability, confusion matrix, accuracy, features"
+  },
+  {
+    "section_number": "14.6",
+    "section_name": "The bias-variance tradeoff",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "nonlinear classifiers, linear classifiers, classification error, bias-variance tradeoff, machine learning, learning method, text classification, feature selection, regularization, margin maximization, training documents, test documents, distribution, generative models, document representation, bag of words model, conditional probability, mean squared error, classifier, labeled training set, learning error, training sets, bias, variance, bias-variance decomposition, overfitting, model complexity, memory capacity, independent parameters, kNN, Rocchio, Naive Bayes, linear SVMs, regularized logistic regression, regularized linear regression, decision boundaries, linear hyperplane, noise documents, training data, high-dimensional spaces, linear separability, test set, classification decisions, class boundary, dimensionality, training set size, evaluation measure, error rate"
+  },
+  {
+    "section_number": "15",
+    "section_name": "Support vector machines and machine learning on documents",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "classifier effectiveness, machine-learning, classifiers, support vector machines, boosted decision trees, regularized logistic regression, neural networks, random forests, SVMs, information retrieval, text classification, large-margin classifier, vector space, machine learning method, decision boundary, training data, two-class data sets, linear classifier, non-separable data, multi-class problems, nonlinear models, SVM performance, text classifiers, domain-specific text features, classification, learning how to rank documents, ad hoc retrieval, training data"
+  },
+  {
+    "section_number": "15.1",
+    "section_name": "Support vector machines: The linearly separable case",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "support vectors, margin, classifier, linear separators, decision boundary, training data, perceptron algorithm, Naive Bayes, SVM, decision surface, data point, vector space, large-margin classification, capacity, decision hyperplane, classification, misclassification, bias-variance tradeoff, generalize, test data, intercept term, weight vector, hyperplane, normal vector, training data points, class label, linear classifier, functional margin, data set, geometric margin, Euclidean distance, unit vector, scaling, quadratic optimization, quadratic programming, QP, dual problem, Lagrange multiplier, primal problem, dot product, classification function, separating hyperplane, projection, confidence threshold, probability of classification, sigmoid, unit hypersphere, support vector machines, linearly separable case"
+  },
+  {
+    "section_number": "15.2",
+    "section_name": "Extensions to the SVM model",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "soft margin classification, text classification, linearly separable, fat decision margin, slack variables, margin requirement, SVM optimization problem, training errors, soft-margin SVMs, training error, margin, regularization term, overfitting, geometric margin, dual problem, Lagrange multipliers, support vector data points, support vectors, dot products, data points, nonlinear case, classifier, training data, testing, SVM, Naive Bayes, Rocchio, kNN, multiclass classification, one-versus-rest classifiers, one-versus-all, OVA classification, one-versus-one classifiers, multiclass SVMs, feature vector, linear classifiers, structural SVMs, higher dimensional space, linear classifier, feature space, kernel trick, kernel function, Mercer kernels, Mercer's condition, positive definite gram matrix, reproducing kernel Hilbert space, Hilbert space, polynomial kernels, radial basis functions, linear kernel, quadratic kernel, Gaussian distribution, string kernels, feature conjunctions, quadratic optimization, cutting plane techniques, QP, nonlinear SVMs, text problems, term features, MI feature selection, microaveraged performance, break-even F, machine learning methods, training complexity, testing complexity, linear SVM, rbf-SVM, decision trees, classification, features, non-zero features, vocabulary"
+  },
+  {
+    "section_number": "15.3",
+    "section_name": "Issues in the classification of text documents",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "text classification, training data, machine learning classifier, labeled training data, hand-written rules, standing queries, Boolean expressions, numeric scores, precision, recall, supervised classifier, high bias, Naive Bayes, nearest neighbor model, semi-supervised training methods, bootstrapping, EM algorithm, labeled documents, unlabeled documents, semi-supervised learning algorithm, transductive SVMs, active learning, annotation costs, linear classifier, SVM, Boolean rule-based classifier, decision trees, classifier performance, scalability, runtime efficiency, feature selection, domain, document collection, zones, subvocabularies, classification effectiveness, category taxonomies, web directories, hierarchical structure, hierarchical classification, leaf classes, voting, bagging, boosting, multiple classifiers, classification accuracy, hybrid automatic/manual solution, high confidence decisions, low confidence decisions, features, ad hoc retrieval, feature engineering, spam filtering, regular expressions, distinguished tokens, feature sparseness, character k-gram features, multiword patterns, mutual information, compound, collocation, named entity recognizers, stemming, lowercasing, test collection, data sparseness, document zones, upweighting, title words, separate feature spaces, tying parameters, text summarization, extracting, positional feature selection methods, keywords, classifier, categories, document classification, machine learning methods, text documents, training data size, development data, regularized models, term, vocabulary, classification schemes, deep hierarchy, feature selection methods, document structure"
+  },
+  {
+    "section_number": "15.4",
+    "section_name": "Machine learning methods in ad hoc information retrieval",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "term weighting, document weighting, relevance signal, cosine score, title match, features, learning problem, classifier, relevant documents, nonrelevant documents, queries, relevance judgment, text classification, classification, machine-learned scoring, scoring function, Boolean indicators of relevance, query term presence, document zones, linear combination, vector space cosine similarity, query terms, minimum window width, query term proximity, proximity weighting, implicit phrases, bag of words, training examples, training set, real-valued predictors, linear classifier, thresholding, linear classification, score functions, training samples, relevance assessments, static quality, PageRank, document age, zone contributions, document length, training document collection, relevance judgments, machine learning classifier, SVM, probability of relevance, decision boundary, classification problems, regression problems, ordinal regression, ranking, ad hoc retrieval, web search, results list, structural SVM, ranking SVM, judged queries, feature differences, ranking functions, IR evaluations, linear weighting, document features, term frequency, idf, log-weighting, nonlinear scaling, feature engineering, machine learned ranking, training document collections, information retrieval"
+  },
+  {
+    "section_number": "16",
+    "section_name": "Flat clustering",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "Clustering, clustering algorithms, documents, clusters, cluster structure, unsupervised learning, classification, supervised learning, partition, distance measure, Euclidean distance, document clustering, flat clustering, hierarchical clustering, hard clustering, soft clustering, hard assignment, soft assignment, fractional membership, latent semantic indexing, dimensionality reduction, information retrieval, cluster quality, k-means, Expectation-Maximization, EM algorithm, document representations, distributions, cluster membership"
+  },
+  {
+    "section_number": "16.1",
+    "section_name": "Clustering in information retrieval",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "cluster hypothesis, clustering, information retrieval, documents, cluster, relevance, information needs, search request, terms, contiguity hypothesis, search result clustering, search results, collection, user interface, effectiveness, efficiency, search system, recall, query, word senses, Scatter-Gather, hierarchical clustering, collection clustering, descriptive labels, cluster-based navigation, keyword searching, browsing, searching, search terms, hierarchical tree, inverted index, cluster-based retrieval, language modeling, collection model, document, occurrence probabilities, vector space model, nearest neighbors, latent semantic indexing, similarity, rank, precision, exploratory browsing, language model, interpolated, sparse data problems"
+  },
+  {
+    "section_number": "16.2",
+    "section_name": "Problem statement",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "hard flat clustering, set of documents, number of clusters, objective function, quality of a clustering, assignment, surjective, similarity, distance, documents, k-means clustering, centroids, similarity measures, distance metrics, relatedness between documents, topic similarity, vector space model, cosine similarity, Euclidean distance, vector space, stop words, clusters, cardinality, clustering, search problem, partitions, flat clustering algorithms, initial partitioning, global optimum, starting point"
+  },
+  {
+    "section_number": "16.3",
+    "section_name": "Evaluation of clustering",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "intra-cluster similarity, inter-cluster similarity, internal criterion, clustering, effectiveness, search result clustering, clustering algorithms, evaluation, evaluation benchmark, gold standard, human judges, inter-judge agreement, external criterion, clustering quality, purity, normalized mutual information, Rand index, F measure, false positive, false negative, accuracy, true positive, true negative, mutual information, entropy, maximum likelihood estimates, probabilities, relative frequency, normalization, number of clusters, contingency table, recall, precision, information retrieval, documents, classes, clusters, partition, class labels, NMI, RI, cardinalities"
+  },
+  {
+    "section_number": "16.4",
+    "section_name": "K-means",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "K-means, flat clustering algorithm, Euclidean distance, documents, cluster centers, mean, centroid, cluster, length-normalized vectors, real-valued space, Rocchio classification, labeled training set, residual sum of squares, RSS, objective function, squared distance, vector, seeds, iterations, reassignment, recomputing, stopping criterion, partitioning function, termination conditions, convergence, local minimum, global minimum, outliers, singleton cluster, empty clusters, seed selection, hierarchical clustering, Buckshot algorithm, initialization methods, time complexity, vector distances, dimensionality, sparse, dense, centroid-document similarities, document-document similarities, truncating centroids, cluster quality, K-medoids, medoids"
+  },
+  {
+    "section_number": "16.4.1",
+    "section_name": "Cluster cardinality in K-means",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "cluster cardinality, K-means, k-means, flat clustering algorithms, number of clusters, objective function, RSS, clusterings, initialization, documents, clustering, knee, external constraint, cluster, penalty, generalized objective function, distortion, prototype, model complexity, model, selection criterion, weighting factor, Akaike Information Criterion, AIC, information-theoretic measure, negative maximum log-likelihood, number of parameters, data point, low distortion, model complexity, centroids, Gaussian mixture, hard assignment, uniform cluster priors, identical spherical covariance matrices, vector space, dimensionality, text clustering, Reuters-RCV1, residual sum of squares, information retrieval"
+  },
+  {
+    "section_number": "16.5",
+    "section_name": "Model-based clustering",
+    "model": "claude-opus-4-6",
+    "extracted_concepts": "k-means, EM algorithm, document representations, distributions, centroids, model, clusters, spherical shape, model-based clustering, assignment of documents to clusters, maximum likelihood, model parameters, log-likelihood, objective function, goodness of the clustering, clustering, assignment probability, document-cluster pair, soft clustering, soft assignment, fractional membership, hard clustering, simultaneous relevance, hierarchical algorithms, multivariate Bernoulli distributions, mixture model, prior, conditional parameters, maximum likelihood estimates, expectation step, maximization step, reassignment, recomputation, Bernoulli Naive Bayes classification, normalization, probability distribution over clusters, convergence, local optima, seeds, initial assignment, document, term, lexical parameters, clustering model, RSS, likelihood, probabilistic modeling, classification, smoothing, hard assignment, iteration"
+  }
+]
