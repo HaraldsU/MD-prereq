@@ -1,8 +1,0 @@
-[
-  {
-    "section_number": "1",
-    "section_name": "Boolean retrieval",
-    "model": "claude-haiku-4-5",
-    "extracted_concepts": "Information retrieval, documents, text, information need, collections, unstructured data, structured data, relational database, semistructured search, clustering, classification, web search, indexing, hypertext, personal information retrieval, text classification, spam filter, enterprise search, institutional search, domain-specific search, term-document matrix, inverted index, Boolean retrieval model, Boolean queries"
-  }
-]
