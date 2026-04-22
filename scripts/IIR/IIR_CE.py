@@ -13,119 +13,99 @@ import string
 import os
 import time
 
-def call_antrophic_api(section_name: str, section_text: str) -> str:
-# {{{
-    TEMPLATE = ''
-    client = Anthropic()
-
-    # Zero-shotting /w domain context:
-    TEMPLATE = '<instructions> From the provided text in the input, give me a list of all the concepts that are present in the text and are relevant to the domain of "Information Retrieval (IR)" in the sub-context of "' + section_name + '". </instructions> <example> For example, consider this sentence: "Tokenization is the task of chopping it up into pieces, called tokens, perhaps at the same time throwing away certain characters, such as punctuation." In this example, "Tokenization" and "tokens" are domain concepts, but characters and punctuation are not. </example> <instructions> Formatting rules: respond only with a comma and 1-space separated list of the relevant concepts. If the concept itself contains any commas, write out the concept without the commas. Do not include any additional information or formatting in your response. </instructions> <input> ' + section_text + ' </input>'
-
-    if METHOD == 'ONE-SHOT': 
-        # One-shotting /w domain context
-        TEMPLATE = '<instructions> From the provided text in the input, give me a list of all the concepts that are present in the text and are relevant to the domain of "Information Retrieval (IR)" in the sub-context of "' + section_name + '". </instructions> <example> For example, consider this sentence: "Tokenization is the task of chopping it up into pieces, called tokens, perhaps at the same time throwing away certain characters, such as punctuation." In this example, "Tokenization" and "tokens" are domain concepts, but characters and punctuation are not. </example> <instructions> Formatting rules: respond only with a comma and 1-space separated list of the relevant concepts. If the concept itself contains any commas, write out the concept without the commas. Do not include any additional information or formatting in your response. </instructions> <input> ' + section_text + ' </input>'
-
-        # Wikipedia context
-        # TEMPLATE = '<instructions> From the provided text in the input, give me a list of all the concepts that are present in the text and are relevant to the domain of "Information Retrieval (IR)" in the sub-context of "' + section_name + '". Think of concepts as topics notable enough to warrant their own Wikipedia article. </instructions> <example> For example, consider this sentence: "Tokenization is the task of chopping it up into pieces, called tokens, perhaps at the same time throwing away certain characters, such as punctuation." In this example, "Tokenization" and "tokens" are domain concepts, but characters and punctuation are not. </example> <instructions> Formatting rules: respond only with a comma and 1-space separated list of the relevant concepts. If the concept itself contains any commas, write out the concept without the commas. Do not include any additional information or formatting in your response. </instructions> <input> ' + section_text + ' </input>'
-
-        # Concept definition context
-        # TEMPLATE = '<instructions> From the provided text in the input, give me a list of all the concepts that are present in the text and are relevant to the domain of "Information Retrieval (IR)" in the sub-context of "' + section_name + '". A concept is a word or a phrase that describes a useful idea to people and which taxonomically belongs to a particular field of knowledge. </instructions> <example> For example, consider this sentence: "Tokenization is the task of chopping it up into pieces, called tokens, perhaps at the same time throwing away certain characters, such as punctuation." In this example, "Tokenization" and "tokens" are domain concepts, but characters and punctuation are not. </example> <instructions> Formatting rules: respond only with a comma and 1-space separated list of the relevant concepts. If the concept itself contains any commas, write out the concept without the commas. Do not include any additional information or formatting in your response. </instructions> <input> ' + section_text + ' </input>'
-
-        # OLD
-        # TEMPLATE = '<instructions> From the provided text give me a list of ALL OF THE CONCEPTS that are IN THE PROVIDED TEXT that are relevant to the domain of "Information Retrieval (IR)" in the sub-context of "' + section_name + '". </instructions> <example> For example, consider this sentence: "Tokenization is the task of chopping it up into pieces, called tokens, perhaps at the same time throwing away certain characters, such as punctuation". In this example, Tokenization and tokens are domain concepts, but characters and punctuation are not. </example> <instructions> Formatting rules: Respond only with a comma AND 1 space SEPARATED list of the relevant concepts. If the concept itself contains any commas, write out the concept without the commas. Do not include any additional information or formatting to your response. </instructions> <input> ' + section_text + ' </input>'
-
-    # Claude doesn't have temperature (deprecated)
-    kwargs = {
-        "max_tokens": int(MAX_TOKENS),
-        "messages": [{"role": "user", "content": TEMPLATE}],
-        "model": MODEL,
-    }
-
-    if SYSTEM_PROMPT == "SYSTEM-PROMPT-YES":
-        kwargs["system"] = "You are a highly specialized expert in Information Retrieval (IR) and very skilful at extracting concepts from texts."
-
-    message = client.messages.create(**kwargs)
-
-    print('API CALL SUCCESSFUL !!!')
-    print()
-    # print(message.content)
-    return message.content[0].text
-
-    # response = client.messages.count_tokens(
-    # model='claude-haiku-4-5-20251001',
-    # messages=[
-    #     {'role': 'user', 'content': 'Hello, Claude. Explain attention in 3 sentences.'}
-    # ],
-    # )
-    # print(response.input_tokens)
-# }}}
-
 def call_openrouter_api(section_name: str, section_text: str) -> str:
 # {{{
     TEMPLATE = generate_template(section_name, section_text) 
 
+    # if 'gemma' in MODEL or 'oss' in MODEL:
+        # api_url = ''
+# 
+        # if 'gemma' in MODEL:
+            # api_url = os.getenv('API_URL_GEMMA')
+        # elif 'oss' in MODEL:
+            # api_url = os.getenv('API_URL_OSS')
+# 
+        # client = OpenAI(
+            # base_url = api_url,
+            # api_key = 'any_key'
+        # )
+    # else:
     client = OpenAI(
         base_url = 'https://openrouter.ai/api/v1',
-        api_key = os.getenv("OPENROUTER_API_KEY"),
+        api_key = os.getenv('OPENROUTER_API_KEY'),
     )
 
     kwargs = {
-        "max_tokens": int(MAX_TOKENS),
-        "messages": [],
-        "model": MODEL,
+        'max_tokens': int(MAX_TOKENS),
+        'messages': [],
+        'model': MODEL,
+        'temperature': 1,
     }
 
-    if SYSTEM_PROMPT == "SYSTEM-PROMPT-YES":
-        kwargs["messages"].append({
-            "role": "system",
-            "content": "You are a highly specialized expert in Information Retrieval (IR) and very skilful at extracting concepts from texts."
+    if SYSTEM_PROMPT == 'SYSTEM-PROMPT-YES':
+        kwargs['messages'].append({
+            'role': 'system',
+            'content': f'You are a specialized assistant for extracting {PROMPT_TYPE.lower()} from texts. You are precise, analytical, and persistent.'
         })
 
-    kwargs["messages"].append({"role": "user", "content": TEMPLATE})
-    response = client.chat.completions.create(**kwargs)
+    kwargs['messages'].append({'role': 'user', 'content': TEMPLATE})
+    attempts = 5
 
-    print('API CALL SUCCESSFUL !!!')
-    print()
+    for attempt in range(attempts):
+        response = client.chat.completions.create(
+            **kwargs,
+            extra_body = {
+                'reasoning': {'enabled': False}
+            },
+        )
+        result = response.choices[0].message.content
 
-    return response.choices[0].message.content
-# }}}
+        if result is not None:
+            return result
 
-def call_openai_api(section_name: str, section_text: str) -> str:
-# {{{
-    TEMPLATE = 'From the provided text give me a list of ALL OF THE CONCEPTS that are IN THE PROVIDED TEXT that are relevant to the domain of "Information Retrieval (IR)" in the sub-context of "' + section_name + '". For example, consider this sentence: "Tokenization is the task of chopping it up into pieces, called tokens, perhaps at the same time throwing away certain characters, such as punctuation". In this example, Tokenization and tokens are domain concepts, but characters and punctuation are not. Formatting rules: Respond only with a comma AND 1 space SEPARATED list of the relevant concepts. If the concept itself contains any commas, write out the concept without the commas. Do not include any additional information or formatting to your response. ###' + section_text + '###'
+        print(f'Attempt {attempt + 1}/{attempts} returned None, retrying...')
 
-    api_url = ''
-    model = ''
+    raise ValueError(f'API returned None after 3 attempts for section: {section_name}')
 
-    if 'gemma' in MODEL:
-        api_url = os.getenv('API_URL_GEMMA')
-        model = 'google/gemma-3-27b-it'
-    elif 'oss' in MODEL:
-        api_url = os.getenv('API_URL_OSS')
-        model = 'openai/gpt-oss-120b'
-
-    client = OpenAI(
-        base_url = api_url,
-        api_key = 'any_key'
-    )
-
-    response = client.chat.completions.create(
-        messages = [{'role': 'user', 'content': TEMPLATE}],
-        max_tokens = int(MAX_TOKENS),
-        reasoning_effort = 'low',
-        temperature = 0.2,
-        model = model
-    )
-
-    print(response.choices[0].message.content)
-    return response.choices[0].message.content
+    # print('API CALL SUCCESSFUL !!!')
+    # print()
 # }}}
 
 def generate_template(section_name: str, section_text: str) -> str:
 # {{{
-    default_template = '<instructions>\nFrom the provided text in the input, give me a list of all the concepts that are present in the text.\n</instructions>\n<format>\nRespond only with a comma and 1-space separated list of the relevant concepts. If the concept itself contains any commas, write out the concept without the commas. Do not include any additional information or formatting in your response.\n</format>\n<input>\n' + section_text + '\n</input>'
+    word = PROMPT_TYPE.lower()
+    instructions = f'<instructions>\nExtract all {word} present in the input text.\n</instructions>\n'
+    format = (
+        f'<format>\nRespond only with a comma and 1-space separated list of the relevant {word}. '
+        f'If the {word[:-1]} itself contains any commas, write out the {word[:-1]} without the commas. '
+        f'Do not include any additional information or formatting in your response.\n</format>\n'
+    )
+    input = f'<input>\n{section_text}\n</input>'
+    context = f'<context>\nAll of the extracted {word} should be related to the domain of "information retrieval".\n</context>\n'
+    template = instructions + context + format + input
 
-    template = default_template
+    if PROMPT_METHOD == 'ZERO-SHOT':
+        definition = ''
+
+        if DOMAIN_CONTEXT == 'DOMAIN-SUBCONTEXT-YES':
+            context = f'<context>\nAll of the extracted {word} should be related to the domain of "information retrieval" in the subcontext of "{section_name}".\n</context>\n'
+        elif CONCEPT_DEFINITION == 'CONCEPT-DEFINITION-YES':
+            definition = f'<definition>\nA {word[:-1]} is a word or a phrase that describes a useful idea to people and which taxonomically belongs to a particular domain.\n</definition>\n'
+        elif CONCEPT_DEFINITION == 'CONCEPT-DEFINITION-WIKIPEDIA':
+            definition = f'<definition>\nConsider {word} as topics notable enough to warrant their own Wikipedia article.\n</definition>\n'
+
+        template = instructions + definition + context + format + input
+    elif PROMPT_METHOD == 'FEW-SHOT':
+        examples = ''
+
+        if SHOT_TYPE == 'ONE-SHOT':
+            examples = f'<example>\nSentence: "The meaning of the term information retrieval can be very broad."\n{word.capitalize()}: "term, information retrieval"\n</example>\n'
+        elif SHOT_TYPE == 'THREE-SHOT':
+            examples = f'<examples>\n1) Sentence: "The meaning of the term information retrieval can be very broad."\n{word.capitalize()}: "term, information retrieval"\n2) Sentence: "Just getting a credit card out of your wallet so that you can type in the card number is a form of information retrieval."\n{word.capitalize()}: "information retrieval"\n3) Sentence: "However, as an academic field of study, information retrieval might be defined thus: Information retrieval (IR) is finding material (usually documents) of an unstructured nature (usually text) that satisfies an information need from within large collections (usually stored on computers)."\n{word.capitalize()}: "information retrieval, IR, documents, information need, collection"\n</examples>\n'
+        elif SHOT_TYPE == 'FIVE-SHOT':
+            examples = f'<examples>\n1) Sentence: "The meaning of the term information retrieval can be very broad."\n{word.capitalize()}: "term, information retrieval"\n2) Sentence: "Just getting a credit card out of your wallet so that you can type in the card number is a form of information retrieval."\n{word.capitalize()}: "information retrieval"\n3) Sentence: "However, as an academic field of study, information retrieval might be defined thus: Information retrieval (IR) is finding material (usually documents) of an unstructured nature (usually text) that satisfies an information need from within large collections (usually stored on computers)."\n{word.capitalize()}: "information retrieval, IR, documents, information need, collection"\n4) Sentence: "As defined in this way, information retrieval used to be an activity that only a few people engaged in: reference librarians, paralegals, and similar professional searchers."\n{word.capitalize()}: "information retrieval"\n5) Sentence: "Now the world has changed, and hundreds of millions of people engage in information retrieval every day when they use a web search engine or search their email."\n{word.capitalize()}: "information retrieval"\n</examples>\n'
+
+        template = instructions + context + examples + format + input
 
     return template
 # }}}
@@ -144,7 +124,6 @@ def load_and_predict_IIR():
     for section, gt_path in zip(iir_sections_obj, iir_gt_paths):
     # {{{
         section_number = section['section_number']
-        # print('section_number = ', section_number)
         
         if section_number in SECTIONS or SECTIONS == [0]:
             section_name = section['section_name']
@@ -152,13 +131,11 @@ def load_and_predict_IIR():
             print(section_number, section_name)
 
             prediction = call_openrouter_api(section_name, section_text)
-            # if 'claude' in MODEL:
-                # prediction = call_antrophic_api(section_name, section_text)
-            # else:
-                # prediction = call_openai_api(section_name, section_text)
+            # prediction = call_openai_api(section_name, section_text)
 
             # prediction = sorted(normalize_words(prediction.split(', ')))
-            prediction = sorted(prediction.split(', '))
+            # prediction = sorted(prediction.split(', '))
+            prediction = sorted([c.strip() for c in prediction.split(',')])
             ground_truth = []
 
             with open(gt_path, 'r') as f:
@@ -194,32 +171,39 @@ def load_and_predict_IIR():
     print('Predicting finished, saving to file:\noutputs/' + PATH_PREFIX + 'predictions.json')
 # }}}
 
-def write_json(predictions, type: str):
+def write_json(predictions, type: str, file_name = ''):
 # {{{
-    with open('outputs/' + PATH_PREFIX + type + '.json', 'w') as f:
-        json.dump(predictions, f, indent = 2)
+    if file_name != '':
+        with open(str(OUTPUTS_PATH) + '/' + file_name, 'w') as f:
+            json.dump(predictions, f, indent = 2)
+    else:
+        with open('outputs/' + PATH_PREFIX + type + '.json', 'w') as f:
+            json.dump(predictions, f, indent = 2)
 # }}}
 
-def evaluate_IIR():
+def evaluate_IIR(path = '', file_name = ''):
 # {{{
     print('--- Evaluations ---')
-    predictions_filename = PATH_PREFIX + 'predictions.json'
-    predictions_json_path = (OUTPUTS_PATH / predictions_filename).expanduser()
+    if path != '':
+        predictions_json_path = path
+    else:
+        predictions_filename = PATH_PREFIX + 'predictions.json'
+        predictions_json_path = (OUTPUTS_PATH / predictions_filename).expanduser()
     
     evaluation = []
     count = 0
     section_text_count_total = 0
 
-    normalized_gt_concept_total = 0
-    normalized_predicted_concept_total = 0
+    gtc_normalized_total = 0
+    pc_normalized_total = 0
 
     prec_total = 0.0
     rec_total = 0.0
     f1_total = 0.0
 
-    prec_total_sem = 0.0
-    rec_total_sem = 0.0
-    f1_total_sem = 0.0
+    sem_prec_total = 0.0
+    sem_rec_total = 0.0
+    sem_f1_total = 0.0
 
     with open(predictions_json_path, 'r') as o:
     # {{{
@@ -229,14 +213,17 @@ def evaluate_IIR():
             section_number = prediction['section_number']
 
             if section_number in SECTIONS or SECTIONS == [0]:
-                predictions = set(normalize_words(prediction['predicted_concepts (pc)']))
-                ground_truth = set(normalize_words(prediction['ground_truth_concepts (gtc)']))
+                predictions_normalized = set(normalize_words(prediction['predicted_concepts (pc)']))
+                ground_truth_normalized = set(normalize_words(prediction['ground_truth_concepts (gtc)']))
 
-                normalized_predicted_concept_total += len(predictions)
-                normalized_gt_concept_total += len(ground_truth)
+                predictions_stemmed = set(stem_words(list(predictions_normalized)))
+                ground_truth_stemmed = set(stem_words(list(ground_truth_normalized)))
 
-                prec, rec, f1 = calc_statistical_metrics(predictions, ground_truth)
-                prec_sem, rec_sem, f1_sem = calc_semantical_metrics(list(predictions), list(ground_truth))
+                pc_normalized_total += len(predictions_normalized)
+                gtc_normalized_total += len(ground_truth_normalized)
+
+                prec, rec, f1 = calc_exact_metrics(predictions_stemmed, ground_truth_stemmed)
+                prec_sem, rec_sem, f1_sem = calc_semantical_metrics(list(predictions_normalized), list(ground_truth_normalized))
                 # print(f'{prediction['section_number']} {prediction['section_name']}: p={prec:.3f} r={rec:.3f} f1={f1:.3f}')
                 # print()
 
@@ -244,9 +231,9 @@ def evaluate_IIR():
                 rec_total += rec
                 f1_total += f1
 
-                prec_total_sem += prec_sem
-                rec_total_sem += rec_sem
-                f1_total_sem += f1_sem
+                sem_prec_total += prec_sem
+                sem_rec_total += rec_sem
+                sem_f1_total += f1_sem
 
                 count += 1
                 section_text_count_total += prediction['section_text_count']
@@ -254,13 +241,13 @@ def evaluate_IIR():
                 evaluation.append({
                         'section_number': prediction['section_number'],
 
-                        'precision': round(prec, 3),
-                        'recall': round(rec, 3),
-                        'F1': round(f1, 3),
+                        'precision': prec,
+                        'recall': rec,
+                        'F1': f1,
 
-                        'sem_precision': round(prec_sem, 3),
-                        'sem_recall': round(rec_sem, 3),
-                        'sem_F1': round(f1_sem, 3),
+                        'sem_precision': prec_sem,
+                        'sem_recall': rec_sem,
+                        'sem_F1': f1_sem,
 
                         'pc_count': prediction['pc_count'],
                         'pc_count_to_text_len_ratio (%)': prediction['pc_count_to_text_len_ratio (%)'],
@@ -271,35 +258,37 @@ def evaluate_IIR():
                     })
         # }}}
 
-    predicted_concept_total, predicted_concept_unique_total = count_predicted_concepts(str(predictions_json_path))
-    gt_concept_total, gt_concept_unique_total = count_ground_truth_concepts()
+    pc_total, pc_unique_total = count_predicted_concepts(str(predictions_json_path))
+    gtc_total, gtc_unique_total = count_ground_truth_concepts()
 
     evaluation.append({
             'section_number': 'average',
 
-            'precision': round(prec_total / count, 3),
-            'recall': round(rec_total / count, 3),
-            'F1': round(f1_total / count, 3),
+            'precision_M': round(prec_total / count, 3),
+            'recall_M': round(rec_total / count, 3),
+            'F1_M': round(f1_total / count, 3),
 
-            'sem_precision': round(prec_total_sem / count, 3),
-            'sem_recall': round(rec_total_sem / count, 3),
-            'sem_F1': round(f1_total_sem / count, 3),
+            'sem_precision_M': round(sem_prec_total / count, 3),
+            'sem_recall_M': round(sem_rec_total / count, 3),
+            'sem_F1_M': round(sem_f1_total / count, 3),
 
-            'predicted_concept_total': predicted_concept_total,
-            'predicted_concept_unique_total': predicted_concept_unique_total,
-            'normalized_predicted_concept_total': normalized_predicted_concept_total,
+            'pc_total': pc_total,
+            'pc_unique_total': pc_unique_total,
+            'pc_normalized_total': pc_normalized_total,
 
-            'gt_concept_total': gt_concept_total,
-            'gt_concept_unique_total': gt_concept_unique_total,
-            'normalized_gt_concept_total': normalized_gt_concept_total,
+            'gtc_total': gtc_total,
+            'gtc_unique_total': gtc_unique_total,
+            'gtc_normalized_total': gtc_normalized_total,
+
+            'gtc_pc_normalized_total_diff': gtc_normalized_total - pc_normalized_total,
 
             'section_text_count_total': section_text_count_total
-        })
+    })
 
     print(f'Average: p={(prec_total / count):.3f} r={(rec_total / count):.3f} F1:{(f1_total / count):.3f}')
-    print(f'Average (sem): p_sem={(prec_total_sem / count):.3f} r_sem={(rec_total_sem / count):.3f} F1_sem:{(f1_total_sem / count):.3f}')
+    print(f'Average (sem): p_sem={(sem_prec_total / count):.3f} r_sem={(sem_rec_total / count):.3f} F1_sem:{(sem_f1_total / count):.3f}')
 
-    write_json(evaluation, 'evaluation')
+    write_json(evaluation, 'evaluation', file_name)
     print('Evaluation finished, saving to file:\noutputs/' + PATH_PREFIX + 'evaluation.json')
 # }}}
 
@@ -319,6 +308,7 @@ def get_IIR_ground_truth_paths() -> list[str]:
                     iir_csvs.append(str(file))
 
     iir_csvs.sort(key=lambda f: tuple(int(x) for x in re.match(pattern, Path(f).name).group(1).split('.')))
+
     return iir_csvs
 # }}}
 
@@ -328,13 +318,25 @@ def normalize_words(words: list[str]) -> list[str]:
 
     for word in words:
         cleaned = ' '.join(re.sub(f'[{re.escape(string.punctuation)}]', ' ', word).lower().split())
-        stemmed = ' '.join(stemmer.stem(w) for w in cleaned.split())
+        result.append(cleaned)
+        # stemmed = ' '.join(stemmer.stem(w) for w in cleaned.split())
+        # result.append(stemmed)
+
+    return result
+# }}}
+
+def stem_words(words: list[str]) -> list[str]:
+# {{{
+    result: list[str] = []
+
+    for word in words:
+        stemmed = ' '.join(stemmer.stem(w) for w in word.split())
         result.append(stemmed)
 
     return result
 # }}}
 
-def calc_statistical_metrics(predicted: set[str], ground_truth: set[str]) -> tuple[float, float, float]:
+def calc_exact_metrics(predicted: set[str], ground_truth: set[str]) -> tuple[float, float, float]:
 # {{{
     tp = len(predicted & ground_truth)
     fp = len(predicted - ground_truth)
@@ -342,26 +344,26 @@ def calc_statistical_metrics(predicted: set[str], ground_truth: set[str]) -> tup
     
     precision = tp / (tp + fp) if (tp + fp) else 0.0
     recall = tp / (tp + fn) if (tp + fn) else 0.0
-    # f1 = (2 * precision * recall / (precision + recall) if (precision + recall) else 0.0)
-    f1 = (2 * tp) / (2 * tp + fp + fn) if (2 * tp + fp + fn) else 0.0
+    f1 = (2 * tp) / ((2 * tp) + fp + fn) if ((2 * tp) + fp + fn) else 0.0
     
-    return precision, recall, f1
+    return round(precision, 3), round(recall, 3), round(f1, 3)
 # }}}
 
 def calc_semantical_metrics(predicted: list[str], ground_truth: list[str]):
 # {{{
-    # emb_pred_sem = SENTENCE_MODEL.encode(predicted, normalize_embeddings = True, compression_ratio = 0.5)
+    # emb_predictions_sem = SENTENCE_MODEL.encode(predicted, normalize_embeddings = True, compression_ratio = 0.5)
     # emb_gt_sem = SENTENCE_MODEL.encode(ground_truth, normalize_embeddings = True, compression_ratio = 0.5)
-    emb_pred_sem = SIM_MODEL.encode(predicted)
-    emb_gt_sem = SIM_MODEL.encode(ground_truth)
 
-    sem = SIM_MODEL.similarity(emb_pred_sem, emb_gt_sem)
-    prec_sem = sem.amax(dim = 1).mean().item()
-    rec_sem = sem.amax(dim = 0).mean().item()
-    f1_sem = 2 * prec_sem * rec_sem / (prec_sem + rec_sem)
-    # print(f'Greedy list similarity: p={prec_sem:.3f}  r={rec_sem:.3f}  f1={f1_sem:.3f}')
+    sem_emb_predictions = SIM_MODEL.encode(predicted)
+    sem_emb_gt = SIM_MODEL.encode(ground_truth)
+    # predictions (dim = 0) X gt (dim = 1)
+    sem = SIM_MODEL.similarity(sem_emb_predictions, sem_emb_gt).clamp(min = 0)
 
-    return prec_sem, rec_sem, f1_sem
+    sem_p = sem.amax(dim = 1).mean().item()
+    sem_r = sem.amax(dim = 0).mean().item()
+    sem_f1 = (2 * sem_p * sem_r) / (sem_p + sem_r)
+
+    return round(sem_p, 3), round(sem_r, 3), round(sem_f1, 3)
 # }}}
 
 def count_ground_truth_concepts() -> tuple[int, int]:
@@ -387,9 +389,6 @@ def count_ground_truth_concepts() -> tuple[int, int]:
                         all_concepts += 1
                 
     return all_concepts, len(unique_concepts)
-    # print('Annotator threshold=', threshold)
-    # print('Number of all concepts =', count)
-    # print('Number of unique concepts =', len(all))
 # }}}
 
 def count_predicted_concepts(path: str) -> tuple[int, int]:
@@ -404,9 +403,39 @@ def count_predicted_concepts(path: str) -> tuple[int, int]:
             concepts = prediction['predicted_concepts (pc)']
             all_concepts += len(concepts)
             unique_concepts.update(concepts)
-            # print(prediction['section_number'])
 
     return all_concepts, len(unique_concepts)
+# }}}
+
+def print_parameters():
+# {{{
+    print()
+    print('MODEL = ' + MODEL)
+    print('MAX_TOKENS = ' + MAX_TOKENS)
+    print('PROMPT_METHOD = ' + PROMPT_METHOD)
+    print('PROMPT_TYPE = ' + PROMPT_TYPE)
+    print('TIMESTAMP = ' + TIMESTAMP)
+    print('DOMAIN_CONTEXT = ' + DOMAIN_CONTEXT)
+    print('CONCEPT_DEFINITION = ' + CONCEPT_DEFINITION)
+    print('SYSTEM PROMPT = ' + SYSTEM_PROMPT)
+    print('NORMALIZATION = ' + NORMALIZATION)
+    print('CONSENSUS = ' + CONSENSUS)
+    print()
+# }}}
+
+def fix_rounding_errors(folder_path: Path):
+# {{{
+    pattern = r'.*predictions.json'
+
+    for file in folder_path.iterdir():
+        reg = re.match(pattern, file.name)
+
+        if reg:
+            file_path = str(folder_path) + '/' + file.name
+            # print(file.name)
+            # print(file_path)
+            # print(str(OUTPUTS_PATH) + '/' + file.name)
+            evaluate_IIR(file_path, file.name)
 # }}}
 
 # --- Paths ---
@@ -415,28 +444,64 @@ IIR_FOLDER_PATH = Path('~/Downloads/prereq/datasets/IIR-dataset/annotation').exp
 OUTPUTS_PATH = Path('~/Downloads/prereq/scripts/IIR/outputs/').expanduser()
 
 # --- Models ---
-# MODEL = 'claude-opus-4-6'
-# MODEL = 'claude-sonnet-4-6'
 # MODEL = 'claude-haiku-4-5'
-# MODEL = 'gemma-3-27b-it'
-# MODEL = 'gpt-oss-120b'
-MODEL = 'xiaomi/mimo-v2-flash'
 
+# MODEL = ''
+# MODELS = ['google/gemma-3-27b-it', 'xiaomi/mimo-v2-flash', 'deepseek/deepseek-v3.2', 'x-ai/grok-4.1-fast', 'moonshotai/kimi-k2.5', 'z-ai/glm-4.7', 'google/gemini-3-flash-preview']
+# MODELS = ['x-ai/grok-4.1-fast', 'z-ai/glm-4.7', 'google/gemini-3-flash-preview']
 
+# MODEL = 'google/gemma-3-27b-it'
+# MODEL = 'openai/gpt-oss-120b'
+# MODEL = 'xiaomi/mimo-v2-flash'
+# MODEL = 'deepseek/deepseek-v3.2'
+# MODEL = 'x-ai/grok-4.1-fast'
+# MODEL = 'moonshotai/kimi-k2.5'
+# MODEL = 'z-ai/glm-4.7'
+MODEL = 'google/gemini-3-flash-preview'
+
+# MODEL = 'openai/gpt-5-mini' # Mandatory reasoning
+# MODEL = 'minimax/minimax-m2.5' # Mandatory reasoning
+
+# Static
 MAX_TOKENS = '1024'
-# MAX_TOKENS = '2048'
-# MAX_TOKENS = '4096'
+SYSTEM_PROMPT = 'SYSTEM-PROMPT-YES'
+CONSENSUS = 'THREE'
+NORMALIZATION = 'STEMMED'
+stemmer = SnowballStemmer('english')
 
 # --- Methods ---
-# METHOD = 'ZERO-SHOT'
-METHOD = 'ONE-SHOT'
+# PROMPT_METHOD = 'ZERO-SHOT'
+PROMPT_METHOD = 'FEW-SHOT'
+
+# SHOT_TYPE = 'ONE-SHOT'
+# SHOT_TYPE = 'THREE-SHOT'
+# SHOT_TYPE = 'FIVE-SHOT'
+SHOT_TYPE = ''
+SHOT_TYPES = ['ONE-SHOT', 'THREE-SHOT', 'FIVE-SHOT']
+
+# PROMPT_TYPE = 'CONCEPTS'
+# PROMPT_TYPE = 'KEYWORDS'
+# PROMPT_TYPE = 'KEYPHRASES'
+PROMPT_TYPE = 'TERMS'
+# PROMPT_TYPE = ''
+# PROMPT_TYPES = ['CONCEPTS', 'KEYWORDS', 'KEYPHRASES', 'TERMS']
+# PROMPT_TYPES = ['CONCEPTS', 'TERMS']
+
 DOMAIN_CONTEXT = 'DOMAIN-CONTEXT-YES'
+# DOMAIN_CONTEXT = 'DOMAIN-SUBCONTEXT-YES'
 # DOMAIN_CONTEXT = 'DOMAIN-CONTEXT-NO'
-SYSTEM_PROMPT = 'SYSTEM-PROMPT-YES'
+# DOMAIN_CONTEXT = ''
+# DOMAIN_CONTEXTS = ['DOMAIN-CONTEXT-YES', 'DOMAIN-SUBCONTEXT-YES']
+
+CONCEPT_DEFINITION = 'CONCEPT-DEFINITION-NO'
+# CONCEPT_DEFINITION = 'CONCEPT-DEFINITION-YES'
+# CONCEPT_DEFINITION = 'CONCEPT-DEFINITION-WIKIPEDIA'
+# CONCEPT_DEFINITION = ''
+# CONCEPT_DEFINITIONS = ['CONCEPT-DEFINITION-YES', 'CONCEPT-DEFINITION-WIKIPEDIA']
 
 # --- Timestamps ---
 TIMESTAMP = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
-# TIMESTAMP = '2026-04-11_04-31-20' # For testing
+# TIMESTAMP = '2026-04-20_04-49-06' # For testing
 
 # --- Sections ---
 # SECTIONS = ['4.4']
@@ -445,12 +510,6 @@ TIMESTAMP = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
 SECTIONS = [0] # All sections
 
 # --- Other ---
-NORMALIZATION = 'STEMMED'
-# CONSENSUS = 'ONE'
-# CONSENSUS = 'TWO'
-CONSENSUS = 'THREE'
-stemmer = SnowballStemmer('english')
-
 # SENTENCE_MODEL = SentenceTransformer(
     # 'infgrad/Jasper-Token-Compression-600M',
     # processor_kwargs={
@@ -467,23 +526,55 @@ stemmer = SnowballStemmer('english')
 # SENTENCE_MODEL = SentenceTransformer('sentence-transformers/LaBSE')
 SIM_MODEL = SentenceTransformer('uclanlp/keyphrase-mpnet-v1')
 
-PATH_PREFIX = MODEL.replace('/', '-') + '_' + MAX_TOKENS + '_' + METHOD + '_' + DOMAIN_CONTEXT + '_' + SYSTEM_PROMPT + '_' + CONSENSUS + '-CONSENSUS_' + NORMALIZATION + '_' + TIMESTAMP + '_'
-
-print('TIMESTAMP = ' + TIMESTAMP)
-print('MODEL = '+ MODEL)
-print('MAX_TOKENS = '+ MAX_TOKENS)
-print('METHOD = '+ METHOD)
-print('DOMAIN_CONTEXT = '+ DOMAIN_CONTEXT)
-print('SYSTEM PROMPT = '+ SYSTEM_PROMPT)
-print('NORMALIZATION = '+ NORMALIZATION)
-print('CONSENSUS = '+ CONSENSUS)
-print()
-
 start = time.time()
-
 load_dotenv()
-load_and_predict_IIR() # Makes API calls
-evaluate_IIR()
+
+# {{{
+# for i in range(len(MODELS)):
+# for i in range(1, len(MODELS)):
+    # MODEL = MODELS[i]
+# 
+    # for j in range(len(PROMPT_TYPES)):
+    # # for j in range(0, 1):
+        # PROMPT_TYPE = PROMPT_TYPES[j]
+        # PATH_PREFIX = MODEL.replace('/', '-') + '_' + MAX_TOKENS + '_' + PROMPT_METHOD + '_' + PROMPT_TYPE + '_' + DOMAIN_CONTEXT + '_' + SYSTEM_PROMPT + '_' + CONSENSUS + '-CONSENSUS_' + NORMALIZATION + '_' + TIMESTAMP + '_'
+# 
+        # print_parameters()
+        # load_and_predict_IIR() # Makes API calls
+        # evaluate_IIR()
+# }}}
+
+# {{{
+# for i in range (len(MODELS)):
+    # MODEL = MODELS[i]
+    # CONCEPT_DEFINITION = 'CONCEPT-DEFINITION-NO'
+    # DOMAIN_CONTEXT = 'DOMAIN-SUBCONTEXT-YES'
+for i in range(len(SHOT_TYPES)):
+    SHOT_TYPE = SHOT_TYPES[i]
+    PATH_PREFIX = MODEL.replace('/', '-') + '_' + MAX_TOKENS + '_' + PROMPT_METHOD + '_' + SHOT_TYPE + '_' + PROMPT_TYPE + '_' + DOMAIN_CONTEXT + '_' + CONCEPT_DEFINITION + '_' + SYSTEM_PROMPT + '_' + CONSENSUS + '-CONSENSUS_' + NORMALIZATION + '_' + TIMESTAMP + '_'
+
+    print_parameters()
+    load_and_predict_IIR() # Makes API calls
+    evaluate_IIR()
+    # print(generate_template('TEST1', 'TEST2'))
+
+    # DOMAIN_CONTEXT = 'DOMAIN-CONTEXT-YES'
+
+    # for k in range (len(CONCEPT_DEFINITIONS)):
+        # CONCEPT_DEFINITION = CONCEPT_DEFINITIONS[k]
+        # PATH_PREFIX = MODEL.replace('/', '-') + '_' + MAX_TOKENS + '_' + PROMPT_METHOD + '_' + PROMPT_TYPE + '_' + DOMAIN_CONTEXT + '_' + CONCEPT_DEFINITION + '_' + SYSTEM_PROMPT + '_' + CONSENSUS + '-CONSENSUS_' + NORMALIZATION + '_' + TIMESTAMP + '_'
+# 
+        # load_and_predict_IIR() # Makes API calls
+        # evaluate_IIR()
+        # # print(generate_template('TEST1', 'TEST2'))
+# }}}
+
+# PATH_PREFIX = MODEL.replace('/', '-') + '_' + MAX_TOKENS + '_' + PROMPT_METHOD + '_' + PROMPT_TYPE + '_' + DOMAIN_CONTEXT + '_' + CONCEPT_DEFINITION + '_' + SYSTEM_PROMPT + '_' + CONSENSUS + '-CONSENSUS_' + NORMALIZATION + '_' + TIMESTAMP + '_'
+# fix_rounding_errors(Path('~/Downloads/prereq/scripts/IIR/outputs/p1/').expanduser())
+
+# print_parameters()
+# load_and_predict_IIR() # Makes API calls
+# evaluate_IIR()
 
 elapsed = time.time() - start
 print(f"\nTotal elapsed time: {elapsed:.2f}s")
