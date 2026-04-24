@@ -6,7 +6,7 @@ import os
 # https://github.com/harrylclc/RefD-dataset/tree/master/Course
 DATASET_PATH = os.path.expanduser("~/Downloads/prereq/datasets/Course/CS_LV.edges")
 # Only keep nodes with at least N edges (in + out)
-MIN_EDGES = 4
+MIN_EDGES = 6
 
 
 def print_def_dict(d: defaultdict[str, list[str]]):
