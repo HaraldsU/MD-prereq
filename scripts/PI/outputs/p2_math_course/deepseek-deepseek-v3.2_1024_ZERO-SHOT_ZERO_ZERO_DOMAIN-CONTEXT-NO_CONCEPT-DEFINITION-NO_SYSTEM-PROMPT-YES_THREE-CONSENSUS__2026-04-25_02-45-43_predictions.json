@@ -1,0 +1,3950 @@
+[
+  {
+    "concept_A": "Abstract algebra",
+    "concept_B": "Algebraic number theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ordinary differential equation",
+    "concept_B": "Analytical mechanics",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fourier series",
+    "concept_B": "Mathematical model",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Multivariable calculus",
+    "concept_B": "Linear programming",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matrix (mathematics)",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Vector calculus",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Probability theory",
+    "concept_B": "Mathematical statistics",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ordinary differential equation",
+    "concept_B": "Fourier series",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Partial differential equation",
+    "concept_B": "Analytical mechanics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Analytic geometry",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Topological space",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fourier series",
+    "concept_B": "Fourier analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Complex analysis",
+    "concept_B": "Finite element method",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mathematical analysis",
+    "concept_B": "Real analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Partial differential equation",
+    "concept_B": "Wavelet",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fourier series",
+    "concept_B": "Ordinary differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Ordinary differential equation",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Mathematical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Ordinary differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Topology",
+    "concept_B": "Topological space",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Real analysis",
+    "concept_B": "Wavelet",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Functional analysis",
+    "concept_B": "Von Neumann algebra",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matrix (mathematics)",
+    "concept_B": "Linear programming",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Linear programming",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Differential equation",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matrix (mathematics)",
+    "concept_B": "Numerical linear algebra",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Abstract algebra",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Numerical analysis",
+    "concept_B": "Approximation theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Partial differential equation",
+    "concept_B": "Fourier analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Real analysis",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mathematical logic",
+    "concept_B": "Computability theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Differentiable manifold",
+    "concept_B": "Lie theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Numerical analysis",
+    "concept_B": "Numerical linear algebra",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Partial differential equation",
+    "concept_B": "Orthogonal polynomials",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ordinary differential equation",
+    "concept_B": "Orthogonal polynomials",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "Statistics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Analytic geometry",
+    "concept_B": "Matrix (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Linear algebra",
+    "concept_B": "Numerical linear algebra",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Partial differential equation",
+    "concept_B": "Fourier series",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mathematical analysis",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Trigonometry",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Topology",
+    "concept_B": "Metric (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Differentiable manifold",
+    "concept_B": "Differential topology",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "Analytic geometry",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Complex analysis",
+    "concept_B": "Number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Matrix (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Multivariable calculus",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Functional analysis",
+    "concept_B": "C*-algebra",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mathematical analysis",
+    "concept_B": "Probability theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Differentiable manifold",
+    "concept_B": "Differential geometry",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fourier series",
+    "concept_B": "Wavelet",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Fourier series",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Abstract algebra",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Complex analysis",
+    "concept_B": "Analytic number theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Mathematical statistics",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Probability theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Probability theory",
+    "concept_B": "Stochastic process",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Analytic geometry",
+    "concept_B": "Calculus",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Multivariable calculus",
+    "concept_B": "Differential topology",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Group theory",
+    "concept_B": "Von Neumann algebra",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Linear algebra",
+    "concept_B": "Von Neumann algebra",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Field (mathematics)",
+    "concept_B": "Algebraic geometry",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Lie theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Linear algebra",
+    "concept_B": "Multiscale modeling",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Linear algebra",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Partial differential equation",
+    "concept_B": "Ergodic theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matrix (mathematics)",
+    "concept_B": "Finite element method",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Functional analysis",
+    "concept_B": "Finite element method",
+    "predicted_PR": "True",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Ergodic theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Multivariable calculus",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Mathematical analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ordinary differential equation",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-theory",
+    "concept_B": "Computability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Complex analysis",
+    "concept_B": "Wavelet",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical logic",
+    "concept_B": "Mathematical model",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "General relativity",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Topological space",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lie theory",
+    "concept_B": "Abstract algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential topology",
+    "concept_B": "General relativity",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "Linear programming",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical optimization",
+    "concept_B": "Coding theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical model",
+    "concept_B": "Ergodic theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Multivariable calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Commutative algebra",
+    "concept_B": "Numerical linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical model",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier series",
+    "concept_B": "Mathematical optimization",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "K-theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Orthogonal polynomials",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Commutative algebra",
+    "concept_B": "Statistics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differentiable manifold",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Lie theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Number theory",
+    "concept_B": "Orthogonal polynomials",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Functional analysis",
+    "concept_B": "Approximation theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistics",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topology",
+    "concept_B": "Wavelet",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic topology",
+    "concept_B": "Vector calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic geometry",
+    "concept_B": "Analytical mechanics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistics",
+    "concept_B": "Combinatorics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Computability theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "Abstract algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytical mechanics",
+    "concept_B": "Fourier series",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical optimization",
+    "concept_B": "Differential geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential equation",
+    "concept_B": "Abstract algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier series",
+    "concept_B": "Special relativity",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ordinary differential equation",
+    "concept_B": "K-theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Differential geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Commutative algebra",
+    "concept_B": "K-theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear algebra",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical linear algebra",
+    "concept_B": "Number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier series",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical statistics",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Special relativity",
+    "concept_B": "Coding theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier analysis",
+    "concept_B": "Stochastic process",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistics",
+    "concept_B": "Analytic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Multiscale modeling",
+    "concept_B": "Approximation theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytic geometry",
+    "concept_B": "Von Neumann algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Factorization",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Mathematical model",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wavelet",
+    "concept_B": "Algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier series",
+    "concept_B": "Approximation theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential equation",
+    "concept_B": "Topological space",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier analysis",
+    "concept_B": "Differential equation",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lie theory",
+    "concept_B": "Operations research",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical linear algebra",
+    "concept_B": "Fourier series",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier analysis",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Trigonometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Real analysis",
+    "concept_B": "Linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytic geometry",
+    "concept_B": "Mathematical analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier series",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "C*-algebra",
+    "concept_B": "Linear programming",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical linear algebra",
+    "concept_B": "Probability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Special relativity",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical linear algebra",
+    "concept_B": "Special relativity",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ergodic theory",
+    "concept_B": "K-theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Factorization",
+    "concept_B": "Abstract algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "C*-algebra",
+    "concept_B": "Algebraic geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical logic",
+    "concept_B": "Lie theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topological space",
+    "concept_B": "Vector calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "Mathematical model",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical statistics",
+    "concept_B": "Calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Abstract algebra",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytic number theory",
+    "concept_B": "Mathematical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Multivariable calculus",
+    "concept_B": "Real analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic number theory",
+    "concept_B": "Algebraic geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic number theory",
+    "concept_B": "Ergodic theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Coding theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical statistics",
+    "concept_B": "Analytical mechanics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lie theory",
+    "concept_B": "Stochastic process",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical logic",
+    "concept_B": "Numerical linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "C*-algebra",
+    "concept_B": "Dynamical system",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Number theory",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier series",
+    "concept_B": "Differential geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "C*-algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic topology",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Number theory",
+    "concept_B": "Von Neumann algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Number theory",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topology",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "General relativity",
+    "concept_B": "Fourier series",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operations research",
+    "concept_B": "Ordinary differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical analysis",
+    "concept_B": "Lie theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical statistics",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical analysis",
+    "concept_B": "Matrix (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic topology",
+    "concept_B": "Algebraic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Abstract algebra",
+    "concept_B": "Multivariable calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-theory",
+    "concept_B": "Functional analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Field (mathematics)",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "Dynamical system",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical analysis",
+    "concept_B": "Numerical linear algebra",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Field (mathematics)",
+    "concept_B": "C*-algebra",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical logic",
+    "concept_B": "Linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topology",
+    "concept_B": "Algebraic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operations research",
+    "concept_B": "Number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Mathematical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Factorization",
+    "concept_B": "K-theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic number theory",
+    "concept_B": "Calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Real analysis",
+    "concept_B": "K-theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic geometry",
+    "concept_B": "Multiscale modeling",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Special relativity",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "Trigonometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Field (mathematics)",
+    "concept_B": "Number theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wavelet",
+    "concept_B": "Lie theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical logic",
+    "concept_B": "Topological space",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic geometry",
+    "concept_B": "Matrix (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Complex analysis",
+    "concept_B": "Factorization",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Probability theory",
+    "concept_B": "Number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "General relativity",
+    "concept_B": "Metric (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Commutative algebra",
+    "concept_B": "Topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Finite element method",
+    "concept_B": "Trigonometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier analysis",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operations research",
+    "concept_B": "Vector calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistics",
+    "concept_B": "Metric (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistics",
+    "concept_B": "Algebraic topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Complex analysis",
+    "concept_B": "Numerical linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-theory",
+    "concept_B": "Special relativity",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differentiable manifold",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic geometry",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matrix (mathematics)",
+    "concept_B": "Multiscale modeling",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytic number theory",
+    "concept_B": "Wavelet",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical analysis",
+    "concept_B": "Differential topology",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Algebraic number theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Von Neumann algebra",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential topology",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistics",
+    "concept_B": "Matrix (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Differential geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Topological space",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Real analysis",
+    "concept_B": "Stochastic process",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Finite element method",
+    "concept_B": "Differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topology",
+    "concept_B": "Combinatorics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Analytic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Group theory",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Von Neumann algebra",
+    "concept_B": "Linear programming",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graph theory",
+    "concept_B": "Field (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical analysis",
+    "concept_B": "Algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistics",
+    "concept_B": "Algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Functional analysis",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Factorization",
+    "concept_B": "Analytic geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Von Neumann algebra",
+    "concept_B": "Number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical analysis",
+    "concept_B": "Analytic number theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytical mechanics",
+    "concept_B": "Finite element method",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Abstract algebra",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lie theory",
+    "concept_B": "K-theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical model",
+    "concept_B": "Algebraic topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lie theory",
+    "concept_B": "Orthogonal polynomials",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "General relativity",
+    "concept_B": "Calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graph theory",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Special relativity",
+    "concept_B": "Orthogonal polynomials",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic topology",
+    "concept_B": "Graph theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "C*-algebra",
+    "concept_B": "Calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wavelet",
+    "concept_B": "Mathematical statistics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "Algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Von Neumann algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Von Neumann algebra",
+    "concept_B": "Operations research",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matrix (mathematics)",
+    "concept_B": "Analytic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matrix (mathematics)",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Finite element method",
+    "concept_B": "Mathematical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier series",
+    "concept_B": "Finite element method",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical model",
+    "concept_B": "Calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-theory",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Functional analysis",
+    "concept_B": "Fourier series",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metric (mathematics)",
+    "concept_B": "Topology",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical optimization",
+    "concept_B": "Lie theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Group theory",
+    "concept_B": "Approximation theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operations research",
+    "concept_B": "Algebraic topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistics",
+    "concept_B": "Number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ordinary differential equation",
+    "concept_B": "Approximation theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metric (mathematics)",
+    "concept_B": "Algebraic topology",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-theory",
+    "concept_B": "Analytical mechanics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topology",
+    "concept_B": "Mathematical model",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Fourier analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dynamical system",
+    "concept_B": "Fourier analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computability theory",
+    "concept_B": "Numerical linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "Differential geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Dynamical system",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Orthogonal polynomials",
+    "concept_B": "Coding theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ordinary differential equation",
+    "concept_B": "Field (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Algebraic topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential geometry",
+    "concept_B": "Special relativity",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Multivariable calculus",
+    "concept_B": "Algebraic topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic geometry",
+    "concept_B": "Calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Complex analysis",
+    "concept_B": "Metric (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Statistics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential topology",
+    "concept_B": "Mathematical optimization",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic number theory",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier analysis",
+    "concept_B": "Vector calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Analytic geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Complex analysis",
+    "concept_B": "Algebraic number theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic topology",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Commutative algebra",
+    "concept_B": "Linear programming",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Probability theory",
+    "concept_B": "Coding theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical statistics",
+    "concept_B": "Fourier series",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytic number theory",
+    "concept_B": "Linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical linear algebra",
+    "concept_B": "Algebraic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Multivariable calculus",
+    "concept_B": "Group theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Real analysis",
+    "concept_B": "Metric (mathematics)",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Finite element method",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Functional analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Orthogonal polynomials",
+    "concept_B": "Dynamical system",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic number theory",
+    "concept_B": "Lie theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operations research",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Functional analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Commutative algebra",
+    "concept_B": "Mathematical model",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Number theory",
+    "concept_B": "Topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Algebraic topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier analysis",
+    "concept_B": "Combinatorics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical analysis",
+    "concept_B": "Computability theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operations research",
+    "concept_B": "Statistics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "Number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-theory",
+    "concept_B": "General relativity",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Group theory",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topological space",
+    "concept_B": "Dynamical system",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Complex analysis",
+    "concept_B": "Orthogonal polynomials",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Factorization",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computability theory",
+    "concept_B": "Finite element method",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistics",
+    "concept_B": "Algebraic geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Lie theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Probability theory",
+    "concept_B": "Topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Algebraic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical optimization",
+    "concept_B": "Topological space",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Number theory",
+    "concept_B": "Topological space",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topological space",
+    "concept_B": "Differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistics",
+    "concept_B": "Orthogonal polynomials",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ergodic theory",
+    "concept_B": "Special relativity",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-theory",
+    "concept_B": "Matrix (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ergodic theory",
+    "concept_B": "Probability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Probability theory",
+    "concept_B": "Field (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "Statistics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "General relativity",
+    "concept_B": "Field (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic geometry",
+    "concept_B": "Probability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Number theory",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Finite element method",
+    "concept_B": "Metric (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Lie theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Functional analysis",
+    "concept_B": "Analytic geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "Analytic geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Finite element method",
+    "concept_B": "K-theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Group theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential equation",
+    "concept_B": "Fourier series",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytical mechanics",
+    "concept_B": "Field (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Commutative algebra",
+    "concept_B": "Algebraic number theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Stochastic process",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topological space",
+    "concept_B": "Mathematical model",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differentiable manifold",
+    "concept_B": "Operations research",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier analysis",
+    "concept_B": "Lie theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical statistics",
+    "concept_B": "Abstract algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier analysis",
+    "concept_B": "Finite element method",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytical mechanics",
+    "concept_B": "Group theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graph theory",
+    "concept_B": "Probability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Field (mathematics)",
+    "concept_B": "Multivariable calculus",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytic number theory",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "Mathematical optimization",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Special relativity",
+    "concept_B": "Algebraic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear programming",
+    "concept_B": "Special relativity",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Finite element method",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic number theory",
+    "concept_B": "Approximation theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier analysis",
+    "concept_B": "Statistics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical model",
+    "concept_B": "Statistics",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Commutative algebra",
+    "concept_B": "Vector calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Linear programming",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wavelet",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-theory",
+    "concept_B": "Linear programming",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical optimization",
+    "concept_B": "C*-algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "General relativity",
+    "concept_B": "Matrix (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear programming",
+    "concept_B": "Matrix (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-theory",
+    "concept_B": "Mathematical model",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Abstract algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical linear algebra",
+    "concept_B": "Algebraic geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "Number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Matrix (mathematics)",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metric (mathematics)",
+    "concept_B": "Fourier analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Probability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wavelet",
+    "concept_B": "Factorization",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential equation",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential equation",
+    "concept_B": "Computability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Real analysis",
+    "concept_B": "Trigonometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier series",
+    "concept_B": "Factorization",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wavelet",
+    "concept_B": "Multivariable calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Approximation theory",
+    "concept_B": "Differential topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Real analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Factorization",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytic geometry",
+    "concept_B": "Ergodic theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Special relativity",
+    "concept_B": "Multiscale modeling",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear algebra",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Fourier analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graph theory",
+    "concept_B": "Abstract algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topological space",
+    "concept_B": "Trigonometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ordinary differential equation",
+    "concept_B": "Statistics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Differential geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier analysis",
+    "concept_B": "Coding theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Algebraic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential topology",
+    "concept_B": "Algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear programming",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Topology",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "C*-algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matrix (mathematics)",
+    "concept_B": "Field (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Von Neumann algebra",
+    "concept_B": "Computability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential topology",
+    "concept_B": "Dynamical system",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytic number theory",
+    "concept_B": "Fourier analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytic geometry",
+    "concept_B": "Trigonometry",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Special relativity",
+    "concept_B": "Numerical linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Multiscale modeling",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graph theory",
+    "concept_B": "Wavelet",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical linear algebra",
+    "concept_B": "Vector calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear programming",
+    "concept_B": "Group theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic topology",
+    "concept_B": "Analytic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Probability theory",
+    "concept_B": "Algebraic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical logic",
+    "concept_B": "Algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Probability theory",
+    "concept_B": "Vector calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Functional analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Finite element method",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wavelet",
+    "concept_B": "Number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operations research",
+    "concept_B": "Finite element method",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical optimization",
+    "concept_B": "Multiscale modeling",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical optimization",
+    "concept_B": "Ergodic theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Orthogonal polynomials",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Number theory",
+    "concept_B": "Differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Ergodic theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Factorization",
+    "concept_B": "Wavelet",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matrix (mathematics)",
+    "concept_B": "Von Neumann algebra",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "C*-algebra",
+    "concept_B": "Finite element method",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "General relativity",
+    "concept_B": "Mathematical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Orthogonal polynomials",
+    "concept_B": "Metric (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Orthogonal polynomials",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical model",
+    "concept_B": "Dynamical system",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dynamical system",
+    "concept_B": "Mathematical optimization",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operations research",
+    "concept_B": "Analytical mechanics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear algebra",
+    "concept_B": "Ordinary differential equation",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytic number theory",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Special relativity",
+    "concept_B": "Probability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Field (mathematics)",
+    "concept_B": "Real analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Number theory",
+    "concept_B": "Analytical mechanics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topology",
+    "concept_B": "Analytical mechanics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "General relativity",
+    "concept_B": "Operations research",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Approximation theory",
+    "concept_B": "Differential geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ergodic theory",
+    "concept_B": "Algebraic topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Approximation theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lie theory",
+    "concept_B": "Mathematical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-theory",
+    "concept_B": "Ordinary differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential topology",
+    "concept_B": "Lie theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential geometry",
+    "concept_B": "Factorization",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Functional analysis",
+    "concept_B": "Vector calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical statistics",
+    "concept_B": "Set theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Multiscale modeling",
+    "concept_B": "Analytic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computability theory",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computability theory",
+    "concept_B": "Statistics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dynamical system",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytic number theory",
+    "concept_B": "Computability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential equation",
+    "concept_B": "Set theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Factorization",
+    "concept_B": "Orthogonal polynomials",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Graph theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Group theory",
+    "concept_B": "Ergodic theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Analytic geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Functional analysis",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ergodic theory",
+    "concept_B": "Lie theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computability theory",
+    "concept_B": "Wavelet",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "C*-algebra",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lie theory",
+    "concept_B": "Mathematical statistics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical optimization",
+    "concept_B": "Topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Matrix (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dynamical system",
+    "concept_B": "Computability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "Stochastic process",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differentiable manifold",
+    "concept_B": "Multiscale modeling",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Multiscale modeling",
+    "concept_B": "Dynamical system",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topological space",
+    "concept_B": "Special relativity",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computability theory",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Metric (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Multivariable calculus",
+    "concept_B": "Fourier series",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Complex analysis",
+    "concept_B": "Fourier analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic topology",
+    "concept_B": "Coding theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Analytic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Abstract algebra",
+    "concept_B": "Stochastic process",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Group theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical model",
+    "concept_B": "Number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topology",
+    "concept_B": "Multivariable calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Analytical mechanics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential equation",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operations research",
+    "concept_B": "Real analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical linear algebra",
+    "concept_B": "Ordinary differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Abstract algebra",
+    "concept_B": "Factorization",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical linear algebra",
+    "concept_B": "Matrix (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Multiscale modeling",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Computability theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Finite element method",
+    "concept_B": "Analytical mechanics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "Differential geometry",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical analysis",
+    "concept_B": "Real analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Factorization",
+    "concept_B": "Field (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Finite element method",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "General relativity",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computability theory",
+    "concept_B": "Algebraic geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Wavelet",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear programming",
+    "concept_B": "Fourier analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical model",
+    "concept_B": "Numerical linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometry",
+    "concept_B": "Lie theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dynamical system",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Factorization",
+    "concept_B": "Set theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Probability theory",
+    "concept_B": "Group theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Functional analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differentiable manifold",
+    "concept_B": "Mathematical model",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matrix (mathematics)",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical optimization",
+    "concept_B": "Calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic geometry",
+    "concept_B": "Ergodic theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic topology",
+    "concept_B": "C*-algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dynamical system",
+    "concept_B": "Mathematical analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear algebra",
+    "concept_B": "Mathematical statistics",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical statistics",
+    "concept_B": "Multiscale modeling",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differentiable manifold",
+    "concept_B": "Set theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical analysis",
+    "concept_B": "Special relativity",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computability theory",
+    "concept_B": "Group theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ergodic theory",
+    "concept_B": "Von Neumann algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dynamical system",
+    "concept_B": "Vector calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Operations research",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Multiscale modeling",
+    "concept_B": "C*-algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic number theory",
+    "concept_B": "Topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Number theory",
+    "concept_B": "Mathematical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Real analysis",
+    "concept_B": "Calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Analytical mechanics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Fourier series",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topological space",
+    "concept_B": "Metric (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytic number theory",
+    "concept_B": "K-theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Multivariable calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graph theory",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Complex analysis",
+    "concept_B": "Coding theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical logic",
+    "concept_B": "Ergodic theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Approximation theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical statistics",
+    "concept_B": "Finite element method",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical analysis",
+    "concept_B": "Field (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Operations research",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential geometry",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Numerical linear algebra",
+    "concept_B": "Von Neumann algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Abstract algebra",
+    "concept_B": "Real analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Special relativity",
+    "concept_B": "Mathematical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Functional analysis",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topology",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Abstract algebra",
+    "concept_B": "Probability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lie theory",
+    "concept_B": "Statistics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistics",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Group theory",
+    "concept_B": "Lie theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computability theory",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graph theory",
+    "concept_B": "Operations research",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytic number theory",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Von Neumann algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear programming",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear programming",
+    "concept_B": "Von Neumann algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Group theory",
+    "concept_B": "Differential geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Dynamical system",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topological space",
+    "concept_B": "Topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical optimization",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistics",
+    "concept_B": "Special relativity",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Approximation theory",
+    "concept_B": "Graph theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ergodic theory",
+    "concept_B": "Operations research",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Field (mathematics)",
+    "concept_B": "K-theory",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matrix (mathematics)",
+    "concept_B": "Real analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Abstract algebra",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Finite element method",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Mathematical optimization",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical logic",
+    "concept_B": "Matrix (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Complex analysis",
+    "concept_B": "Topology",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear programming",
+    "concept_B": "Approximation theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Statistics",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computability theory",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "Lie theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matrix (mathematics)",
+    "concept_B": "Ergodic theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorics",
+    "concept_B": "Multiscale modeling",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topology",
+    "concept_B": "Number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metric (mathematics)",
+    "concept_B": "Special relativity",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential topology",
+    "concept_B": "Analytic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matrix (mathematics)",
+    "concept_B": "Trigonometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Multiscale modeling",
+    "concept_B": "Linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differentiable manifold",
+    "concept_B": "Linear programming",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical model",
+    "concept_B": "Mathematical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytical mechanics",
+    "concept_B": "Analytic number theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metric (mathematics)",
+    "concept_B": "Multivariable calculus",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic number theory",
+    "concept_B": "Multivariable calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topology",
+    "concept_B": "Factorization",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operations research",
+    "concept_B": "Ergodic theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential equation",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "C*-algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metric (mathematics)",
+    "concept_B": "Real analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "General relativity",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Number theory",
+    "concept_B": "Real analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topological space",
+    "concept_B": "Linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metric (mathematics)",
+    "concept_B": "Set theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Finite element method",
+    "concept_B": "Mathematical statistics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Field (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "Vector calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metric (mathematics)",
+    "concept_B": "General relativity",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Wavelet",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Orthogonal polynomials",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical analysis",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Primality test",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Real analysis",
+    "concept_B": "Operations research",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Multiscale modeling",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Commutative algebra",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Probability theory",
+    "concept_B": "Metric (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ordinary differential equation",
+    "concept_B": "Mathematical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topology",
+    "concept_B": "Linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Commutative algebra",
+    "concept_B": "Approximation theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differentiable manifold",
+    "concept_B": "Analytic geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Matrix (mathematics)",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytical mechanics",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Complex analysis",
+    "concept_B": "Probability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-theory",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential geometry",
+    "concept_B": "Multiscale modeling",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear programming",
+    "concept_B": "Numerical analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Orthogonal polynomials",
+    "concept_B": "Vector calculus",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Abstract algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical analysis",
+    "concept_B": "Mathematical optimization",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Coding theory",
+    "concept_B": "Finite element method",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Linear programming",
+    "concept_B": "Coding theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Finite element method",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "C*-algebra",
+    "concept_B": "Numerical linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lie theory",
+    "concept_B": "Topological space",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Combinatorics",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential geometry",
+    "concept_B": "Linear algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier analysis",
+    "concept_B": "Functional analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graph theory",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mathematical optimization",
+    "concept_B": "Differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Von Neumann algebra",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Group theory",
+    "concept_B": "Ordinary differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vector calculus",
+    "concept_B": "Analytic geometry",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analytical mechanics",
+    "concept_B": "Commutative algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Group theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic topology",
+    "concept_B": "Operations research",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-theory",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistics",
+    "concept_B": "Functional analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Commutative algebra",
+    "concept_B": "Computability theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "General relativity",
+    "concept_B": "Stochastic process",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Abstract algebra",
+    "concept_B": "Trigonometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier analysis",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Partial differential equation",
+    "concept_B": "Differentiable manifold",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metric (mathematics)",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fourier analysis",
+    "concept_B": "Mathematical optimization",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Primality test",
+    "concept_B": "Differential geometry",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential geometry",
+    "concept_B": "Topological space",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Stochastic process",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Partial differential equation",
+    "concept_B": "Mathematical logic",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graph theory",
+    "concept_B": "Von Neumann algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Topological space",
+    "concept_B": "Abstract algebra",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebraic topology",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Calculus",
+    "concept_B": "Field (mathematics)",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "General relativity",
+    "concept_B": "Mathematical model",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Abstract algebra",
+    "concept_B": "Graph theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Approximation theory",
+    "concept_B": "General relativity",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Functional analysis",
+    "concept_B": "Real analysis",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Set theory",
+    "concept_B": "Complex analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wavelet",
+    "concept_B": "Differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-theory",
+    "concept_B": "Partial differential equation",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Differential equation",
+    "concept_B": "Fourier analysis",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metric (mathematics)",
+    "concept_B": "Mathematical optimization",
+    "predicted_PR": "True",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stochastic process",
+    "concept_B": "Approximation theory",
+    "predicted_PR": "False",
+    "ground_truth_PR": 0
+  }
+]

@@ -1,0 +1,4132 @@
+[
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Spektrālā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Mērijumu_skala",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Lēmumu_koka_modelis",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Tuvākās_distances_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Hierarhiskā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Maksimālā_ticamība",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Informācijas_izguve",
+    "concept_B": "F_mērs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Ticamības_funkcija",
+    "concept_B": "Paredzēšanas–maksimizēšanas_algoritms",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Anomālijas_noteikšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Ticamības_funkcija",
+    "concept_B": "Maksimālā_ticamība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais_kopums",
+    "concept_B": "F_mērs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Vienvirziena_neironu_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Atpakaļizplatīšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Pastiprināšana_(mašīnmācīšanās)",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Nestriktā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Lēmumu_koks",
+    "concept_B": "Apcirpšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas_algoritms",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais_kopums",
+    "concept_B": "Paraugatlase_(statistika)",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Maksimums_un_minimums",
+    "concept_B": "Gradienta_samazināšanās",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtības_sadalījums",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "F_mērs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais_kopums",
+    "concept_B": "T_tests",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Spektrālā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Tuvākās_distances_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nulles_hipotēze",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "K-medoīdi",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Divkāršā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Tuvākās_distances_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Izlecošā_vērtība",
+    "concept_B": "Anomālijas_noteikšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "T_tests",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Moda_(statistika)",
+    "concept_B": "Mērijumu_skala",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Mazāko_kvadrātu_metode",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Ticamības_funkcija",
+    "concept_B": "Puasona_regresija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Vienvirziena_neironu_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Atpakaļizplatīšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Informācijas_izguve",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Ansambļu_mācīšanās",
+    "concept_B": "Pastiprināšana_(mašīnmācīšanās)",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Vienvirziena_neironu_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Tuvākās_distances_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "AdaBoost",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nulles_hipotēze",
+    "concept_B": "F_mērs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Spektrālā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais_kopums",
+    "concept_B": "I_tipa_un_II_tipa_kļūdas",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Spektrālā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "Statistiskā_nozīmība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "OPTICS_algoritms",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "DBSCAN",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Daudzklašu_klasifikācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "F_mērs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nulles_hipotēze",
+    "concept_B": "T_tests",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Iepriekšējā_varbūtība",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Pakāpeniskā_regresija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Izlecošā_vērtība",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Daudzklašu_klasifikācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "I_tipa_un_II_tipa_kļūdas",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Lēmumu_koks",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Apcirpšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtības_sadalījums",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Lēmumu_koks",
+    "concept_B": "Lēmumu_koka_modelis",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Jūtība_un_specifiskums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "F_mērs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Ansambļu_mācīšanās",
+    "concept_B": "AdaBoost",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "OPTICS_algoritms",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Ģenētiskais_algoritms",
+    "concept_B": "Mutācija_(ģenētiskais_algoritms)",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais_kopums",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_hipotēzes_pārbaude",
+    "concept_B": "Statistiskā_nozīmība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Daudzdimensiju_datu_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "DBSCAN",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Anomālijas_noteikšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Dimensiju_skaita_samazināšana",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nulles_hipotēze",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Vienvirziena_neironu_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mediāna_(statistika)",
+    "concept_B": "Starpkvartiļu_amplitūda",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Lēmumu_koku_mācīšanās",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Daudzklašu_klasifikācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kvartile",
+    "concept_B": "Starpkvartiļu_amplitūda",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Nosacījuma_varbūtības_sadalījums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nulles_hipotēze",
+    "concept_B": "I_tipa_un_II_tipa_kļūdas",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Beiesa_teorēma",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Centrālā_tendence",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtības_sadalījums",
+    "concept_B": "Beiesa_teorēma",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "DBSCAN",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtības_sadalījums",
+    "concept_B": "A_posteriori_varbūtība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacīta_neatkarība",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Korelācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Lineāra_regresija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "I_tipa_un_II_tipa_kļūdas",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "A_posteriori_varbūtība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "OPTICS_algoritms",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Tuvākās_distances_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Anomālijas_noteikšana",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aprakstošā_statistika",
+    "concept_B": "Starpkvartiļu_amplitūda",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Daudzdimensiju_datu_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Beiesa_teorēma",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Nosacījuma_varbūtības_sadalījums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Asociāciju_likumu_mācīšanās",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Maksimālā_ticamība",
+    "concept_B": "Paredzēšanas–maksimizēšanas_algoritms",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Dispersija_(statistika)",
+    "concept_B": "Mērijumu_skala",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Ģenētiskais_algoritms",
+    "concept_B": "Pielāgošanās_funkcija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtības_sadalījums",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Puasona_regresija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais_kopums",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "A_posteriori_varbūtība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Hierarhiskā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Apriori_algorithm",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Beiesa_teorēma",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Spektrālā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Daudzdimensiju_datu_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Mērijumu_skala",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "OPTICS_algoritms",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Apcirpšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Nestriktā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Daudzdimensiju_datu_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "F_mērs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_hipotēzes_pārbaude",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Moda_(statistika)",
+    "concept_B": "Centrālā_tendence",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mediāna_(statistika)",
+    "concept_B": "Mērijumu_skala",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Ticamības_funkcija",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Lēmumu_koku_mācīšanās",
+    "concept_B": "Apcirpšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Atpakaļizplatīšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Hierarhiskā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "T_tests",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Apcirpšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "AdaBoost",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Dabiskā_izlase",
+    "concept_B": "Mutācija_(ģenētiskais_algoritms)",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Nestriktā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Mazāko_kvadrātu_metode",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_hipotēzes_pārbaude",
+    "concept_B": "F_mērs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "DBSCAN",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kļūdaina_atbilsme_un_kļūdaina_neatbilsme",
+    "concept_B": "Jūtība_un_specifiskums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtības_sadalījums",
+    "concept_B": "Maksimālā_ticamība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Apcirpšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Daudzklašu_klasifikācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Paredzēšanas–maksimizēšanas_algoritms",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "A_posteriori_varbūtība",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Apcirpšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Maksimālā_ticamība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Dabiskā_izlase",
+    "concept_B": "Ģenētiskais_algoritms",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_hipotēzes_pārbaude",
+    "concept_B": "T_tests",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "K-medoīdi",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Divkāršā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Hierarhiskā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Pastiprināšana_(mašīnmācīšanās)",
+    "concept_B": "AdaBoost",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Maksimālā_ticamība",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Anomālijas_noteikšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "I_tipa_un_II_tipa_kļūdas",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Nestriktā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Paredzēšanas–maksimizēšanas_algoritms",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Lēmumu_koka_modelis",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtības_sadalījums",
+    "concept_B": "Puasona_regresija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Pastiprināšana_(mašīnmācīšanās)",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Hiperplakne",
+    "concept_B": "Lineārā_atdalāmība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Beiesa_teorēma",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Maksimālā_ticamība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_hipotēzes_pārbaude",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kļūdaina_atbilsme_un_kļūdaina_neatbilsme",
+    "concept_B": "Pozitīvā_un_negatīvā_paredzamā_vērtība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Puasona_regresija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Dabiskā_izlase",
+    "concept_B": "Pielāgošanās_funkcija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacīta_neatkarība",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Uztvērēja_darbības_raksturlīkne",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtības_sadalījums",
+    "concept_B": "Nosacīta_neatkarība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "I_tipa_un_II_tipa_kļūdas",
+    "concept_B": "F_mērs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "K-medoīdi",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Divkāršā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_hipotēzes_pārbaude",
+    "concept_B": "I_tipa_un_II_tipa_kļūdas",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais_kopums",
+    "concept_B": "Statistiskā_nozīmība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Hierarhiskā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Anomālijas_noteikšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais_kopums",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Nosacīta_neatkarība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Hiperplakne",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "OPTICS_algoritms",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Asociāciju_likumu_mācīšanās",
+    "concept_B": "Apriori_algorithm",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Atpakaļizplatīšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Daudzdimensiju_datu_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Pastiprināšana_(mašīnmācīšanās)",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Ansambļu_mācīšanās",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "Statistiskā_nozīmība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Nestriktā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Pakāpeniskā_regresija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Puasona_regresija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Vienvirziena_neironu_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Lineāra_regresija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kuplināšanas_agregatēšana",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Lēmumu_koks",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "T_tests",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Asociāciju_likumu_mācīšanās",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Centrālā_tendence",
+    "concept_B": "Mērijumu_skala",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Anomālijas_noteikšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Divkāršā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "K-medoīdi",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Nosacīta_neatkarība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "K-medoīdi",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Divkāršā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtības_sadalījums",
+    "concept_B": "Paredzēšanas–maksimizēšanas_algoritms",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais_kopums",
+    "concept_B": "Izlase",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "DBSCAN",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Lineārā_atdalāmība",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "I_tipa_un_II_tipa_kļūdas",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Dimensiju_skaita_samazināšana",
+    "concept_B": "Spektrālā_klasterizācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Lēmumu_koks",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Atpakaļizplatīšana",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Puasona_regresija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Ticamības_funkcija",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nulles_hipotēze",
+    "concept_B": "Statistiskā_nozīmība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kuplināšana",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Nulles_hipotēze",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mediāna_(statistika)",
+    "concept_B": "Centrālā_tendence",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Korelācija",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "AdaBoost",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais_kopums",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Statistiskā_nozīmība",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Datizrace",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Lēmumu_koks",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Precizitāte_un_pārklājums",
+    "concept_B": "F_mērs",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Dispersija_(statistika)",
+    "concept_B": "Starpkvartiļu_amplitūda",
+    "is_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā_klasterizācija",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Signāla_un_trokšņa_attiecība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā_klasterizācija",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_hipotēzes_pārbaude",
+    "concept_B": "Statistiskais_kopums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas_noteikšana",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Centrālā_tendence",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Puasona_regresija",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma_modelis",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais_mežs",
+    "concept_B": "Ansambļu_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Zināšanu_bāze",
+    "concept_B": "Ekspertsistēma",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā_klasterizācija",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā_klasterizācija",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pastiprināšana_(mašīnmācīšanās)",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beiesa_teorēma",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koks",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_hipotēzes_pārbaude",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Ekspertsistēma",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Galveno_komponentu_analīze",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mazāko_kvadrātu_metode",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nosacīta_neatkarība",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Tuvākās_distances_klasterizācija",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mediāna_(statistika)",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā_vērtība",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Vaicājumvaloda",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Kļūdaina_atbilsme_un_kļūdaina_neatbilsme",
+    "concept_B": "Akurātums_un_precizitāte",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta_vektoru_mašīna",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineāra_regresija",
+    "concept_B": "Pakāpeniskā_regresija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtības_sadalījums",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mērijumu_skala",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Jūtība_un_specifiskums",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā_varbūtība",
+    "concept_B": "Beiesa_teorēma",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Ansambļu_mācīšanās",
+    "concept_B": "Pakāpeniskā_regresija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais_modelis",
+    "concept_B": "Pakāpeniskā_regresija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Maksimālā_ticamība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Lineārā_atdalāmība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koks",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Akurātums_un_precizitāte",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Divkāršā_klasterizācija",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Starpkvartiļu_amplitūda",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā_klasterizācija",
+    "concept_B": "OPTICS_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beiesa_teorēma",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Ticamības_funkcija",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "F-kritērijs",
+    "concept_B": "Pakāpeniskā_regresija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "F_mērs",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta_vektoru_mašīna",
+    "concept_B": "Anomālijas_noteikšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atpakaļizplatīšana",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Ģenētiskais_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Alfa-beta_apcirpšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Daudzklašu_klasifikācija",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā_varbūtība",
+    "concept_B": "A_posteriori_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana_pēc_vidējiem",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma_modelis",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Gradienta_samazināšanās",
+    "concept_B": "Vienvirziena_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineāra_regresija",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Trūkstošie_dati",
+    "concept_B": "Paredzēšanas–maksimizēšanas_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Galveno_komponentu_analīze",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Šķērsvalidācija_(statistika)",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Histogramma",
+    "concept_B": "Starpkvartiļu_amplitūda",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā_klasterizācija",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Beiesa_teorēma",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Diskretizācija",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Vienvirziena_neironu_tīkls",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas_noteikšana",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datu_modelēšana",
+    "concept_B": "Vaicājumvaloda",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā_ticamība",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "AdaBoost",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nelineāra_sistēma",
+    "concept_B": "Atpakaļizplatīšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Gradienta_samazināšanās",
+    "concept_B": "Maksimums_un_minimums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Šķērsvalidācija_(statistika)",
+    "concept_B": "Pastiprināšana_(mašīnmācīšanās)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "OPTICS_algoritms",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atpakaļizplatīšana",
+    "concept_B": "Apcirpšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma_modelis",
+    "concept_B": "Hierarhiskā_klasterizācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā_varbūtība",
+    "concept_B": "Maksimālā_ticamība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma_modelis",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Ticamības_funkcija",
+    "concept_B": "Nosacījuma_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais_modelis",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_nozīmība",
+    "concept_B": "Izlase",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koka_modelis",
+    "concept_B": "Lēmumu_koks",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "A_posteriori_varbūtība",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nosacīta_neatkarība",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "OPTICS_algoritms",
+    "concept_B": "DBSCAN",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā_klasterizācija",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte_un_pārklājums",
+    "concept_B": "Nulles_hipotēze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana_pēc_vidējiem",
+    "concept_B": "K-medoīdi",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Iepriekšējā_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Meklētājprogramma",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Daudzklašu_klasifikācija",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Ansambļu_mācīšanās",
+    "concept_B": "Anomālijas_noteikšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Izlase",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pieaugums_(informācijas_izguve)",
+    "concept_B": "Akurātums_un_precizitāte",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas_algoritms",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā_klasterizācija",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana_pēc_vidējiem",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Tuvākās_distances_klasterizācija",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtības_sadalījums",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Modeļa_izvēle",
+    "concept_B": "Divkāršā_klasterizācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā_vērtība",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "A_posteriori_varbūtība",
+    "concept_B": "Beiesa_teorēma",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte_un_pārklājums",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Divkāršā_klasterizācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Daudzdimensiju_datu_klasterizācija",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Klasifikācijas_likums",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koku_mācīšanās",
+    "concept_B": "Lēmumu_koks",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pakāpeniskā_regresija",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koku_mācīšanās",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas_algoritms",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "A_posteriori_varbūtība",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā_klasterizācija",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas_noteikšana",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineārā_atdalāmība",
+    "concept_B": "Atpakaļizplatīšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Beiesa_teorēma",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datu_reducēšana",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koka_modelis",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "F_mērs",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineāra_regresija",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineāra_regresija",
+    "concept_B": "Gradienta_samazināšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pastiprināšana_(mašīnmācīšanās)",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana_pēc_vidējiem",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "F_mērs",
+    "concept_B": "I_tipa_un_II_tipa_kļūdas",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "A_posteriori_varbūtība",
+    "concept_B": "Nosacījuma_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā_vērtība",
+    "concept_B": "Starpkvartiļu_amplitūda",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Akurātums_un_precizitāte",
+    "concept_B": "Jūtība_un_specifiskums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koks",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Daudzdimensiju_datu_klasterizācija",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "Nosacījuma_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā_varbūtība",
+    "concept_B": "Minimālais_apraksta_garums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā_klasterizācija",
+    "concept_B": "Tuvākās_distances_klasterizācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Kļūdaina_atbilsme_un_kļūdaina_neatbilsme",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas_noteikšana",
+    "concept_B": "Izlecošā_vērtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais_modelis",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datu_apstrāde",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "I_tipa_un_II_tipa_kļūdas",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "A_posteriori_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koks",
+    "concept_B": "Pastiprināšana_(mašīnmācīšanās)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Paredzēšanas–maksimizēšanas_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mediāna_(statistika)",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā_klasterizācija",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais_kopums",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "AdaBoost",
+    "concept_B": "Pastiprināšana_(mašīnmācīšanās)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas_noteikšana",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta_vektoru_mašīna",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "F_mērs",
+    "concept_B": "Informācijas_izguve",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Paraugatlase_(statistika)",
+    "concept_B": "Beiesa_teorēma",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas_algoritms",
+    "concept_B": "Nosacījuma_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais_mežs",
+    "concept_B": "Lēmumu_koks",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais_mežs",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Uztvērēja_darbības_raksturlīkne",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pozitīvā_un_negatīvā_paredzamā_vērtība",
+    "concept_B": "Kļūdaina_atbilsme_un_kļūdaina_neatbilsme",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Daudzklašu_klasifikācija",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Vienvirziena_neironu_tīkls",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā_klasterizācija",
+    "concept_B": "DBSCAN",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte_un_pārklājums",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā_varbūtība",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Starpkvartiļu_amplitūda",
+    "concept_B": "Kvartile",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Nosacīta_neatkarība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koka_modelis",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atpakaļizplatīšana",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Pastiprināšana_(mašīnmācīšanās)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Kuplināšanas_agregatēšana",
+    "concept_B": "Pastiprināšana_(mašīnmācīšanās)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Puasona_regresija",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "I_tipa_un_II_tipa_kļūdas",
+    "concept_B": "Statistiskais_kopums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_hipotēzes_pārbaude",
+    "concept_B": "Nulles_hipotēze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Signāla_un_trokšņa_attiecība",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā_ticamība",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pārpratumu_matrica",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Apcirpšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana_pēc_vidējiem",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Puasona_regresija",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koka_modelis",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Ekspertsistēma",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais_modelis",
+    "concept_B": "Vienvirziena_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Statistiskā_nozīmība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta_vektoru_mašīna",
+    "concept_B": "Lineārā_atdalāmība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Iepriekšējā_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "I_tipa_un_II_tipa_kļūdas",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Tuvākās_distances_klasterizācija",
+    "concept_B": "OPTICS_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā_varbūtība",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā_vērtība",
+    "concept_B": "OPTICS_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "I_tipa_un_II_tipa_kļūdas",
+    "concept_B": "Nulles_hipotēze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pakāpeniskā_regresija",
+    "concept_B": "F-kritērijs",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā_ticamība",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Informācijas_izguve",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais_mežs",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pieaugums_(informācijas_izguve)",
+    "concept_B": "Pozitīvā_un_negatīvā_paredzamā_vērtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "K-medoīdi",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Gradienta_samazināšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koku_mācīšanās",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineāra_regresija",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Puasona_regresija",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "I_tipa_un_II_tipa_kļūdas",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Starpkvartiļu_amplitūda",
+    "concept_B": "Mediāna_(statistika)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Asociāciju_likumu_mācīšanās",
+    "concept_B": "Anomālijas_noteikšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mutācija_(ģenētiskais_algoritms)",
+    "concept_B": "Dabiskā_izlase",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datu_tips",
+    "concept_B": "DBSCAN",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana_pēc_vidējiem",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koku_mācīšanās",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "A_posteriori_varbūtība",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pārpratumu_matrica",
+    "concept_B": "Pozitīvā_un_negatīvā_paredzamā_vērtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Puasona_regresija",
+    "concept_B": "Nosacījuma_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mediāna_(statistika)",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "OPTICS_algoritms",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beiesa_teorēma",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nosacīta_neatkarība",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Dispersija_(statistika)",
+    "concept_B": "Centrālā_tendence",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "AdaBoost",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais_modelis",
+    "concept_B": "Maksimālā_ticamība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas_noteikšana",
+    "concept_B": "DBSCAN",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Akurātums_un_precizitāte",
+    "concept_B": "Statistiskā_nozīmība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beiesa_teorēma",
+    "concept_B": "Nosacījuma_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Centrālā_tendence",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nosacīta_neatkarība",
+    "concept_B": "Nosacījuma_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā_vērtība",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Tuvākās_distances_klasterizācija",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā_ticamība",
+    "concept_B": "Nosacījuma_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Informācijas_izguve",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Kvartile",
+    "concept_B": "Centrālā_tendence",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "Izlase",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Apriori_algorithm",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Aktīva_mācīšanās_(mašīnmācīšanās)",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Gradienta_samazināšanās",
+    "concept_B": "Puasona_regresija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_nozīmība",
+    "concept_B": "Jūtība_un_specifiskums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Ticamības_funkcija",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Aprakstošā_statistika",
+    "concept_B": "Centrālā_tendence",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais_mežs",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Histogramma",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mediāna_(statistika)",
+    "concept_B": "Statistiskais_kopums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Daudzklašu_klasifikācija",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas_noteikšana",
+    "concept_B": "OPTICS_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "F_mērs",
+    "concept_B": "Izlase",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta_vektoru_mašīna",
+    "concept_B": "Hiperplaknes_atdalīšanās_teorēma",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "K-medoīdi",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta_vektoru_mašīna",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Uztvērēja_darbības_raksturlīkne",
+    "concept_B": "Precizitāte_un_pārklājums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Ekspertsistēma",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā_klasterizācija",
+    "concept_B": "Paredzēšanas–maksimizēšanas_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Jūtība_un_specifiskums",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "T_tests",
+    "concept_B": "Izlase",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineārā_atdalāmība",
+    "concept_B": "Vienvirziena_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pastiprināšana_(mašīnmācīšanās)",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Klasifikācijas_likums",
+    "concept_B": "Lēmumu_koks",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais_mežs",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Tuvākās_distances_klasterizācija",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koku_mācīšanās",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Galveno_komponentu_analīze",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte_un_pārklājums",
+    "concept_B": "I_tipa_un_II_tipa_kļūdas",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Meklētājprogramma",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mazāko_kvadrātu_metode",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "F_mērs",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Starpkvartiļu_amplitūda",
+    "concept_B": "Dispersija_(statistika)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_nozīmība",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atpakaļizplatīšana",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pastiprināšana_(mašīnmācīšanās)",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Divkāršā_klasterizācija",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Daļēji_uzraudzīta_mācīšanās",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Modeļa_izvēle",
+    "concept_B": "Pakāpeniskā_regresija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Šķērsvalidācija_(statistika)",
+    "concept_B": "Apcirpšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas_algoritms",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "Beiesa_teorēma",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Lineārā_atdalāmība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Centrālā_tendence",
+    "concept_B": "Moda_(statistika)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma_modelis",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Gradienta_samazināšanās",
+    "concept_B": "Atpakaļizplatīšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Pakāpeniskā_regresija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Statistiskā_nozīmība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte_un_pārklājums",
+    "concept_B": "Informācijas_izguve",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mērijumu_skala",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "OPTICS_algoritms",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "OPTICS_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Centrālā_tendence",
+    "concept_B": "Mediāna_(statistika)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "AdaBoost",
+    "concept_B": "Ansambļu_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "Anomālijas_noteikšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā_varbūtība",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta_vektoru_mašīna",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Apriori_algorithm",
+    "concept_B": "Asociāciju_likumu_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "Iepriekšējā_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_nozīmība",
+    "concept_B": "Statistiskais_kopums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Jūtība_un_specifiskums",
+    "concept_B": "Pārpratumu_matrica",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mērijumu_skala",
+    "concept_B": "Moda_(statistika)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Gradienta_samazināšanās",
+    "concept_B": "Pastiprināšana_(mašīnmācīšanās)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma_modelis",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Mutācija_(ģenētiskais_algoritms)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mutācija_(ģenētiskais_algoritms)",
+    "concept_B": "Ģenētiskais_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas_algoritms",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais_modelis",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Lēmumu_koks",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtības_sadalījums",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Diskretizācija",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_nozīmība",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nelineāra_sistēma",
+    "concept_B": "Gradienta_samazināšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā_vērtība",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pielāgošanās_funkcija",
+    "concept_B": "Dabiskā_izlase",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mērijumu_skala",
+    "concept_B": "Mediāna_(statistika)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā_klasterizācija",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Jūtība_un_specifiskums",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Statistiskais_kopums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineāra_regresija",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_nozīmība",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atpakaļizplatīšana",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Minkovska_attālums",
+    "concept_B": "DBSCAN",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta_vektoru_mašīna",
+    "concept_B": "Hiperplakne",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Asociāciju_likumu_mācīšanās",
+    "concept_B": "Lēmumu_koks",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_nozīmība",
+    "concept_B": "Nulles_hipotēze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Nosacīta_neatkarība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mutācija_(ģenētiskais_algoritms)",
+    "concept_B": "Pielāgošanās_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Divkāršā_klasterizācija",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "Hierarhiskā_klasterizācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "Nosacīta_neatkarība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koku_mācīšanās",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā_ticamība",
+    "concept_B": "Minimālais_apraksta_garums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana_pēc_vidējiem",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma_modelis",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Kopējais_varbūtības_sadalījums",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Jūtība_un_specifiskums",
+    "concept_B": "Kļūdaina_atbilsme_un_kļūdaina_neatbilsme",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pastiprināšana_(mašīnmācīšanās)",
+    "concept_B": "Ansambļu_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Gradienta_samazināšanās",
+    "concept_B": "Kalnā_kāpšana_tehnika",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_nozīmība",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Nulles_hipotēze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā_vērtība",
+    "concept_B": "DBSCAN",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "K-medoīdi",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "Paredzēšanas–maksimizēšanas_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beijesa_tīkls",
+    "concept_B": "Maksimālā_ticamība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koku_mācīšanās",
+    "concept_B": "Lēmumu_koka_modelis",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Starpkvartiļu_amplitūda",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineāra_regresija",
+    "concept_B": "Nosacījuma_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "OPTICS_algoritms",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Kuplināšanas_agregatēšana",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Ģenētiskais_algoritms",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Izlecošā_vērtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā_klasterizācija",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Lēmumu_koku_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas_algoritms",
+    "concept_B": "Maksimālā_ticamība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā_ticamība",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Vienvirziena_neironu_tīkls",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Anomālijas_noteikšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Daudzdimensiju_datu_klasterizācija",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineāra_regresija",
+    "concept_B": "Puasona_regresija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Moda_(statistika)",
+    "concept_B": "Nejaušais_mežs",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineāra_regresija",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā_klasterizācija",
+    "concept_B": "Divkāršā_klasterizācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Ticamības_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pakāpeniskā_regresija",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte_un_pārklājums",
+    "concept_B": "Jūtība_un_specifiskums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā_klasterizācija",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma_modelis",
+    "concept_B": "Paredzēšanas–maksimizēšanas_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "OPTICS_algoritms",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas_noteikšana",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta_vektoru_mašīna",
+    "concept_B": "Pastiprināšana_(mašīnmācīšanās)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma_modelis",
+    "concept_B": "Maksimālā_ticamība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Vienvirziena_neironu_tīkls",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mērijumu_skala",
+    "concept_B": "Dispersija_(statistika)",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koku_mācīšanās",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Galveno_komponentu_analīze",
+    "concept_B": "Dimensiju_skaita_samazināšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte_un_pārklājums",
+    "concept_B": "Izlase",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koks",
+    "concept_B": "Datizrace",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineāra_regresija",
+    "concept_B": "Maksimālā_ticamība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "A_posteriori_varbūtība",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_klasifikācija",
+    "concept_B": "A_posteriori_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā_ticamība",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mērijumu_skala",
+    "concept_B": "Centrālā_tendence",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pozitīvā_un_negatīvā_paredzamā_vērtība",
+    "concept_B": "Akurātums_un_precizitāte",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā_klasterizācija",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte_un_pārklājums",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Paraugatlase_(statistika)",
+    "concept_B": "Statistiskais_kopums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Asociāciju_likumu_mācīšanās",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pārpratumu_matrica",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Divkāršā_klasterizācija",
+    "concept_B": "Hierarhiskā_klasterizācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Divkāršā_klasterizācija",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "Statistiskais_kopums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu_koku_mācīšanās",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Ansambļu_mācīšanās",
+    "concept_B": "Atpakaļizplatīšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Daudzdimensiju_datu_klasterizācija",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Hiperplaknes_atdalīšanās_teorēma",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nosacījuma_varbūtība",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā_ticamība",
+    "concept_B": "Puasona_regresija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pielāgošanās_funkcija",
+    "concept_B": "Ģenētiskais_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Diskretizācija",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Divkāršā_klasterizācija",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineāra_regresija",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "Pakāpeniskā_regresija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā_klasterizācija",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beiesa_teorēma",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Moda_(statistika)",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā_vērtība",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "OPTICS_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maksimums_un_minimums",
+    "concept_B": "Pudurošana_pēc_vidējiem",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais_mežs",
+    "concept_B": "Kuplināšanas_agregatēšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Histogramma",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana_pēc_vidējiem",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Vienvirziena_neironu_tīkls",
+    "concept_B": "Atpakaļizplatīšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte_un_pārklājums",
+    "concept_B": "Statistiskais_kopums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "A_posteriori_varbūtība",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "DBSCAN",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana_pēc_vidējiem",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta_vektoru_mašīna",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Starpkvartiļu_amplitūda",
+    "concept_B": "Aprakstošā_statistika",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "T_tests",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais_mežs",
+    "concept_B": "Naivais_Beijesa_klasifikators",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta_vektoru_mašīna",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "AdaBoost",
+    "concept_B": "Lēmumu_koks",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineārā_atdalāmība",
+    "concept_B": "Hiperplakne",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma_modelis",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte_un_pārklājums",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Starpkvartiļu_amplitūda",
+    "concept_B": "Centrālā_tendence",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "AdaBoost",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "Statistiskais_kopums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "A_posteriori_varbūtība",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Ģenētiskais_algoritms",
+    "concept_B": "Dabiskā_izlase",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Nosacījuma_varbūtība",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Puasona_regresija",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais_mežs",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Vienvirziena_neironu_tīkls",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Atbalsta_vektoru_mašīna",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā_klasterizācija",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais_mežs",
+    "concept_B": "Kuplināšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Asociāciju_likumu_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_hipotēzes_pārbaude",
+    "concept_B": "Izlase",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineāra_regresija",
+    "concept_B": "Datu_matrica",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "F_mērs",
+    "concept_B": "Statistiskais_kopums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības_intervāls",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Statistiskā_klasifikācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datu_analīze",
+    "concept_B": "Asociāciju_likumu_mācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā_varbūtība",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Atpakaļizplatīšana",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais_mežs",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Maisījuma_modelis",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "K-medoīdi",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Lineāra_regresija",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "T_tests",
+    "concept_B": "Statistiskais_kopums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Dispersija_(statistika)",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana_pēc_vidējiem",
+    "concept_B": "Mašīnmācīšanās",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Daudzklašu_klasifikācija",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Galveno_komponentu_analīze",
+    "concept_B": "Korelācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā_vērtība",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Beijesa_tīkls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Moda_(statistika)",
+    "concept_B": "Divkāršā_klasterizācija",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Kopējais_varbūtības_sadalījums",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "F_mērs",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "I_tipa_un_II_tipa_kļūdas",
+    "concept_B": "Izlase",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Ģenētiskais_algoritms",
+    "concept_B": "Lēmumu_koks",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Ekspertsistēma",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "F_mērs",
+    "concept_B": "Nulles_hipotēze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte_un_pārklājums",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Beiesa_teorēma",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Minkovska_attālums",
+    "concept_B": "K-medoīdi",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Tuvākās_distances_klasterizācija",
+    "concept_B": "Aritmētiskais_vidējais",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā_hipotēzes_pārbaude",
+    "concept_B": "Uzticamības_intervāls",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā_klasterizācija",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "T_tests",
+    "concept_B": "Standartnovirze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Datu_matrica",
+    "concept_B": "Galveno_komponentu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "T_tests",
+    "concept_B": "Nulles_hipotēze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā_klasterizācija",
+    "concept_B": "Dimensiju_skaita_samazināšana",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā_klasterizācija",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "F_mērs",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "K-medoīdi",
+    "concept_B": "Datu_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā_vērtība",
+    "concept_B": "K-medoīdi",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā_klasterizācija",
+    "concept_B": "Datizrace",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "T_tests",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana_pēc_vidējiem",
+    "concept_B": "Paredzēšanas–maksimizēšanas_algoritms",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Daudzdimensiju_datu_klasterizācija",
+    "concept_B": "Klasteru_analīze",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Modeļa_izvēle",
+    "concept_B": "Statistiskā_hipotēzes_pārbaude",
+    "is_PR": 0
+  },
+  {
+    "concept_A": "Naivais_Beijesa_klasifikators",
+    "concept_B": "Nosacījuma_varbūtības_sadalījums",
+    "is_PR": 0
+  }
+]

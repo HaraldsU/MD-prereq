@@ -1,0 +1,4070 @@
+[
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Network security",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Network security",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Software engineering",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Computer vision",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Object-oriented design",
+    "concept_B": "Distributed object",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Artificial intelligence",
+    "concept_B": "Information management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Object-oriented programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Database",
+    "concept_B": "Software engineering",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Information retrieval",
+    "concept_B": "Information management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Computer security",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data mining",
+    "concept_B": "Information management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Algorithm",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Combinatorial optimization",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Microarchitecture",
+    "concept_B": "System programming",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Natural language processing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Parallel processing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Software quality management",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Software engineering",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Distributed computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Programming language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "System programming",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Software project management",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Microarchitecture",
+    "concept_B": "Computer architecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Software development",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Assembly language",
+    "concept_B": "System programming",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "System programming",
+    "concept_B": "Mobile application development",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Social network analysis",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Theory of computation",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Artificial intelligence",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Database",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Computer security",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Parallel processing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Computer-aided software engineering",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "System programming",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Data mining",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Distributed computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Computer graphics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Assembly language",
+    "concept_B": "Wireless network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Programming language",
+    "concept_B": "Compiler construction",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Test automation",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Artificial intelligence",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Computer network",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Microarchitecture",
+    "concept_B": "Wireless network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Database",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Network service",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Object-oriented analysis and design",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Database",
+    "concept_B": "Data warehouse",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Database",
+    "concept_B": "Data integration",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Cloud computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Software metric",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Game theory",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Software architecture",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Assembly language",
+    "concept_B": "Computer architecture",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Software analytics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Artificial intelligence",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Modeling language",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Algorithm",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Information retrieval",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "System programming",
+    "concept_B": "Operating system",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Object-oriented design",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Analysis of algorithms",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Cloud computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Programming language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Information security",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Object-oriented analysis and design",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Database",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Computer architecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "System programming",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Information security",
+    "concept_B": "Computer security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Artificial intelligence",
+    "concept_B": "Graphical model",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data mining",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Software testing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Mobile application development",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Modeling language",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Software development",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Object-oriented design",
+    "concept_B": "Object-oriented analysis and design",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Object-oriented design",
+    "concept_B": "Modeling language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Compiler construction",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Object-oriented design",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Robotics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Data-intensive computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Database",
+    "concept_B": "Information security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Distributed object",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Mobile application development",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Computational geometry",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Broadband networks",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Internet protocol suite",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Wireless network",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Programming language",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Object-oriented programming",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "System programming",
+    "concept_B": "Distributed computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Data mining",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Game theory",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Cryptography",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Natural language processing",
+    "concept_B": "Computational linguistics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Object-oriented design",
+    "concept_B": "Software development",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Machine learning",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Database",
+    "concept_B": "Information management",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Computer graphics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Object-oriented design",
+    "predicted_PR": 1,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Programming language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Distributed object",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Theory of computation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Software project management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Compiler construction",
+    "concept_B": "Distributed computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel computing",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Test automation",
+    "concept_B": "Broadband networks",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software analytics",
+    "concept_B": "Machine learning",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Natural language processing",
+    "concept_B": "Software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Computer security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Distributed object",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Knowledge management",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data-intensive computing",
+    "concept_B": "Software project management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer architecture",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Robotics",
+    "concept_B": "Algorithm",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Computer-aided software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information security",
+    "concept_B": "Computational geometry",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Knowledge management",
+    "concept_B": "Distributed object",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Object-oriented analysis and design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data integration",
+    "concept_B": "Computer network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Software testing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented analysis and design",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network service",
+    "concept_B": "Internet protocol suite",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Machine learning",
+    "concept_B": "Compiler construction",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Object-oriented analysis and design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data integration",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software development",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented analysis and design",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wireless network",
+    "concept_B": "Microarchitecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Software metric",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational linguistics",
+    "concept_B": "Cryptography",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Distributed object",
+    "concept_B": "Artificial intelligence",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software metric",
+    "concept_B": "Data-intensive computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Modeling language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Database",
+    "concept_B": "Graphical model",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information retrieval",
+    "concept_B": "Cryptography",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data-intensive computing",
+    "concept_B": "Test automation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Data integration",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Microarchitecture",
+    "concept_B": "Software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel processing",
+    "concept_B": "System programming",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network security",
+    "concept_B": "Computer security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Compiler construction",
+    "concept_B": "Algorithm",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software analytics",
+    "concept_B": "Theory of computation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Computer security",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Software quality management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Software development",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Machine learning",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mobile application development",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer architecture",
+    "concept_B": "Computational geometry",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Modeling language",
+    "concept_B": "Software project management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Wireless network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational linguistics",
+    "concept_B": "Computational geometry",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Microarchitecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Computer security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Distributed object",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Analysis of algorithms",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer vision",
+    "concept_B": "Database",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cloud computing",
+    "concept_B": "Software project management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Internet protocol suite",
+    "concept_B": "Computer vision",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Distributed object",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information management",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented analysis and design",
+    "concept_B": "Combinatorial optimization",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information management",
+    "concept_B": "Modeling language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational linguistics",
+    "concept_B": "Wireless network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graphical model",
+    "concept_B": "Computer-aided software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "Microarchitecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information management",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Mobile application development",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Natural language processing",
+    "concept_B": "Cloud computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software analytics",
+    "concept_B": "Cloud computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software metric",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data-intensive computing",
+    "concept_B": "Software analytics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Social network analysis",
+    "concept_B": "Software quality management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "Parallel processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software analytics",
+    "concept_B": "Computer-aided software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer-aided software engineering",
+    "concept_B": "Wireless network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Knowledge management",
+    "concept_B": "Algorithm",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software project management",
+    "concept_B": "Information management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data integration",
+    "concept_B": "Software metric",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Software testing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Computational linguistics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel processing",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Test automation",
+    "concept_B": "Artificial intelligence",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Programming language",
+    "concept_B": "Software quality management",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software analytics",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Knowledge management",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graphical model",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Software development",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software project management",
+    "concept_B": "Machine learning",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Software architecture",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Software architecture",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Artificial intelligence",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Compiler construction",
+    "concept_B": "Theory of computation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information security",
+    "concept_B": "Machine learning",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information retrieval",
+    "concept_B": "Data warehouse",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented design",
+    "concept_B": "Computer architecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Database",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software architecture",
+    "concept_B": "Robotics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software project management",
+    "concept_B": "Network security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software metric",
+    "concept_B": "Internet protocol suite",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Robotics",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information management",
+    "concept_B": "Broadband networks",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Artificial intelligence",
+    "concept_B": "Operating system",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Microarchitecture",
+    "concept_B": "Broadband networks",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Test automation",
+    "concept_B": "Wireless network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "System programming",
+    "concept_B": "Software architecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer architecture",
+    "concept_B": "Information management",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Game theory",
+    "concept_B": "Software quality management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software metric",
+    "concept_B": "Software development",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Wireless network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software metric",
+    "concept_B": "Object-oriented programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Machine learning",
+    "concept_B": "Computer network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cloud computing",
+    "concept_B": "Computer graphics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Machine learning",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information retrieval",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Natural language processing",
+    "concept_B": "Test automation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network security",
+    "concept_B": "Information management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented analysis and design",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data mining",
+    "concept_B": "Test automation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Natural language processing",
+    "concept_B": "Modeling language",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "System programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational geometry",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software metric",
+    "concept_B": "Information security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Object-oriented design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "System programming",
+    "concept_B": "Combinatorial optimization",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mobile application development",
+    "concept_B": "Test automation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Mobile application development",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software testing",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational geometry",
+    "concept_B": "Natural language processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cryptography",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cloud computing",
+    "concept_B": "Distributed object",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Distributed object",
+    "concept_B": "Software testing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel computing",
+    "concept_B": "Natural language processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Distributed object",
+    "concept_B": "Computer network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Game theory",
+    "concept_B": "System programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algorithm design",
+    "concept_B": "Data integration",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer vision",
+    "concept_B": "Computational geometry",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Broadband networks",
+    "concept_B": "Software analytics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data integration",
+    "concept_B": "Software quality management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Computer-aided software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software development",
+    "concept_B": "Distributed object",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Software development",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Mobile application development",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Theory of computation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Modeling language",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cloud computing",
+    "concept_B": "Modeling language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Social network analysis",
+    "concept_B": "Computer security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "Database",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Social network analysis",
+    "concept_B": "Cloud computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data-intensive computing",
+    "concept_B": "Broadband networks",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software analytics",
+    "concept_B": "Broadband networks",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Assembly language",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Social network analysis",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Artificial intelligence",
+    "concept_B": "Algorithm",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network service",
+    "concept_B": "Software project management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cryptography",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Robotics",
+    "concept_B": "Computer vision",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational geometry",
+    "concept_B": "Software metric",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Knowledge management",
+    "concept_B": "Broadband networks",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Machine learning",
+    "concept_B": "Software development",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software development",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cloud computing",
+    "concept_B": "Software quality management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data mining",
+    "concept_B": "Software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data integration",
+    "concept_B": "Artificial intelligence",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cryptography",
+    "concept_B": "Theory of computation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Combinatorial optimization",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network service",
+    "concept_B": "Combinatorial optimization",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Algorithm",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network service",
+    "concept_B": "Data integration",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analysis of algorithms",
+    "concept_B": "Cryptography",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analysis of algorithms",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Programming language",
+    "concept_B": "Machine learning",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "System programming",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graphical model",
+    "concept_B": "Test automation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Internet protocol suite",
+    "concept_B": "Data mining",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software project management",
+    "concept_B": "Data warehouse",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mobile application development",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software analytics",
+    "concept_B": "Software quality management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Broadband networks",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer-aided software engineering",
+    "concept_B": "Cryptography",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Modeling language",
+    "concept_B": "Robotics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Artificial intelligence",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information management",
+    "concept_B": "Software metric",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network service",
+    "concept_B": "Software testing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cryptography",
+    "concept_B": "Operating system",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented design",
+    "concept_B": "Software quality management",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Game theory",
+    "concept_B": "Software analytics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational linguistics",
+    "concept_B": "Robotics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Robotics",
+    "concept_B": "Data warehouse",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cryptography",
+    "concept_B": "Computational linguistics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Software architecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "Network service",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mobile application development",
+    "concept_B": "Data-intensive computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented design",
+    "concept_B": "Broadband networks",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data integration",
+    "concept_B": "Compiler construction",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Internet protocol suite",
+    "concept_B": "Machine learning",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software metric",
+    "concept_B": "Software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented analysis and design",
+    "concept_B": "Test automation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Distributed object",
+    "concept_B": "System programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software architecture",
+    "concept_B": "Computer vision",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Social network analysis",
+    "concept_B": "Computational geometry",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software development",
+    "concept_B": "Information management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational linguistics",
+    "concept_B": "Social network analysis",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Database",
+    "concept_B": "Computational geometry",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data-intensive computing",
+    "concept_B": "Software architecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Broadband networks",
+    "concept_B": "Test automation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Distributed computing",
+    "concept_B": "Analysis of algorithms",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "System programming",
+    "concept_B": "Software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Distributed computing",
+    "concept_B": "Theory of computation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer vision",
+    "concept_B": "Software testing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Game theory",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Distributed object",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information retrieval",
+    "concept_B": "Software architecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network service",
+    "concept_B": "Distributed object",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Knowledge management",
+    "concept_B": "Machine learning",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "Software analytics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software metric",
+    "concept_B": "Social network analysis",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information retrieval",
+    "concept_B": "Computer architecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cryptography",
+    "concept_B": "Computer graphics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software testing",
+    "concept_B": "System programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Game theory",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Assembly language",
+    "concept_B": "Object-oriented analysis and design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Assembly language",
+    "concept_B": "Graphical model",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer vision",
+    "concept_B": "Software project management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Distributed object",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software project management",
+    "concept_B": "Game theory",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data-intensive computing",
+    "concept_B": "Combinatorial optimization",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Computer-aided software engineering",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software analytics",
+    "concept_B": "Database",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software testing",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Computer network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mobile application development",
+    "concept_B": "Object-oriented programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software analytics",
+    "concept_B": "Software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graphical model",
+    "concept_B": "Software architecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational linguistics",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algorithm",
+    "concept_B": "Software quality management",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Computer vision",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Assembly language",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data mining",
+    "concept_B": "Computational geometry",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational geometry",
+    "concept_B": "Software development",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational linguistics",
+    "concept_B": "Game theory",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Wireless network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software testing",
+    "concept_B": "Object-oriented programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational linguistics",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Compiler construction",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mobile application development",
+    "concept_B": "Wireless network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Test automation",
+    "concept_B": "Object-oriented design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Microarchitecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel computing",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information security",
+    "concept_B": "Compiler construction",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "System programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Knowledge management",
+    "concept_B": "Software analytics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Machine learning",
+    "concept_B": "Broadband networks",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Data-intensive computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Machine learning",
+    "concept_B": "Algorithm",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software project management",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software testing",
+    "concept_B": "Software engineering",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information security",
+    "concept_B": "Computer-aided software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software analytics",
+    "concept_B": "Network security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "Computer graphics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Distributed object",
+    "concept_B": "Computer security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software testing",
+    "concept_B": "Distributed object",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data integration",
+    "concept_B": "Information management",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Robotics",
+    "concept_B": "Distributed computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Distributed computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented design",
+    "concept_B": "Cryptography",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information management",
+    "concept_B": "Data structure",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software development",
+    "concept_B": "Social network analysis",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cloud computing",
+    "concept_B": "System programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Microarchitecture",
+    "concept_B": "Internet protocol suite",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Knowledge management",
+    "concept_B": "Object-oriented programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Computer-aided software engineering",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Internet protocol suite",
+    "concept_B": "Data structure",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Distributed computing",
+    "concept_B": "System programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network service",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Database",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational geometry",
+    "concept_B": "Parallel processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Database",
+    "concept_B": "Software analytics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Discrete mathematics",
+    "concept_B": "Distributed computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cloud computing",
+    "concept_B": "Artificial intelligence",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software development",
+    "concept_B": "Operating system",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Object-oriented design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Analysis of algorithms",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer-aided software engineering",
+    "concept_B": "Modeling language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Theory of computation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Operating system",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Broadband networks",
+    "concept_B": "Modeling language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software testing",
+    "concept_B": "Computer security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Computational linguistics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational geometry",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network service",
+    "concept_B": "Software quality management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Game theory",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graphical model",
+    "concept_B": "Internet protocol suite",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "System programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Object-oriented programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented analysis and design",
+    "concept_B": "Game theory",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software metric",
+    "concept_B": "Robotics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data mining",
+    "concept_B": "Natural language processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network service",
+    "concept_B": "Analysis of algorithms",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Software project management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer vision",
+    "concept_B": "Data-intensive computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational geometry",
+    "concept_B": "Network service",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Microarchitecture",
+    "concept_B": "Operating system",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Compiler construction",
+    "concept_B": "Data-intensive computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Assembly language",
+    "concept_B": "Distributed object",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information retrieval",
+    "concept_B": "Programming language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Broadband networks",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Test automation",
+    "concept_B": "Data mining",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Data structure",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Compiler construction",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data integration",
+    "concept_B": "Game theory",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Microarchitecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer vision",
+    "concept_B": "Computational linguistics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wireless network",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Database",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Artificial intelligence",
+    "concept_B": "Software quality management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wireless network",
+    "concept_B": "Software project management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Internet protocol suite",
+    "concept_B": "Distributed object",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer vision",
+    "concept_B": "Modeling language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Artificial intelligence",
+    "concept_B": "Computer security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data mining",
+    "concept_B": "Network security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graphical model",
+    "concept_B": "Computer architecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information retrieval",
+    "concept_B": "System programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Data integration",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network security",
+    "concept_B": "Wireless network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Algorithm",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mobile application development",
+    "concept_B": "Computational geometry",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Machine learning",
+    "concept_B": "Distributed computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Network service",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented design",
+    "concept_B": "Network service",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Modeling language",
+    "concept_B": "Internet protocol suite",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Programming language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cryptography",
+    "concept_B": "Natural language processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel computing",
+    "concept_B": "Cryptography",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Microarchitecture",
+    "concept_B": "Object-oriented programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel processing",
+    "concept_B": "Algorithm",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Natural language processing",
+    "concept_B": "Robotics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Software testing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software architecture",
+    "concept_B": "Microarchitecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Internet protocol suite",
+    "concept_B": "Computer security",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Software analytics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational geometry",
+    "concept_B": "Computer security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information management",
+    "concept_B": "Combinatorial optimization",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer vision",
+    "concept_B": "Software quality management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network service",
+    "concept_B": "Computer graphics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Internet protocol suite",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analysis of algorithms",
+    "concept_B": "Robotics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information security",
+    "concept_B": "Test automation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "Programming language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel processing",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Data structure",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graphical model",
+    "concept_B": "System programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel computing",
+    "concept_B": "Data-intensive computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Robotics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Parallel processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Robotics",
+    "concept_B": "Software metric",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Machine learning",
+    "concept_B": "Software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer architecture",
+    "concept_B": "Object-oriented design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data integration",
+    "concept_B": "Data mining",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algorithm design",
+    "concept_B": "Data-intensive computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Assembly language",
+    "concept_B": "Software metric",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer network",
+    "concept_B": "Computer graphics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Computational geometry",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software testing",
+    "concept_B": "Wireless network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information management",
+    "concept_B": "Software architecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Software metric",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "System programming",
+    "concept_B": "Software quality management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented design",
+    "concept_B": "Computational linguistics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Modeling language",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Network security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cryptography",
+    "concept_B": "Computer architecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "System programming",
+    "concept_B": "Artificial intelligence",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analysis of algorithms",
+    "concept_B": "Artificial intelligence",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Distributed computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Microarchitecture",
+    "concept_B": "Software project management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Graphical model",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Artificial intelligence",
+    "concept_B": "Analysis of algorithms",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer architecture",
+    "concept_B": "Assembly language",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer-aided software engineering",
+    "concept_B": "Robotics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel processing",
+    "concept_B": "Programming language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Programming language",
+    "concept_B": "Software analytics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wireless network",
+    "concept_B": "Natural language processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Robotics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Broadband networks",
+    "concept_B": "Network security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graphical model",
+    "concept_B": "Algorithm",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cryptography",
+    "concept_B": "Artificial intelligence",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data-intensive computing",
+    "concept_B": "Programming language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software analytics",
+    "concept_B": "Cryptography",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network security",
+    "concept_B": "Object-oriented design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data-intensive computing",
+    "concept_B": "Software metric",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cloud computing",
+    "concept_B": "Graphical model",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analysis of algorithms",
+    "concept_B": "Software testing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Distributed computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software architecture",
+    "concept_B": "Distributed object",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Broadband networks",
+    "concept_B": "Cryptography",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "Software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Test automation",
+    "concept_B": "Compiler construction",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Compiler construction",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational geometry",
+    "concept_B": "Operating system",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Test automation",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Internet protocol suite",
+    "concept_B": "Operating system",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Microarchitecture",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Data mining",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel processing",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mobile application development",
+    "concept_B": "Parallel processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Compiler construction",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algorithm design",
+    "concept_B": "Software quality management",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Distributed computing",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analysis of algorithms",
+    "concept_B": "Information management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software architecture",
+    "concept_B": "Computer-aided software engineering",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Software development",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Data integration",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Modeling language",
+    "concept_B": "Software analytics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Compiler construction",
+    "concept_B": "Information security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graphical model",
+    "concept_B": "Software project management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Natural language processing",
+    "concept_B": "Programming language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Internet protocol suite",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information retrieval",
+    "concept_B": "Algorithm",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software analytics",
+    "concept_B": "Test automation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graphical model",
+    "concept_B": "Theory of computation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Algorithm design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cryptography",
+    "concept_B": "Software project management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Broadband networks",
+    "concept_B": "Information security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network security",
+    "concept_B": "Theory of computation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Social network analysis",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graphical model",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software architecture",
+    "concept_B": "Software quality management",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cloud computing",
+    "concept_B": "Test automation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information security",
+    "concept_B": "Modeling language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cloud computing",
+    "concept_B": "Data integration",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer-aided software engineering",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel computing",
+    "concept_B": "Artificial intelligence",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software metric",
+    "concept_B": "Network service",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Database",
+    "concept_B": "Computational linguistics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Graphical model",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational linguistics",
+    "concept_B": "Object-oriented programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software testing",
+    "concept_B": "Algorithm",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software testing",
+    "concept_B": "Graphical model",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Assembly language",
+    "concept_B": "Natural language processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Programming language",
+    "concept_B": "Software metric",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Software quality management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented analysis and design",
+    "concept_B": "Computer network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer vision",
+    "concept_B": "Cryptography",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Compiler construction",
+    "concept_B": "Network security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Operating system",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software testing",
+    "concept_B": "Cloud computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data mining",
+    "concept_B": "Robotics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cloud computing",
+    "concept_B": "Computer-aided software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Distributed computing",
+    "concept_B": "Combinatorial optimization",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented analysis and design",
+    "concept_B": "Broadband networks",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented analysis and design",
+    "concept_B": "Software quality management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer-aided software engineering",
+    "concept_B": "Programming language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Internet protocol suite",
+    "concept_B": "Software analytics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "Computational geometry",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Compiler construction",
+    "concept_B": "Parallel processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Robotics",
+    "concept_B": "System programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Compiler construction",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Broadband networks",
+    "concept_B": "Cloud computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data mining",
+    "concept_B": "Programming language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Machine learning",
+    "concept_B": "Internet protocol suite",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel processing",
+    "concept_B": "Computer architecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Distributed computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "System programming",
+    "concept_B": "Data-intensive computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented design",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Modeling language",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information security",
+    "concept_B": "Data warehouse",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analysis of algorithms",
+    "concept_B": "Data-intensive computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software architecture",
+    "concept_B": "Computer graphics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Artificial intelligence",
+    "concept_B": "Parallel processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wireless network",
+    "concept_B": "Cloud computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational geometry",
+    "concept_B": "Translator (computing)",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Computational linguistics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software development",
+    "concept_B": "Information security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Object-oriented design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Assembly language",
+    "concept_B": "Data-intensive computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer architecture",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel processing",
+    "concept_B": "Software metric",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Mobile application development",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Parallel processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Robotics",
+    "concept_B": "Software analytics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software architecture",
+    "concept_B": "Data-intensive computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented analysis and design",
+    "concept_B": "Software project management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Test automation",
+    "concept_B": "Software project management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Social network analysis",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Data structure",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data mining",
+    "concept_B": "Compiler construction",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data-intensive computing",
+    "concept_B": "Parallel processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Robotics",
+    "concept_B": "Computer-aided software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cryptography",
+    "concept_B": "Software development",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented design",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Machine learning",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wireless network",
+    "concept_B": "Object-oriented design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented analysis and design",
+    "concept_B": "Analysis of algorithms",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented design",
+    "concept_B": "Wireless network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graphical model",
+    "concept_B": "Database",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data structure",
+    "concept_B": "Data warehouse",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information security",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Data mining",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computational geometry",
+    "concept_B": "Mobile application development",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Robotics",
+    "concept_B": "Parallel processing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cryptography",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "Discrete mathematics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel processing",
+    "concept_B": "Game theory",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "Test automation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Artificial intelligence",
+    "concept_B": "Software analytics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information retrieval",
+    "concept_B": "Computer security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Assembly language",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software architecture",
+    "concept_B": "Data mining",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data integration",
+    "concept_B": "Combinatorial optimization",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Internet protocol suite",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "Internet protocol suite",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Programming language",
+    "concept_B": "Distributed object",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network service",
+    "concept_B": "Computer network",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel processing",
+    "concept_B": "Software quality management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software engineering",
+    "concept_B": "System programming",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Translator (computing)",
+    "concept_B": "Data warehouse",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software analytics",
+    "concept_B": "Computational geometry",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software project management",
+    "concept_B": "Distributed computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Modeling language",
+    "concept_B": "Cryptography",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software quality management",
+    "concept_B": "Computer graphics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Broadband networks",
+    "concept_B": "Software testing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Combinatorial optimization",
+    "concept_B": "Graphical model",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer architecture",
+    "concept_B": "Network service",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wireless network",
+    "concept_B": "Distributed computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information management",
+    "concept_B": "Cryptography",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data warehouse",
+    "concept_B": "Assembly language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer security",
+    "concept_B": "Data warehouse",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Social network analysis",
+    "concept_B": "Test automation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Network security",
+    "concept_B": "Software engineering",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Natural language processing",
+    "concept_B": "Microarchitecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel processing",
+    "concept_B": "Software analytics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Data integration",
+    "concept_B": "Graphical model",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Social network analysis",
+    "concept_B": "Data structure",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Broadband networks",
+    "concept_B": "Object-oriented design",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information management",
+    "concept_B": "Algorithm",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Distributed computing",
+    "concept_B": "Information retrieval",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Object-oriented programming",
+    "concept_B": "Computational geometry",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Graphical model",
+    "concept_B": "Computational linguistics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Computer graphics",
+    "concept_B": "Microarchitecture",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wireless network",
+    "concept_B": "Distributed object",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Parallel computing",
+    "concept_B": "Information security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mobile application development",
+    "concept_B": "Robotics",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Wireless network",
+    "concept_B": "Knowledge management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Information management",
+    "concept_B": "Parallel computing",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cryptography",
+    "concept_B": "Test automation",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mobile application development",
+    "concept_B": "Information security",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software metric",
+    "concept_B": "Information management",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "System programming",
+    "concept_B": "Computer graphics",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Software development",
+    "concept_B": "Programming language",
+    "predicted_PR": 0,
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Theory of computation",
+    "concept_B": "Data-intensive computing",
+    "predicted_PR": 1,
+    "ground_truth_PR": 0
+  }
+]
