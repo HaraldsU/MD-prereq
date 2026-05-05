@@ -21,6 +21,7 @@ HEADERS = {
 
 # TOC: (chapter_number, chapter_name, chapter_slug, [(section_name, section_slug, [subsubsection_slug, ...]), ...])
 # Slugs are the filename without the "-1.html" suffix (we append it when building URLs).
+# {{{
 TOC = [
     (1, "Boolean retrieval", "boolean-retrieval", [
         ("An example information retrieval problem", "an-example-information-retrieval-problem", []),
@@ -193,17 +194,21 @@ TOC = [
         ("Model-based clustering", "model-based-clustering", []),
     ]),
 ]
+# }}}
 
 
 def url_for(slug: str) -> str:
+# {{{
     # Slugs like "references-and-further-reading-2" or "exercises-1" are
     # already complete filenames; only bare slugs need "-1" appended.
     if re.search(r"-\d+$", slug):
         return f"{BASE}{slug}.html"
     return f"{BASE}{slug}-1.html"
+# }}}
 
 
 def fetch(url: str, cache: dict) -> str:
+# {{{
     if url in cache:
         return cache[url]
     for attempt in range(3):
@@ -217,9 +222,11 @@ def fetch(url: str, cache: dict) -> str:
             if attempt == 2:
                 raise
             time.sleep(2)
+# }}}
 
 
 def extract_body_text(html: str) -> str:
+# {{{
     """
     Extract main textual content from an IR-book HTML page, stripping the
     top/bottom navigation (next/up/prev/contents/index) and the final
@@ -303,9 +310,11 @@ def extract_body_text(html: str) -> str:
     lines = [ln for ln in lines if "PDF edition" not in ln]
 
     return "\n".join(ln for ln in lines).strip()
+# }}}
 
 
 def main():
+# {{{
     cache = {}
     records = []
 
@@ -349,7 +358,9 @@ def main():
         json.dump(records, f, indent=2, ensure_ascii=False)
 
     print(f"\nWrote {len(records)} sections to {out_path}")
+# }}}
 
 
 if __name__ == "__main__":
     main()
+

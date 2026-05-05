@@ -2,6 +2,7 @@ import json
 import numpy as np
 from datasets import load_dataset
 from pprint import pprint
+from pathlib import Path
 
 # DatasetDict({
 # test: Dataset({
@@ -18,7 +19,7 @@ def load_krapiving():
 
 # clusters, sentences, ner, relations, doc_key
 def load_SCIERC():
-    path = "/home/dust/Downloads/processed_data/json/train.json"
+    path = Path('~/Downloads/processed_data/json/train.json').expanduser()
     
     output = []
     

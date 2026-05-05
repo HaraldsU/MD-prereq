@@ -14,6 +14,7 @@ import os
 import time
 import random
 import icu
+import threading
 
 def make_openai_client():
 # {{{
@@ -25,20 +26,28 @@ def make_openai_client():
     return client
 # }}}
 
-def call_openrouter_api(section_name: str, template: str) -> str:
+def call_openrouter_api(client, model: str, prompt_type: str, section_name: str, template: str) -> str:
 # {{{
     kwargs = {
         'max_tokens': int(MAX_TOKENS),
         'messages': [],
-        'model': MODEL,
+        'model': model,
         'temperature': 1,
     }
 
     if SYSTEM_PROMPT == 'SYSTEM-PROMPT-YES':
         if LANGUAGE == 'LATVIAN':
-            system_message = f'Tu esi specializēts palīgs, kurš tekstos nosaka {PROMPT_TYPE.lower()[:-1]}us. Tu esi precīzs, analītisks un neatlaidīgs.'
+            word = ''
+
+            if prompt_type == 'GALVENĀS-FRĀZES':
+                word = prompt_type.replace('-', ' ').lower()
+            else:
+                word = f'{prompt_type.lower()[:-1]}us'
+                
+            system_message = f'Tu esi specializēts palīgs, kurš tekstos nosaka {word}. Tu esi precīzs, analītisks un neatlaidīgs.'
         else:
-            system_message = f'You are a specialized assistant for extracting {PROMPT_TYPE.lower()} from texts. You are precise, analytical, and persistent.'
+            system_message = f'You are a specialized assistant for extracting {prompt_type.lower()} from texts. You are precise, analytical, and persistent.'
+
         kwargs['messages'].append({
             'role': 'system',
             'content': system_message 
@@ -48,7 +57,7 @@ def call_openrouter_api(section_name: str, template: str) -> str:
     attempts = 10
 
     for attempt in range(attempts):
-        response = CLIENT.chat.completions.create(
+        response = client.chat.completions.create(
             **kwargs,
             extra_body = {
                 'reasoning': {'enabled': False}
@@ -67,11 +76,11 @@ def call_openrouter_api(section_name: str, template: str) -> str:
     # print()
 # }}}
 
-def generate_template_en(section_name: str, section_text: str) -> str:
+def generate_template_en(prompt_type:str, section_name: str, section_text: str, examples: str) -> str:
 # {{{
-    word = PROMPT_TYPE.lower()
+    word = prompt_type.lower()
     instructions = f'<instructions>\nExtract all {word} present in the input text.\n</instructions>\n'
-    context = f'<context>\nAll of the extracted {word} should be related to the domain of "information retrieval".\n</context>\n'
+    context = f'<context>\nAll of the extracted {word} should be related to the domain of "{DOMAIN}".\n</context>\n'
     format = (
         f'<format>\nRespond only with a comma and 1-space separated list of the relevant {word}. '
         f'If the {word[:-1]} itself contains any commas, write out the {word[:-1]} without the commas. '
@@ -98,20 +107,21 @@ def generate_template_en(section_name: str, section_text: str) -> str:
     # }}}
     elif PROMPT_METHOD == 'FEW-SHOT':
     # {{{
-        examples = EXAMPLES
         template = instructions + context + examples + format + input
     # }}}
 
     return template
 # }}}
 
-def generate_template_lv(section_name: str, section_text: str) -> str:
+def generate_template_lv(prompt_type: str, section_name: str, section_text: str, examples: str) -> str:
 # {{{
-    word = PROMPT_TYPE.lower()
+    # print('prompt_type = ', prompt_type)
+    word = prompt_type.lower()
 
-    if PROMPT_TYPE == 'GALVENĀS FRĀZES':
+    if prompt_type == 'GALVENĀS-FRĀZES':
+        word = prompt_type.replace('-', ' ').lower()
         instructions = f'<instrukcijas>\nNosaki visas {word}, kuras atrodas ievades tekstā.\n</instrukcijas>\n'
-        context = f'<konteksts>\nVisām noteiktajām galvenajām frāzēm jābūt saistītām ar zināšanu sfēru "informācijas izguve".\n</konteksts>\n'
+        context = f'<konteksts>\nVisām noteiktajām galvenajām frāzēm jābūt saistītām ar zināšanu sfēru "{DOMAIN}".\n</konteksts>\n'
         format = (
             f'<noformējums>\nAtbildi tikai ar komatu un vienu atstarpi atdalītu sarakstu, kurā iekļautas noteiktās {word}. '
             f'Ja pašā galvenajā frāzē ir komats, tad uzraksti galveno frāzi bez komatiem. '
@@ -119,7 +129,7 @@ def generate_template_lv(section_name: str, section_text: str) -> str:
         )
     else:
         instructions = f'<instrukcijas>\nNosaki visus {word[:-1]}us, kuri atrodas ievades tekstā.\n</instrukcijas>\n'
-        context = f'<konteksts>\nVisiem noteiktajiem {word[:-1]}iem jābūt saistītiem ar zināšanu sfēru "informācijas izguve".\n</konteksts>\n'
+        context = f'<konteksts>\nVisiem noteiktajiem {word[:-1]}iem jābūt saistītiem ar zināšanu sfēru "{DOMAIN}".\n</konteksts>\n'
         format = (
             f'<noformējums>\nAtbildi tikai ar komatu un vienu atstarpi atdalītu sarakstu, kurā iekļauti noteiktie {word}. '
             f'Ja pašā {word[:-1]}ā ir komats, tad uzraksti {word[:-1]}u bez komatiem. '
@@ -134,44 +144,50 @@ def generate_template_lv(section_name: str, section_text: str) -> str:
         definition = ''
 
         if DOMAIN_CONTEXT == 'DOMAIN-SUBCONTEXT-YES':
-            context = f'<context>\nAll of the extracted {word} should be related to the domain of "information retrieval" in the subcontext of "{section_name}".\n</context>\n'
+            context = f'<konteksts>\nVisām izvilktajām galvenajām frāzēm jābūt saistītām ar zināšanu sfēras "{DOMAIN}" apakašnozari "{section_name}".\n</konteksts>\n'
         elif CONCEPT_DEFINITION == 'CONCEPT-DEFINITION-YES':
-            definition = f'<definition>\nA {word[:-1]} is a word or a phrase that describes a useful idea to people and which taxonomically belongs to a particular domain.\n</definition>\n'
+            definition = f'<definīcija>\nGalvenās frāzes ir vārdi vai vārdu savienojumi, kuri raksturo kādu cilvēkiem lietderı̄gu jēdzienu, kurš taksonomiski pieder kādai zināšanu sfērai.\n</definīcija>\n'
         elif CONCEPT_DEFINITION == 'CONCEPT-DEFINITION-WIKIPEDIA':
-            definition = f'<definition>\nConsider {word} as topics notable enough to warrant their own Wikipedia article.\n</definition>\n'
-        elif CONCEPT_DEFINITION == 'CONCEPT-DEFINITION-KEY':
-            # From WangEtAl16oct
-            definition = f'<definition>\nA key {word} in the text is a {word} which is not only mentioned but also discussed and studied in the text.\n</definition>\n'
+            definition = f'<definīcija>\nUzskati galvenās frāzes par jēdzieniem, kuri ir pietiekami nozīmīgi, lai tiem būtu pašiem savs Wikipedia šķirkļis.\n</definīcija>\n'
+        # elif CONCEPT_DEFINITION == 'CONCEPT-DEFINITION-KEY':
+            # # From WangEtAl16oct
+            # definition = f'<definīcija>\nGalvenā frāze ir tāda frāze, kas ir ne tikai pieminētā tekstā, bet arī apspriesta un studēta tekstā.\n</definīcija>\n'
 
         template = instructions + definition + context + format + input
     # }}}
     elif PROMPT_METHOD == 'FEW-SHOT':
     # {{{
-        examples = EXAMPLES
-        template = instructions + context + examples + format + input
+        definition = f'<definīcija>\nGalvenā frāze ir tāda frāze, kas ir ne tikai pieminētā tekstā, bet arī apspriesta un studēta tekstā.\n</definīcija>\n'
+        template = instructions + definition + context + examples + format + input
     # }}}
 
     return template
 # }}}
 
-def get_few_shot_examples():
+def get_few_shot_examples(fs_type: str, fs_amount: str, prompt_type: str):
 # {{{
     with open(DS_JSON_PATH, 'r') as f:
         iir_sections_obj = json.load(f)
 
     amount_options = {'ONE-SHOT': 1, 'THREE-SHOT': 3, 'FIVE-SHOT': 5}
-    amount = amount_options[SHOT_AMOUNT]
+    amount = amount_options[fs_amount]
     section_numbers = []
     examples = ''
     section_text = ''
     gtc = ''
 
-    if SHOT_TYPE == 'FIRST':
+    if fs_type == 'FIRST':
         for section in iir_sections_obj[:amount]:
             section_text = section['section_text']
             gtc = ', '.join(section['gtc'])
             section_numbers.append(section['section_number'])
-    elif SHOT_TYPE == 'RANDOM':
+
+            if LANGUAGE == 'LATVIAN':
+                examples += f'<piemērs>\nTeksts: "{section_text}"\n{prompt_type.replace('-', ' ').capitalize()}: "{gtc}"\n</piemērs>\n'
+            else:
+                examples += f'<example>\nText: "{section_text}"\n{prompt_type.capitalize()}: "{gtc}"\n</example>\n'
+
+    elif fs_type == 'RANDOM':
         selected = random.sample(iir_sections_obj, amount)
 
         for section in selected:
@@ -179,79 +195,16 @@ def get_few_shot_examples():
             gtc = ', '.join(section['gtc'])
             section_numbers.append(section['section_number'])
 
-    if LANGUAGE == 'LATVIAN':
-        examples += f'<piemērs>\nTeksts: "{section_text}"\n{PROMPT_TYPE.capitalize()}: "{gtc}"\n</piemērs>\n'
-    else:
-        examples += f'<example>\nText: "{section_text}"\n{PROMPT_TYPE.capitalize()}: "{gtc}"\n</example>\n'
+            if LANGUAGE == 'LATVIAN':
+                examples += f'<piemērs>\nTeksts: "{section_text}"\n{prompt_type.replace('-', ' ').capitalize()}: "{gtc}"\n</piemērs>\n'
+            else:
+                examples += f'<example>\nText: "{section_text}"\n{prompt_type.capitalize()}: "{gtc}"\n</example>\n'
 
+    print('section_numbers = ', section_numbers)
     return section_numbers, examples
 # }}}
 
-def load_and_predict_IIR():
-# {{{
-    print('--- Getting predictions ---')
-
-    # section_number, section_name, section_text, source_url
-    with open(DS_JSON_PATH, 'r') as f:
-        iir_sections_obj = json.load(f)
-
-    predictions = []
-    iir_gt_paths = get_IIR_ground_truth_paths()
-
-    for section, gt_path in zip(iir_sections_obj, iir_gt_paths):
-    # {{{
-        section_number = section['section_number']
-        
-        if section_number in SECTIONS or SECTIONS == [0]:
-            section_name = section['section_name']
-            section_text = section['section_text']
-            
-            if LANGUAGE == 'LATVIAN':
-                template = generate_template_lv(section_name, section_text) 
-                print(template)
-            else:
-                template = generate_template_en(section_name, section_text) 
-
-            # print('SECTION_NUMBERS = ', FS_SECTION_NUMBERS)
-            # if section_number not in FS_SECTION_NUMBERS:
-            print(section_number, section_name)
-            prediction = call_openrouter_api(section_name, template)
-            prediction = sorted([c.strip() for c in prediction.split(',')])
-            ground_truth = []
-
-            with open(gt_path, 'r') as f:
-                reader = csv.reader(f)
-                next(reader)
-                threshold = {'ONE': 1, 'TWO': 2, 'THREE': 3}[CONSENSUS]
-
-                for row in reader:
-                    if row[1] and row[2] and row[3]:
-                        votes = [row[1][0], row[2][0], row[3][0]].count('1')
-                        # Annotator agreement (1)   
-                        if votes >= threshold:
-                            concept = ast.literal_eval(row[0])[0]
-                            ground_truth.append(concept)
-
-            ground_truth = sorted(ground_truth)
-
-            predictions.append({
-                'section_number': section_number,
-                'section_name': section_name,
-                'predicted_concepts (pc)': prediction,
-                'pc_count': len(prediction),
-                'pc_count_to_text_len_ratio (%)': round((len(prediction) / len(section_text)) * 100, 3),
-                'ground_truth_concepts (gtc)': ground_truth,
-                'gtc_count': len(ground_truth),
-                'gtc_count_to_text_len_ratio (%)': round((len(ground_truth) / len(section_text)) * 100, 3),
-                'section_text_count': len(section_text)
-            })
-        # }}}
-
-    write_json(predictions, 'predictions')
-    print('Predicting finished, saving to file:\noutputs/' + PATH_PREFIX + 'predictions.json')
-# }}}
-
-def load_and_predict_DS():
+def load_and_predict_ds(client, model, prompt_type, path_prefix, examples: str, fs_sections):
 # {{{
     print('--- Getting predictions ---')
 
@@ -261,25 +214,35 @@ def load_and_predict_DS():
 
     predictions = []
 
-    for section in sections:
+    for i, section in enumerate(sections):
     # {{{
+        if i % 10 == 0:
+            print(f'{model}: {i}/{len(sections)}')
+
         section_number = section['section_number']
         
-        if section_number in SECTIONS or SECTIONS == [0]:
+        if (section_number in SECTIONS or SECTIONS == [0]) and (section_number not in fs_sections):
             section_name = section['section_name']
             section_text = section['section_text']
             
             if LANGUAGE == 'LATVIAN':
-                template = generate_template_lv(section_name, section_text) 
+                template = generate_template_lv(prompt_type, section_name, section_text, examples) 
                 # print(template)
             else:
-                template = generate_template_en(section_name, section_text) 
+                template = generate_template_en(prompt_type, section_name, section_text, examples) 
+                # print(template)
 
             print(section_number, section_name)
-            prediction = call_openrouter_api(section_name, template)
-            collator = icu.Collator.createInstance(icu.Locale('lv'))
-            prediction = sorted([c.strip() for c in prediction.split(',')], key = collator.getSortKey)
-            ground_truth = sorted(list(set(section['gtc'])), key = collator.getSortKey)
+            prediction = call_openrouter_api(client, model, prompt_type, section_name, template)
+
+            if LANGUAGE == 'LATVIAN':
+                collator = icu.Collator.createInstance(icu.Locale('lv'))
+                prediction = sorted([c.strip() for c in prediction.split(',')], key = collator.getSortKey)
+                ground_truth = sorted(list(set(section['gtc'])), key = collator.getSortKey)
+            else:
+                prediction = sorted([c.strip() for c in prediction.split(',')])
+                ground_truth = sorted(list(set(section['gtc'])))
+
             # print('prediction = ', prediction)
             # print('ground_truth =', ground_truth)
 
@@ -294,30 +257,26 @@ def load_and_predict_DS():
                 'gtc_count_to_text_len_ratio (%)': round((len(ground_truth) / len(section_text)) * 100, 3),
                 'section_text_count': len(section_text)
             })
+        else:
+            print('--- FS EXAMPLE HIT !!! ---')
+            print(f'{section_number}')
         # }}}
 
-    write_json(predictions, 'predictions')
-    print('Predicting finished, saving to file:\noutputs/' + PATH_PREFIX + 'predictions.json')
+    write_json(predictions, path_prefix, 'predictions') 
+    print('Predicting finished, saving to file:\noutputs/' + path_prefix + 'predictions.json')
 # }}}
 
-def write_json(predictions, type = '', file_name = ''):
+def write_json(predictions, path_prefix, type = ''):
 # {{{
-    if file_name != '':
-        with open(str(OUTPUTS_PATH) + '/' + file_name, 'w') as f:
-            json.dump(predictions, f, indent = 2)
-    else:
-        with open('outputs/' + PATH_PREFIX + type + '.json', 'w') as f:
-            json.dump(predictions, f, ensure_ascii = False, indent = 2)
+    with open(str(OUTPUTS_PATH) + '/' + path_prefix + type + '.json', 'w') as f:
+        json.dump(predictions, f, ensure_ascii = False, indent = 2)
 # }}}
 
-def evaluate_DS(path = '', file_name = ''):
+def evaluate_ds(path_prefix = ''):
 # {{{
     print('--- Evaluations ---')
-    if path != '':
-        predictions_json_path = path
-    else:
-        predictions_filename = PATH_PREFIX + 'predictions.json'
-        predictions_json_path = (OUTPUTS_PATH / predictions_filename).expanduser()
+    predictions_filename = path_prefix + 'predictions.json'
+    predictions_json_path = (OUTPUTS_PATH / predictions_filename).expanduser()
     
     evaluation = []
     count = 0
@@ -415,8 +374,8 @@ def evaluate_DS(path = '', file_name = ''):
     print(f'Average: p={(prec_total / count):.3f} r={(rec_total / count):.3f} F1:{(f1_total / count):.3f}')
     print(f'Average (sem): p_sem={(sem_prec_total / count):.3f} r_sem={(sem_rec_total / count):.3f} F1_sem:{(sem_f1_total / count):.3f}')
 
-    write_json(evaluation, 'evaluation', file_name)
-    print('Evaluation finished, saving to file:\noutputs/' + PATH_PREFIX + 'evaluation.json')
+    write_json(evaluation, path_prefix, 'evaluation')
+    print('Evaluation finished, saving to file:\noutputs/' + path_prefix + 'evaluation.json')
 # }}}
 
 def get_IIR_ground_truth_paths() -> list[str]:
@@ -446,8 +405,6 @@ def normalize_words(words: list[str]) -> list[str]:
     for word in words:
         cleaned = ' '.join(re.sub(f'[{re.escape(string.punctuation)}]', ' ', word).lower().split())
         result.append(cleaned)
-        # stemmed = ' '.join(stemmer.stem(w) for w in cleaned.split())
-        # result.append(stemmed)
 
     return result
 # }}}
@@ -463,6 +420,7 @@ def stem_words(words: list[str]) -> list[str]:
             stemmed = ' '.join(STEMMER.stem(w) for w in word.split())
         result.append(stemmed)
 
+    # print(result)
     return result
 # }}}
 
@@ -482,10 +440,12 @@ def calc_exact_metrics(predicted: set[str], ground_truth: set[str]) -> tuple[flo
 def calc_semantical_metrics(predicted: list[str], ground_truth: list[str]):
 # {{{
     if len(ground_truth) > 0:
-        # sem_emb_predictions = SIM_MODEL.encode(predicted)
-        # sem_emb_gt = SIM_MODEL.encode(ground_truth)
-        sem_emb_predictions = SIM_MODEL.encode(predicted, prompt_name = "sts_query")
-        sem_emb_gt = SIM_MODEL.encode(ground_truth)
+        if LANGUAGE == 'LATVIAN':
+            sem_emb_predictions = SIM_MODEL.encode(predicted, prompt_name = 'sts_query', batch_size = 4)
+            sem_emb_gt = SIM_MODEL.encode(ground_truth)
+        else:
+            sem_emb_predictions = SIM_MODEL.encode(predicted)
+            sem_emb_gt = SIM_MODEL.encode(ground_truth)
 
         # predictions (dim = 0) X gt (dim = 1)
         sem = SIM_MODEL.similarity(sem_emb_predictions, sem_emb_gt).clamp(min = 0)
@@ -547,13 +507,13 @@ def count_concepts(path: str, type = 'predicted') -> tuple[int, int]:
 def print_parameters():
 # {{{
     print()
-    print('MODEL = ' + MODEL)
+    # print('MODEL = ' + MODEL)
     print('MAX_TOKENS = ' + MAX_TOKENS)
     print('PROMPT_METHOD = ' + PROMPT_METHOD)
-    print('PROMPT_TYPE = ' + PROMPT_TYPE)
-    print('SHOT_AMOUNT = ' + SHOT_AMOUNT)
-    print('SHOT_TYPE = ' + SHOT_TYPE)
-    print('TIMESTAMP = ' + TIMESTAMP)
+    # print('PROMPT_TYPE = ' + PROMPT_TYPE)
+    # print('SHOT_AMOUNT = ' + SHOT_AMOUNT)
+    # print('SHOT_TYPE = ' + SHOT_TYPE)
+    # print('TIMESTAMP = ' + TIMESTAMP)
     print('DOMAIN_CONTEXT = ' + DOMAIN_CONTEXT)
     print('CONCEPT_DEFINITION = ' + CONCEPT_DEFINITION)
     print('SYSTEM PROMPT = ' + SYSTEM_PROMPT)
@@ -575,7 +535,7 @@ def fix_rounding_errors(folder_path: Path):
             # print(file.name)
             # print(file_path)
             # print(str(OUTPUTS_PATH) + '/' + file.name)
-            evaluate_DS(file_path, file.name)
+            evaluate_ds(file_path, file.name)
 # }}}
 
 def make_iir_sections_full_file():
@@ -615,64 +575,102 @@ def make_iir_sections_full_file():
     write_json(obj, '', 'iir_sections_full.json')
 # }}}
 
+def run_model(client, model, timestamp, prompt_type, fs_type, fs_amount):
+# {{{
+    path_prefix = model.replace('/', '-') + '_' + DS + '_' + MAX_TOKENS + '_' + PROMPT_METHOD + '_' + fs_amount + '_' + fs_type + '_' + prompt_type + '_' + LANGUAGE + '_' + DOMAIN_CONTEXT + '_' + CONCEPT_DEFINITION + '_' + SYSTEM_PROMPT + '_' + CONSENSUS + '-CONSENSUS_' + NORMALIZATION + '_' + timestamp + '_'
+
+    if PROMPT_METHOD == 'FEW-SHOT':
+        fs_sections, examples = get_few_shot_examples(fs_type, fs_amount, prompt_type)
+        load_and_predict_ds(client, model, prompt_type, path_prefix, examples, fs_sections)
+    else:
+        load_and_predict_ds(client, model, prompt_type, path_prefix, '', [])
+
+    evaluate_ds(path_prefix)
+
+    # evaluate_ds('google-gemini-3-flash-preview_1024_FEW-SHOT_FIVE-SHOT_RANDOM_TERMS_ENGLISH_DOMAIN-CONTEXT-YES_CONCEPT-DEFINITION-NO_SYSTEM-PROMPT-YES_-CONSENSUS_STEMMED_2026-04-30_23-55-44_')
+    # print(generate_template_lv(prompt_type, 'WORLD', 'HELLO', examples))
+# }}}
+
+# GLOBALS
+# {{{
 # --- Paths ---
-# DS_JSON_PATH = Path('~/Downloads/prereq/scripts/IIR/iir_sections_full.json').expanduser()
-DS_JSON_PATH = Path('~/Downloads/prereq/scripts/CE-Books-LV/outputs/bio_vsk_mg.json').expanduser()
-IIR_FOLDER_PATH = Path('~/Downloads/prereq/datasets/IIR-dataset/annotation').expanduser()
+DS = 'iir_sections_full'
+# DS = 'iir_sections_full_index'
+
+DS_JSON_PATH = Path('~/Downloads/prereq/scripts/IIR/iir_sections_full.json').expanduser()
+# DS_JSON_PATH = Path('~/Downloads/prereq/scripts/IIR/iir_sections_full_index.json').expanduser()
+# DS_JSON_PATH = Path('~/Downloads/prereq/scripts/CE-Books-LV/outputs/bio_vsk_mg.json').expanduser()
+# DS_JSON_PATH = Path('~/Downloads/prereq/scripts/CE-Books-LV/outputs/chem_vsk_mg.json').expanduser()
+
 OUTPUTS_PATH = Path('~/Downloads/prereq/scripts/IIR/outputs/').expanduser()
+# OUTPUTS_PATH = Path('~/Downloads/prereq/scripts/CE-Books-LV/outputs/').expanduser()
+
+# IIR_FOLDER_PATH = Path('~/Downloads/prereq/datasets/IIR-dataset/annotation').expanduser()
+IIR_FOLDER_PATH = ''
 
 # --- Models ---
 # MODEL = 'claude-haiku-4-5'
 
 # MODEL = ''
 # MODELS = ['google/gemma-3-27b-it', 'xiaomi/mimo-v2-flash', 'deepseek/deepseek-v3.2', 'x-ai/grok-4.1-fast', 'moonshotai/kimi-k2.5', 'z-ai/glm-4.7', 'google/gemini-3-flash-preview']
-# MODELS = ['xiaomi/mimo-v2-flash', 'deepseek/deepseek-v3.2', 'x-ai/grok-4.1-fast', 'moonshotai/kimi-k2.5', 'z-ai/glm-4.7', 'google/gemini-3-flash-preview']
-MODELS = ['moonshotai/kimi-k2.5', 'z-ai/glm-4.7', 'google/gemini-3-flash-preview']
-# MODELS = ['x-ai/grok-4.1-fast', 'z-ai/glm-4.7', 'google/gemini-3-flash-preview']
+# MODELS = ['google/gemma-3-27b-it', 'xiaomi/mimo-v2-flash', 'moonshotai/kimi-k2.5']
+
+# MODELS = ['google/gemma-3-27b-it', 'xiaomi/mimo-v2-flash']
 # MODELS = ['google/gemma-3-27b-it']
 
 # MODEL = 'openai/gpt-oss-120b'
-# MODEL = 'xiaomi/mimo-v2-flash'
+# MODELS = ['xiaomi/mimo-v2-flash']
 # MODEL = 'deepseek/deepseek-v3.2'
 # MODEL = 'x-ai/grok-4.1-fast'
 # MODEL = 'moonshotai/kimi-k2.5'
 # MODEL = 'z-ai/glm-4.7'
-# MODEL = 'google/gemma-3-27b-it'
-# MODEL = 'google/gemini-3-flash-preview'
-
-# MODEL = 'openai/gpt-5-mini' # Mandatory reasoning 
-# MODEL = 'minimax/minimax-m2.5' # Mandatory reasoning
+MODELS = ['google/gemma-3-27b-it']
+# MODELS = ['google/gemini-3-flash-preview']
 
 # Static
 MAX_TOKENS = '1024'
 SYSTEM_PROMPT = 'SYSTEM-PROMPT-YES'
-CONSENSUS = 'THREE'
+# CONSENSUS = 'THREE'
+CONSENSUS = ''
 NORMALIZATION = 'STEMMED'
-LANGUAGE = 'LATVIAN'
+
+LANGUAGE = 'ENGLISH'
+# LANGUAGE = 'LATVIAN'
+
+# DOMAIN = 'Ķīmija 12. klasei'
+# DOMAIN = 'Bioloģija vidusskolai'
+DOMAIN = 'information retrieval'
 
 # --- Methods ---
 PROMPT_METHOD = 'ZERO-SHOT'
 # PROMPT_METHOD = 'FEW-SHOT'
 
-# SHOT_AMOUNT = ''
-SHOT_AMOUNT = 'ZERO'
-# SHOT_AMOUNT = 'FIVE-SHOT'
+SHOT_AMOUNT = ''
+# SHOT_AMOUNTS = ['ONE-SHOT']
+# SHOT_AMOUNTS = ['THREE-SHOT']
+# SHOT_AMOUNTS = ['FIVE-SHOT']
 # SHOT_AMOUNTS = ['ONE-SHOT', 'THREE-SHOT', 'FIVE-SHOT']
 
-# SHOT_TYPE = ''
-SHOT_TYPE = 'ZERO'
-# SHOT_TYPE = 'RANDOM'
+SHOT_TYPE = ''
+# SHOT_TYPE = 'ZERO'
+# SHOT_TYPES = ['FIRST']
+# SHOT_TYPES = ['RANDOM']
 # SHOT_TYPES = ['FIRST', 'RANDOM']
 
 # PROMPT_TYPE = 'CONCEPTS'
 # PROMPT_TYPE = 'KEYWORDS'
 # PROMPT_TYPE = 'KEYPHRASES'
-# PROMPT_TYPE = 'TERMS'
-# PROMPT_TYPE = 'TERMINI'
-PROMPT_TYPE = ''
-PROMPT_TYPES = ['KONCEPTI', 'ATSLĒGVĀRDI', 'GALVENĀS FRĀZES', 'TERMINI']
+PROMPT_TYPES = ['TERMS']
 # PROMPT_TYPES = ['CONCEPTS', 'KEYWORDS', 'KEYPHRASES', 'TERMS']
 # PROMPT_TYPES = ['CONCEPTS', 'TERMS']
+# PROMPT_TYPE = ''
+
+# PROMPT_TYPES = ['KONCEPTI']
+# PROMPT_TYPES = ['ATSLĒGVĀRDI']
+# PROMPT_TYPES = ['GALVENĀS-FRĀZES']
+# PROMPT_TYPES = ['TERMINI']
+# PROMPT_TYPES = ['KONCEPTI', 'ATSLĒGVĀRDI', 'GALVENĀS FRĀZES', 'TERMINI']
+# PROMPT_TYPES = ['KONCEPTI', 'GALVENĀS FRĀZES']
 
 DOMAIN_CONTEXT = 'DOMAIN-CONTEXT-YES'
 # DOMAIN_CONTEXT = 'DOMAIN-SUBCONTEXT-YES'
@@ -695,51 +693,49 @@ CONCEPT_DEFINITION = 'CONCEPT-DEFINITION-NO'
 # SECTIONS = ['1']
 # SECTIONS = ['1', '1.1', '1.2', '1.3', '1.4']
 SECTIONS = [0] # All sections
+# }}}
 
 # --- Other ---
 start = time.time()
+load_dotenv()
+threads = []
 
 if LANGUAGE == 'LATVIAN':
-    # SIM_MODEL = SentenceTransformer('sentence-transformers/paraphrase-multilingual-mpnet-base-v2')
     SIM_MODEL = SentenceTransformer('microsoft/harrier-oss-v1-0.6b', model_kwargs={'dtype': 'auto'})
 else:
     STEMMER = SnowballStemmer('english')
     SIM_MODEL = SentenceTransformer('uclanlp/keyphrase-mpnet-v1')
 
-TIMESTAMP = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
-load_dotenv()
-global CLIENT
-CLIENT = make_openai_client()
-
 # ONE-SHOT RUN
 # {{{
-for i in range (len(MODELS)):
-    MODEL = MODELS[i]
-
-    for j in range (len(PROMPT_TYPES)):
-        PROMPT_TYPE = PROMPT_TYPES[j]
-        TIMESTAMP = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
-        PATH_PREFIX = MODEL.replace('/', '-') + '_' + MAX_TOKENS + '_' + PROMPT_METHOD + '_' + SHOT_AMOUNT + '_' + SHOT_TYPE + '_' + PROMPT_TYPE + '_' + LANGUAGE + '_' + DOMAIN_CONTEXT + '_' + CONCEPT_DEFINITION + '_' + SYSTEM_PROMPT + '_' + CONSENSUS + '-CONSENSUS_' + NORMALIZATION + '_' + TIMESTAMP + '_'
-
-        print_parameters()
-        load_and_predict_DS()
-        evaluate_DS()
+for model in MODELS:
+    for prompt_type in PROMPT_TYPES:
+        client = make_openai_client()
+        timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+        t = threading.Thread(target = run_model, args = (client, model, timestamp, prompt_type, '', ''))
+        threads.append(t)
+        t.start()
 # }}}
 
 # FEW-SHOT RUN
 # {{{
-# for i in range(3):
-# TIMESTAMP = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
-# FS_SECTION_NUMBERS, EXAMPLES = get_few_shot_examples()
-# PATH_PREFIX = MODEL.replace('/', '-') + '_' + MAX_TOKENS + '_' + PROMPT_METHOD + '_' + SHOT_AMOUNT + '_' + SHOT_TYPE + '_' + PROMPT_TYPE + '_' + LANGUAGE + '_' + DOMAIN_CONTEXT + '_' + CONCEPT_DEFINITION + '_' + SYSTEM_PROMPT + '_' + CONSENSUS + '-CONSENSUS_' + NORMALIZATION + '_' + TIMESTAMP + '_'
+# for i in range(2):
+# for model in MODELS:
+    # for prompt_type in PROMPT_TYPES:
+        # for fs_type in SHOT_TYPES:
+            # for fs_amount in SHOT_AMOUNTS:
+                # timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+                # client = make_openai_client()
+                # t = threading.Thread(target = run_model, args = (client, model, timestamp, prompt_type, fs_type, fs_amount))
+                # threads.append(t)
+                # t.start()
+# # }}}
+# 
+# for t in threads:
+    # t.join()
 
-# print_parameters()
-# load_and_predict_IIR() # Makes API calls
-# load_and_predict_DS()
-# evaluate_DS('/home/dust/Downloads/prereq/scripts/IIR/outputs/google-gemma-3-27b-it_1024_FEW-SHOT_FIVE-SHOT_RANDOM_TERMINI_LATVIAN_DOMAIN-CONTEXT-YES_CONCEPT-DEFINITION-NO_SYSTEM-PROMPT-YES_THREE-CONSENSUS_STEMMED_2026-04-27_18-56-56_predictions.json')
-# print(generate_template_lv('HELLO', 'WORLD'))
-# }}}
-
+# evaluate_ds('xiaomi-mimo-v2-flash_1024_FEW-SHOT_FIVE-SHOT_FIRST_GALVENĀS-FRĀZES_LATVIAN_DOMAIN-CONTEXT-YES_CONCEPT-DEFINITION-KEY_SYSTEM-PROMPT-YES_-CONSENSUS_STEMMED_2026-04-30_04-38-13_1_')
+# print(generate_template_lv('GALVENĀS-FRĀZES', 'AUGI', 'HELLO WORLD!'))
 
 elapsed = time.time() - start
 print(f'\nTotal elapsed time: {elapsed:.2f}s')

@@ -1,0 +1,5228 @@
+[
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Vienādsānu trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Sešstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Sinuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Sfēra",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Pitagora trijnieks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Astoņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Pitagora trijnieks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Deviņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Līdzība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Vienādsānu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Deltoīds",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Deltoīds",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Vienādsānu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Septiņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Piramīda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Astoņstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Leņķis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Piramīda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Diagonāle",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Deltoīds",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Septiņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Sešstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Sešstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Astoņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Diagonāle",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Deltoīds",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Piramīda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Taisne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Pitagora trijnieks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Rombs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Sešstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Trapece",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Šķautne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Deviņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Rombs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Konuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Astoņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Pitagora trijnieks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Pitagora trijnieks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Vienādsānu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Vienādsānu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Šķautne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Pitagora trijnieks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Šķautne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Konuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzskaldnis",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Desmitstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Sekante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Astoņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Šķautne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Astoņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Deviņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Pitagora trijnieks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Desmitstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Vienādsānu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Astoņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Sekante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Leņķis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Astoņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Rombs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Sinuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Loks (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Piramīda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Piecstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Pitagora trijnieks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Sinuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Sešstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Rombs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Piecstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Sinuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Loks (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Sinuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Rombs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Piecstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Vienādsānu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Septiņstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Desmitstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Diagonāle",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Septiņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Trapece",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Diagonāle",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Desmitstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Aploce",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Desmitstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Vienādsānu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaldne",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Piecstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Rombs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Sekante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Aploce",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Diametrs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Sinuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Sinuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Piecstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Deviņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Piecstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Diametrs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Rombs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Deviņstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Septiņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Rombs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Rombs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Sinuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Desmitstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Deviņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Diagonāle",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Taisne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Piecstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Deltoīds",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Septiņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Piramīda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Deltoīds",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Diagonāle",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Septiņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Deltoīds",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaldne",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Sešstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Desmitstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Skaldne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Piramīda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Diagonāle",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Deltoīds",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Sešstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Desmitstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Diametrs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Piramīda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Sešstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Pitagora trijnieks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Diametrs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Sinuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Diametrs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Diametrs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Trapece",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Deviņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Diametrs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Deviņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Sfēra",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Simetrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Pitagora trijnieks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Deltoīds",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Septiņstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Vienādsānu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Trapece",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Piramīda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Pitagora trijnieks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Šķautne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Diagonāle",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Leņķis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Diametrs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diametrs",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Desmitstūris",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Simetrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Aploce",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Prizma",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Diagonāle",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Septiņstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piramīda",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Prizma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Aploce",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Astoņstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Skaldne",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Simetrija",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādmalu trijstūris",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Desmitstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Skaldne",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diametrs",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Skaldne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Līdzība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Līdzība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deviņstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sešstūris",
+    "concept_B": "Piecstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Diametrs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sekante",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Simetrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piramīda",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Loks (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piramīda",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deviņstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Piramīda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Aploce",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Desmitstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Diagonāle",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Skaldne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Aploce",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Prizma",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Konuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Desmitstūris",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Skaldne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Septiņstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Līdzība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Trapece",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sešstūris",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piramīda",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piramīda",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Sekante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Konuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Prizma",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līdzība",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Diagonāle",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Leņķis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Diametrs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Diametrs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzskaldnis",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzskaldnis",
+    "concept_B": "Šķautne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Septiņstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deviņstūris",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Diametrs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piramīda",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Simetrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Prizma",
+    "concept_B": "Piecstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Piramīda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Loks (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Septiņstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Skaldne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora trijnieks",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Piramīda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Piramīda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzskaldnis",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Šķautne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Prizma",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Līdzība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sekante",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sešstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Astoņstūris",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Aploce",
+    "concept_B": "Diametrs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līdzība",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Līdzība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piramīda",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzskaldnis",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Līdzība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Līdzība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Diametrs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piramīda",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzskaldnis",
+    "concept_B": "Skaldne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līdzība",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Astoņstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora trijnieks",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Astoņstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Piecstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Desmitstūris",
+    "concept_B": "Piecstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piecstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piecstūris",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Simetrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deviņstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora trijnieks",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piramīda",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Diagonāle",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Vienādsānu trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Piecstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diametrs",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Astoņstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diametrs",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Loks (matemātika)",
+    "concept_B": "Aploce",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Septiņstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādmalu trijstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piecstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Astoņstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Septiņstūris",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Trapece",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piramīda",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diametrs",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sekante",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Līdzība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Astoņstūris",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Prizma",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Loks (matemātika)",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzskaldnis",
+    "concept_B": "Sfēra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Simetrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piecstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Septiņstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Līdzība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzskaldnis",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Simetrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādmalu trijstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Loks (matemātika)",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Astoņstūris",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diametrs",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piramīda",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Līdzība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādmalu trijstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzskaldnis",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piramīda",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sešstūris",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Desmitstūris",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Aploce",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Prizma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diametrs",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādmalu trijstūris",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Simetrija",
+    "concept_B": "Skaldne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līdzība",
+    "concept_B": "Simetrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Septiņstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Desmitstūris",
+    "concept_B": "Diametrs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Astoņstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diametrs",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Septiņstūris",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Desmitstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līdzība",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Sinuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līdzība",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Prizma",
+    "concept_B": "Skaldne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Līdzība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Loks (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sekante",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Piecstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzskaldnis",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Vienādsānu trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Simetrija",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sešstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzskaldnis",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Taisne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sešstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Aploce",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzskaldnis",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādsānu trijstūris",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Sinuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Aploce",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piecstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Deltoīds",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paralelograms",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Desmitstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līdzība",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Prizma",
+    "concept_B": "Daudzskaldnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Aploce",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora trijnieks",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora trijnieks",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deviņstūris",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora trijnieks",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sešstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Simetrija",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Desmitstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādmalu trijstūris",
+    "concept_B": "Vienādsānu trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piecstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Aploce",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādmalu trijstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Šķautne",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora trijnieks",
+    "concept_B": "Līdzība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sešstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Prizma",
+    "concept_B": "Simetrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādmalu trijstūris",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora trijnieks",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sešstūris",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diametrs",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Virsotne (ģeometrija)",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deviņstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora trijnieks",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Prizma",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Piramīda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Trijstūra augstums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Simetrija",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sekante",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādmalu trijstūris",
+    "concept_B": "Līdzība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādmalu trijstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Simetrija",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Aploce",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Skaldne",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sešstūris",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deviņstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora trijnieks",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Loks (matemātika)",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deltoīds",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Skaldne",
+    "concept_B": "Šķautne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Aploce",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piecstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sešstūris",
+    "concept_B": "Vienādmalu trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Četrstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Piecstūris",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trapece",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Aploce",
+    "concept_B": "Kvadrāts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Prizma",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Deviņstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Aploce",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora trijnieks",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Skaldne",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diametrs",
+    "concept_B": "Loks (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora trijnieks",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diagonāle",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūra augstums",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Līdzība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Šķautne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Rombs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Simetrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēra",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sešstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādmalu trijstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Prizma",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Trapece",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rombs",
+    "concept_B": "Diagonāle",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādmalu trijstūris",
+    "concept_B": "Virsotne (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Četrstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diametrs",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Desmitstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Paralelograms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  }
+]

@@ -1,0 +1,4958 @@
+[
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Spektrālā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Mērijumu skala",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Lēmumu koka modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Tuvākās distances klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Hierarhiskā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Maksimālā ticamība",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Informācijas izguve",
+    "concept_B": "F mērs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ticamības funkcija",
+    "concept_B": "Paredzēšanas–maksimizēšanas algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Anomālijas noteikšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ticamības funkcija",
+    "concept_B": "Maksimālā ticamība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais kopums",
+    "concept_B": "F mērs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Vienvirziena neironu tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Atpakaļizplatīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Pastiprināšana (mašīnmācīšanās)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Nestriktā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lēmumu koks",
+    "concept_B": "Apcirpšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas algoritms",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais kopums",
+    "concept_B": "Paraugatlase (statistika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Maksimums un minimums",
+    "concept_B": "Gradienta samazināšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtības sadalījums",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "F mērs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais kopums",
+    "concept_B": "T tests",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Spektrālā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Tuvākās distances klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nulles hipotēze",
+    "concept_B": "Datizrace",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "K-medoīdi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Divkāršā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Tuvākās distances klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Izlecošā vērtība",
+    "concept_B": "Anomālijas noteikšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "T tests",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Moda (statistika)",
+    "concept_B": "Mērijumu skala",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Mazāko kvadrātu metode",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ticamības funkcija",
+    "concept_B": "Puasona regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Datizrace",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Vienvirziena neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Atpakaļizplatīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Informācijas izguve",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ansambļu mācīšanās",
+    "concept_B": "Pastiprināšana (mašīnmācīšanās)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Vienvirziena neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Tuvākās distances klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "AdaBoost",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nulles hipotēze",
+    "concept_B": "F mērs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Spektrālā klasterizācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais kopums",
+    "concept_B": "I tipa un II tipa kļūdas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Spektrālā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "Statistiskā nozīmība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "OPTICS algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "DBSCAN",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Daudzklašu klasifikācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "F mērs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nulles hipotēze",
+    "concept_B": "T tests",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Iepriekšējā varbūtība",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Pakāpeniskā regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Izlecošā vērtība",
+    "concept_B": "Datizrace",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Daudzklašu klasifikācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "I tipa un II tipa kļūdas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Lēmumu koks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Apcirpšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtības sadalījums",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lēmumu koks",
+    "concept_B": "Lēmumu koka modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Jūtība un specifiskums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "F mērs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ansambļu mācīšanās",
+    "concept_B": "AdaBoost",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "OPTICS algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģenētiskais algoritms",
+    "concept_B": "Mutācija (ģenētiskais algoritms)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais kopums",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā hipotēzes pārbaude",
+    "concept_B": "Statistiskā nozīmība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Daudzdimensiju datu klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "DBSCAN",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Anomālijas noteikšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Dimensiju skaita samazināšana",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nulles hipotēze",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Vienvirziena neironu tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mediāna (statistika)",
+    "concept_B": "Starpkvartiļu amplitūda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lēmumu koku mācīšanās",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Daudzklašu klasifikācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kvartile",
+    "concept_B": "Starpkvartiļu amplitūda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Nosacījuma varbūtības sadalījums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nulles hipotēze",
+    "concept_B": "I tipa un II tipa kļūdas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Beiesa teorēma",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Centrālā tendence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtības sadalījums",
+    "concept_B": "Beiesa teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "DBSCAN",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtības sadalījums",
+    "concept_B": "A posteriori varbūtība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacīta neatkarība",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Korelācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Lineāra regresija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "I tipa un II tipa kļūdas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "A posteriori varbūtība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "OPTICS algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Tuvākās distances klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Anomālijas noteikšana",
+    "concept_B": "Datizrace",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aprakstošā statistika",
+    "concept_B": "Starpkvartiļu amplitūda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Daudzdimensiju datu klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Beiesa teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Nosacījuma varbūtības sadalījums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Asociāciju likumu mācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Maksimālā ticamība",
+    "concept_B": "Paredzēšanas–maksimizēšanas algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Dispersija (statistika)",
+    "concept_B": "Mērijumu skala",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģenētiskais algoritms",
+    "concept_B": "Pielāgošanās funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtības sadalījums",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Puasona regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais kopums",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "A posteriori varbūtība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Hierarhiskā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Apriori algorithm",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Beiesa teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Spektrālā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Daudzdimensiju datu klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Mērijumu skala",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "OPTICS algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Apcirpšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Datizrace",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Nestriktā klasterizācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Daudzdimensiju datu klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "F mērs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā hipotēzes pārbaude",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Moda (statistika)",
+    "concept_B": "Centrālā tendence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mediāna (statistika)",
+    "concept_B": "Mērijumu skala",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ticamības funkcija",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lēmumu koku mācīšanās",
+    "concept_B": "Apcirpšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Atpakaļizplatīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Hierarhiskā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "T tests",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Apcirpšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "AdaBoost",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Dabiskā izlase",
+    "concept_B": "Mutācija (ģenētiskais algoritms)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Nestriktā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Mazāko kvadrātu metode",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā hipotēzes pārbaude",
+    "concept_B": "F mērs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "DBSCAN",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kļūdaina atbilsme un kļūdaina neatbilsme",
+    "concept_B": "Jūtība un specifiskums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtības sadalījums",
+    "concept_B": "Maksimālā ticamība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Apcirpšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Daudzklašu klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Paredzēšanas–maksimizēšanas algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "A posteriori varbūtība",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Apcirpšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Maksimālā ticamība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Dabiskā izlase",
+    "concept_B": "Ģenētiskais algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā hipotēzes pārbaude",
+    "concept_B": "T tests",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "K-medoīdi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Divkāršā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Hierarhiskā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Pastiprināšana (mašīnmācīšanās)",
+    "concept_B": "AdaBoost",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Maksimālā ticamība",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Anomālijas noteikšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "I tipa un II tipa kļūdas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Nestriktā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Paredzēšanas–maksimizēšanas algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Lēmumu koka modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtības sadalījums",
+    "concept_B": "Puasona regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Pastiprināšana (mašīnmācīšanās)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Hiperplakne",
+    "concept_B": "Lineārā atdalāmība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Beiesa teorēma",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Maksimālā ticamība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā hipotēzes pārbaude",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kļūdaina atbilsme un kļūdaina neatbilsme",
+    "concept_B": "Pozitīvā un negatīvā paredzamā vērtība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Puasona regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Dabiskā izlase",
+    "concept_B": "Pielāgošanās funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacīta neatkarība",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Uztvērēja darbības raksturlīkne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtības sadalījums",
+    "concept_B": "Nosacīta neatkarība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "I tipa un II tipa kļūdas",
+    "concept_B": "F mērs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "K-medoīdi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Divkāršā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā hipotēzes pārbaude",
+    "concept_B": "I tipa un II tipa kļūdas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais kopums",
+    "concept_B": "Statistiskā nozīmība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Hierarhiskā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Anomālijas noteikšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais kopums",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Nosacīta neatkarība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Hiperplakne",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "OPTICS algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Asociāciju likumu mācīšanās",
+    "concept_B": "Apriori algorithm",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Atpakaļizplatīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Daudzdimensiju datu klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Pastiprināšana (mašīnmācīšanās)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ansambļu mācīšanās",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "Statistiskā nozīmība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Nestriktā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Pakāpeniskā regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Puasona regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Vienvirziena neironu tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Lineāra regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kuplināšanas agregatēšana",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lēmumu koks",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "T tests",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Asociāciju likumu mācīšanās",
+    "concept_B": "Datizrace",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Centrālā tendence",
+    "concept_B": "Mērijumu skala",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Anomālijas noteikšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Divkāršā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "K-medoīdi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Nosacīta neatkarība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "K-medoīdi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Divkāršā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nosacījuma varbūtības sadalījums",
+    "concept_B": "Paredzēšanas–maksimizēšanas algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais kopums",
+    "concept_B": "Izlase",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "DBSCAN",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lineārā atdalāmība",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "I tipa un II tipa kļūdas",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Dimensiju skaita samazināšana",
+    "concept_B": "Spektrālā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lēmumu koks",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Atpakaļizplatīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Puasona regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ticamības funkcija",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nulles hipotēze",
+    "concept_B": "Statistiskā nozīmība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kuplināšana",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nulles hipotēze",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mediāna (statistika)",
+    "concept_B": "Centrālā tendence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Korelācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "AdaBoost",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskais kopums",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Statistiskā nozīmība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Lēmumu koks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Precizitāte un pārklājums",
+    "concept_B": "F mērs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Dispersija (statistika)",
+    "concept_B": "Starpkvartiļu amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā klasterizācija",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Signāla un trokšņa attiecība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā klasterizācija",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā hipotēzes pārbaude",
+    "concept_B": "Statistiskais kopums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas noteikšana",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Centrālā tendence",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Puasona regresija",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma modelis",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais mežs",
+    "concept_B": "Ansambļu mācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Zināšanu bāze",
+    "concept_B": "Ekspertsistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā klasterizācija",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā klasterizācija",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pastiprināšana (mašīnmācīšanās)",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beiesa teorēma",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koks",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā hipotēzes pārbaude",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ekspertsistēma",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Galveno komponentu analīze",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mazāko kvadrātu metode",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nosacīta neatkarība",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tuvākās distances klasterizācija",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mediāna (statistika)",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā vērtība",
+    "concept_B": "Korelācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Vaicājumvaloda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kļūdaina atbilsme un kļūdaina neatbilsme",
+    "concept_B": "Akurātums un precizitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta vektoru mašīna",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra regresija",
+    "concept_B": "Pakāpeniskā regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nosacījuma varbūtības sadalījums",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mērijumu skala",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jūtība un specifiskums",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā varbūtība",
+    "concept_B": "Beiesa teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ansambļu mācīšanās",
+    "concept_B": "Pakāpeniskā regresija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais modelis",
+    "concept_B": "Pakāpeniskā regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Maksimālā ticamība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Lineārā atdalāmība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koks",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Akurātums un precizitāte",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Divkāršā klasterizācija",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Starpkvartiļu amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā klasterizācija",
+    "concept_B": "OPTICS algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beiesa teorēma",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ticamības funkcija",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "F-kritērijs",
+    "concept_B": "Pakāpeniskā regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "F mērs",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta vektoru mašīna",
+    "concept_B": "Anomālijas noteikšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atpakaļizplatīšana",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Ģenētiskais algoritms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Alfa-beta apcirpšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzklašu klasifikācija",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā varbūtība",
+    "concept_B": "A posteriori varbūtība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana pēc vidējiem",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma modelis",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gradienta samazināšanās",
+    "concept_B": "Vienvirziena neironu tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra regresija",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trūkstošie dati",
+    "concept_B": "Paredzēšanas–maksimizēšanas algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Galveno komponentu analīze",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Šķērsvalidācija (statistika)",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Histogramma",
+    "concept_B": "Starpkvartiļu amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā klasterizācija",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Beiesa teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diskretizācija",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienvirziena neironu tīkls",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas noteikšana",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datu modelēšana",
+    "concept_B": "Vaicājumvaloda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā ticamība",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "AdaBoost",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nelineāra sistēma",
+    "concept_B": "Atpakaļizplatīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gradienta samazināšanās",
+    "concept_B": "Maksimums un minimums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Šķērsvalidācija (statistika)",
+    "concept_B": "Pastiprināšana (mašīnmācīšanās)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "OPTICS algoritms",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atpakaļizplatīšana",
+    "concept_B": "Apcirpšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma modelis",
+    "concept_B": "Hierarhiskā klasterizācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā varbūtība",
+    "concept_B": "Maksimālā ticamība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma modelis",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ticamības funkcija",
+    "concept_B": "Nosacījuma varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais modelis",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā nozīmība",
+    "concept_B": "Izlase",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koka modelis",
+    "concept_B": "Lēmumu koks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "A posteriori varbūtība",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nosacīta neatkarība",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "OPTICS algoritms",
+    "concept_B": "DBSCAN",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā klasterizācija",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte un pārklājums",
+    "concept_B": "Nulles hipotēze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana pēc vidējiem",
+    "concept_B": "K-medoīdi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Iepriekšējā varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Meklētājprogramma",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzklašu klasifikācija",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ansambļu mācīšanās",
+    "concept_B": "Anomālijas noteikšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Izlase",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pieaugums (informācijas izguve)",
+    "concept_B": "Akurātums un precizitāte",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas algoritms",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā klasterizācija",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana pēc vidējiem",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tuvākās distances klasterizācija",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nosacījuma varbūtības sadalījums",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Modeļa izvēle",
+    "concept_B": "Divkāršā klasterizācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā vērtība",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "A posteriori varbūtība",
+    "concept_B": "Beiesa teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte un pārklājums",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Divkāršā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzdimensiju datu klasterizācija",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Klasifikācijas likums",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koku mācīšanās",
+    "concept_B": "Lēmumu koks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pakāpeniskā regresija",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koku mācīšanās",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas algoritms",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "A posteriori varbūtība",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā klasterizācija",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas noteikšana",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārā atdalāmība",
+    "concept_B": "Atpakaļizplatīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Beiesa teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datu reducēšana",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koka modelis",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "F mērs",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra regresija",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra regresija",
+    "concept_B": "Gradienta samazināšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pastiprināšana (mašīnmācīšanās)",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana pēc vidējiem",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "F mērs",
+    "concept_B": "I tipa un II tipa kļūdas",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "A posteriori varbūtība",
+    "concept_B": "Nosacījuma varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā vērtība",
+    "concept_B": "Starpkvartiļu amplitūda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Akurātums un precizitāte",
+    "concept_B": "Jūtība un specifiskums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koks",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzdimensiju datu klasterizācija",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "Nosacījuma varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā varbūtība",
+    "concept_B": "Minimālais apraksta garums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā klasterizācija",
+    "concept_B": "Tuvākās distances klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kļūdaina atbilsme un kļūdaina neatbilsme",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas noteikšana",
+    "concept_B": "Izlecošā vērtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais modelis",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datu apstrāde",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "I tipa un II tipa kļūdas",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "A posteriori varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koks",
+    "concept_B": "Pastiprināšana (mašīnmācīšanās)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Paredzēšanas–maksimizēšanas algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mediāna (statistika)",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā klasterizācija",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais kopums",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "AdaBoost",
+    "concept_B": "Pastiprināšana (mašīnmācīšanās)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas noteikšana",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta vektoru mašīna",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "F mērs",
+    "concept_B": "Informācijas izguve",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paraugatlase (statistika)",
+    "concept_B": "Beiesa teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas algoritms",
+    "concept_B": "Nosacījuma varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais mežs",
+    "concept_B": "Lēmumu koks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais mežs",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Uztvērēja darbības raksturlīkne",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pozitīvā un negatīvā paredzamā vērtība",
+    "concept_B": "Kļūdaina atbilsme un kļūdaina neatbilsme",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzklašu klasifikācija",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienvirziena neironu tīkls",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā klasterizācija",
+    "concept_B": "DBSCAN",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte un pārklājums",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā varbūtība",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Starpkvartiļu amplitūda",
+    "concept_B": "Kvartile",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Nosacīta neatkarība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koka modelis",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atpakaļizplatīšana",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Pastiprināšana (mašīnmācīšanās)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kuplināšanas agregatēšana",
+    "concept_B": "Pastiprināšana (mašīnmācīšanās)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Puasona regresija",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "I tipa un II tipa kļūdas",
+    "concept_B": "Statistiskais kopums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā hipotēzes pārbaude",
+    "concept_B": "Nulles hipotēze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Signāla un trokšņa attiecība",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā ticamība",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pārpratumu matrica",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Apcirpšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana pēc vidējiem",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Puasona regresija",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koka modelis",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ekspertsistēma",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais modelis",
+    "concept_B": "Vienvirziena neironu tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Statistiskā nozīmība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta vektoru mašīna",
+    "concept_B": "Lineārā atdalāmība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Iepriekšējā varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "I tipa un II tipa kļūdas",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tuvākās distances klasterizācija",
+    "concept_B": "OPTICS algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā varbūtība",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā vērtība",
+    "concept_B": "OPTICS algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "I tipa un II tipa kļūdas",
+    "concept_B": "Nulles hipotēze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pakāpeniskā regresija",
+    "concept_B": "F-kritērijs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā ticamība",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Informācijas izguve",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais mežs",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pieaugums (informācijas izguve)",
+    "concept_B": "Pozitīvā un negatīvā paredzamā vērtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-medoīdi",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Gradienta samazināšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koku mācīšanās",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra regresija",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Puasona regresija",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "I tipa un II tipa kļūdas",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Starpkvartiļu amplitūda",
+    "concept_B": "Mediāna (statistika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Asociāciju likumu mācīšanās",
+    "concept_B": "Anomālijas noteikšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mutācija (ģenētiskais algoritms)",
+    "concept_B": "Dabiskā izlase",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datu tips",
+    "concept_B": "DBSCAN",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana pēc vidējiem",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koku mācīšanās",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "A posteriori varbūtība",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pārpratumu matrica",
+    "concept_B": "Pozitīvā un negatīvā paredzamā vērtība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Puasona regresija",
+    "concept_B": "Nosacījuma varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mediāna (statistika)",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "OPTICS algoritms",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beiesa teorēma",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nosacīta neatkarība",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (statistika)",
+    "concept_B": "Centrālā tendence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "AdaBoost",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais modelis",
+    "concept_B": "Maksimālā ticamība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas noteikšana",
+    "concept_B": "DBSCAN",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Akurātums un precizitāte",
+    "concept_B": "Statistiskā nozīmība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beiesa teorēma",
+    "concept_B": "Nosacījuma varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Centrālā tendence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nosacīta neatkarība",
+    "concept_B": "Nosacījuma varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā vērtība",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tuvākās distances klasterizācija",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā ticamība",
+    "concept_B": "Nosacījuma varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Informācijas izguve",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvartile",
+    "concept_B": "Centrālā tendence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "Izlase",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Apriori algorithm",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Aktīva mācīšanās (mašīnmācīšanās)",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gradienta samazināšanās",
+    "concept_B": "Puasona regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā nozīmība",
+    "concept_B": "Jūtība un specifiskums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ticamības funkcija",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Aprakstošā statistika",
+    "concept_B": "Centrālā tendence",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais mežs",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Histogramma",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mediāna (statistika)",
+    "concept_B": "Statistiskais kopums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzklašu klasifikācija",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas noteikšana",
+    "concept_B": "OPTICS algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "F mērs",
+    "concept_B": "Izlase",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta vektoru mašīna",
+    "concept_B": "Hiperplaknes atdalīšanās teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-medoīdi",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta vektoru mašīna",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Uztvērēja darbības raksturlīkne",
+    "concept_B": "Precizitāte un pārklājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ekspertsistēma",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā klasterizācija",
+    "concept_B": "Paredzēšanas–maksimizēšanas algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jūtība un specifiskums",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "T tests",
+    "concept_B": "Izlase",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārā atdalāmība",
+    "concept_B": "Vienvirziena neironu tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pastiprināšana (mašīnmācīšanās)",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Klasifikācijas likums",
+    "concept_B": "Lēmumu koks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais mežs",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tuvākās distances klasterizācija",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koku mācīšanās",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Galveno komponentu analīze",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte un pārklājums",
+    "concept_B": "I tipa un II tipa kļūdas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Meklētājprogramma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mazāko kvadrātu metode",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "F mērs",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Starpkvartiļu amplitūda",
+    "concept_B": "Dispersija (statistika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā nozīmība",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atpakaļizplatīšana",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pastiprināšana (mašīnmācīšanās)",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Divkāršā klasterizācija",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daļēji uzraudzīta mācīšanās",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Modeļa izvēle",
+    "concept_B": "Pakāpeniskā regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Šķērsvalidācija (statistika)",
+    "concept_B": "Apcirpšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas algoritms",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "Beiesa teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Lineārā atdalāmība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Centrālā tendence",
+    "concept_B": "Moda (statistika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma modelis",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gradienta samazināšanās",
+    "concept_B": "Atpakaļizplatīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Pakāpeniskā regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Statistiskā nozīmība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte un pārklājums",
+    "concept_B": "Informācijas izguve",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mērijumu skala",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "OPTICS algoritms",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "OPTICS algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Centrālā tendence",
+    "concept_B": "Mediāna (statistika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "AdaBoost",
+    "concept_B": "Ansambļu mācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "Anomālijas noteikšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā varbūtība",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta vektoru mašīna",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Apriori algorithm",
+    "concept_B": "Asociāciju likumu mācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "Iepriekšējā varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā nozīmība",
+    "concept_B": "Statistiskais kopums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jūtība un specifiskums",
+    "concept_B": "Pārpratumu matrica",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mērijumu skala",
+    "concept_B": "Moda (statistika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gradienta samazināšanās",
+    "concept_B": "Pastiprināšana (mašīnmācīšanās)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma modelis",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Mutācija (ģenētiskais algoritms)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mutācija (ģenētiskais algoritms)",
+    "concept_B": "Ģenētiskais algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas algoritms",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskais modelis",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Lēmumu koks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nosacījuma varbūtības sadalījums",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diskretizācija",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā nozīmība",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nelineāra sistēma",
+    "concept_B": "Gradienta samazināšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā vērtība",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pielāgošanās funkcija",
+    "concept_B": "Dabiskā izlase",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mērijumu skala",
+    "concept_B": "Mediāna (statistika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā klasterizācija",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jūtība un specifiskums",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Statistiskais kopums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra regresija",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā nozīmība",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atpakaļizplatīšana",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Minkovska attālums",
+    "concept_B": "DBSCAN",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta vektoru mašīna",
+    "concept_B": "Hiperplakne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Asociāciju likumu mācīšanās",
+    "concept_B": "Lēmumu koks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā nozīmība",
+    "concept_B": "Nulles hipotēze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Nosacīta neatkarība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mutācija (ģenētiskais algoritms)",
+    "concept_B": "Pielāgošanās funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Divkāršā klasterizācija",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "Hierarhiskā klasterizācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "Nosacīta neatkarība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koku mācīšanās",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā ticamība",
+    "concept_B": "Minimālais apraksta garums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana pēc vidējiem",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma modelis",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kopējais varbūtības sadalījums",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jūtība un specifiskums",
+    "concept_B": "Kļūdaina atbilsme un kļūdaina neatbilsme",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pastiprināšana (mašīnmācīšanās)",
+    "concept_B": "Ansambļu mācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gradienta samazināšanās",
+    "concept_B": "Kalnā kāpšana tehnika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā nozīmība",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Nulles hipotēze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā vērtība",
+    "concept_B": "DBSCAN",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-medoīdi",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "Paredzēšanas–maksimizēšanas algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beijesa tīkls",
+    "concept_B": "Maksimālā ticamība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koku mācīšanās",
+    "concept_B": "Lēmumu koka modelis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Starpkvartiļu amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra regresija",
+    "concept_B": "Nosacījuma varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "OPTICS algoritms",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kuplināšanas agregatēšana",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģenētiskais algoritms",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Izlecošā vērtība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā klasterizācija",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Lēmumu koku mācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paredzēšanas–maksimizēšanas algoritms",
+    "concept_B": "Maksimālā ticamība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā ticamība",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienvirziena neironu tīkls",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Anomālijas noteikšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzdimensiju datu klasterizācija",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra regresija",
+    "concept_B": "Puasona regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Moda (statistika)",
+    "concept_B": "Nejaušais mežs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra regresija",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā klasterizācija",
+    "concept_B": "Divkāršā klasterizācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Ticamības funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pakāpeniskā regresija",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte un pārklājums",
+    "concept_B": "Jūtība un specifiskums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā klasterizācija",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma modelis",
+    "concept_B": "Paredzēšanas–maksimizēšanas algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "OPTICS algoritms",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Anomālijas noteikšana",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta vektoru mašīna",
+    "concept_B": "Pastiprināšana (mašīnmācīšanās)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma modelis",
+    "concept_B": "Maksimālā ticamība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienvirziena neironu tīkls",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mērijumu skala",
+    "concept_B": "Dispersija (statistika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koku mācīšanās",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Galveno komponentu analīze",
+    "concept_B": "Dimensiju skaita samazināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte un pārklājums",
+    "concept_B": "Izlase",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koks",
+    "concept_B": "Datizrace",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra regresija",
+    "concept_B": "Maksimālā ticamība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "A posteriori varbūtība",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā klasifikācija",
+    "concept_B": "A posteriori varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā ticamība",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mērijumu skala",
+    "concept_B": "Centrālā tendence",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pozitīvā un negatīvā paredzamā vērtība",
+    "concept_B": "Akurātums un precizitāte",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā klasterizācija",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte un pārklājums",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paraugatlase (statistika)",
+    "concept_B": "Statistiskais kopums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Asociāciju likumu mācīšanās",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pārpratumu matrica",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Divkāršā klasterizācija",
+    "concept_B": "Hierarhiskā klasterizācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Divkāršā klasterizācija",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Izlase",
+    "concept_B": "Statistiskais kopums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lēmumu koku mācīšanās",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ansambļu mācīšanās",
+    "concept_B": "Atpakaļizplatīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzdimensiju datu klasterizācija",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hiperplaknes atdalīšanās teorēma",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nosacījuma varbūtība",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maksimālā ticamība",
+    "concept_B": "Puasona regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pielāgošanās funkcija",
+    "concept_B": "Ģenētiskais algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diskretizācija",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Divkāršā klasterizācija",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra regresija",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "Pakāpeniskā regresija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā klasterizācija",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beiesa teorēma",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Moda (statistika)",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā vērtība",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "DBSCAN",
+    "concept_B": "OPTICS algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lokālais optimums",
+    "concept_B": "Pudurošana pēc vidējiem",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais mežs",
+    "concept_B": "Kuplināšanas agregatēšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Histogramma",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana pēc vidējiem",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienvirziena neironu tīkls",
+    "concept_B": "Atpakaļizplatīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte un pārklājums",
+    "concept_B": "Statistiskais kopums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "A posteriori varbūtība",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "DBSCAN",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana pēc vidējiem",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta vektoru mašīna",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Starpkvartiļu amplitūda",
+    "concept_B": "Aprakstošā statistika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "T tests",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais mežs",
+    "concept_B": "Naivais Beijesa klasifikators",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atbalsta vektoru mašīna",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "AdaBoost",
+    "concept_B": "Lēmumu koks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārā atdalāmība",
+    "concept_B": "Hiperplakne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Maisījuma modelis",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte un pārklājums",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Starpkvartiļu amplitūda",
+    "concept_B": "Centrālā tendence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "AdaBoost",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "Statistiskais kopums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "A posteriori varbūtība",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģenētiskais algoritms",
+    "concept_B": "Dabiskā izlase",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Nosacījuma varbūtība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Puasona regresija",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais mežs",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienvirziena neironu tīkls",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Atbalsta vektoru mašīna",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā klasterizācija",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais mežs",
+    "concept_B": "Kuplināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Asociāciju likumu mācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā hipotēzes pārbaude",
+    "concept_B": "Izlase",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra regresija",
+    "concept_B": "Datu matrica",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "F mērs",
+    "concept_B": "Statistiskais kopums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Uzticamības intervāls",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Statistiskā klasifikācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datu analīze",
+    "concept_B": "Asociāciju likumu mācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Iepriekšējā varbūtība",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atpakaļizplatīšana",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nejaušais mežs",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Maisījuma modelis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-medoīdi",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra regresija",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "T tests",
+    "concept_B": "Statistiskais kopums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (statistika)",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana pēc vidējiem",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzklašu klasifikācija",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Galveno komponentu analīze",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā vērtība",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Beijesa tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Moda (statistika)",
+    "concept_B": "Divkāršā klasterizācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Apcirpšana",
+    "concept_B": "Kopējais varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "F mērs",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "I tipa un II tipa kļūdas",
+    "concept_B": "Izlase",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģenētiskais algoritms",
+    "concept_B": "Lēmumu koks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Ekspertsistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "F mērs",
+    "concept_B": "Nulles hipotēze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Precizitāte un pārklājums",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beiesa teorēma",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Minkovska attālums",
+    "concept_B": "K-medoīdi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tuvākās distances klasterizācija",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Statistiskā hipotēzes pārbaude",
+    "concept_B": "Uzticamības intervāls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā klasterizācija",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "T tests",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datu matrica",
+    "concept_B": "Galveno komponentu analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "T tests",
+    "concept_B": "Nulles hipotēze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spektrālā klasterizācija",
+    "concept_B": "Dimensiju skaita samazināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nestriktā klasterizācija",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "F mērs",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "K-medoīdi",
+    "concept_B": "Datu analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Izlecošā vērtība",
+    "concept_B": "K-medoīdi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hierarhiskā klasterizācija",
+    "concept_B": "Datizrace",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "T tests",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pudurošana pēc vidējiem",
+    "concept_B": "Paredzēšanas–maksimizēšanas algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzdimensiju datu klasterizācija",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Modeļa izvēle",
+    "concept_B": "Statistiskā hipotēzes pārbaude",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naivais Beijesa klasifikators",
+    "concept_B": "Nosacījuma varbūtības sadalījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  }
+]
