@@ -1,0 +1,331 @@
+[
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Klasteru_analīze",
+    "score": -0.0625,
+    "ground_truth_PR": 1,
+    "predicted_PR": "patiess"
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Datizrace",
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Korelācija",
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Datizrace",
+    "score": -0.058824,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Mašīnmācīšanās",
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Varbūtību_blīvuma_funkcija",
+    "concept_B": "Beiesa_teorēma",
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Datizrace",
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Klasteru_analīze",
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "T_tests",
+    "score": -0.166667,
+    "ground_truth_PR": 1,
+    "predicted_PR": "patiess"
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "score": -0.071429,
+    "ground_truth_PR": 1,
+    "predicted_PR": "patiess"
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Klasteru_analīze",
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Dabiskā_izlase",
+    "concept_B": "Ģenētiskais_algoritms",
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "score": 0.041667,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Datizrace",
+    "score": -0.058824,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Korelācija",
+    "score": 0.142857,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Aritmētiskais_vidējais",
+    "concept_B": "Datizrace",
+    "score": -0.058824,
+    "ground_truth_PR": 1,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Klasteru_analīze",
+    "score": -0.0625,
+    "ground_truth_PR": 0,
+    "predicted_PR": "patiess"
+  },
+  {
+    "concept_A": "Ekspertsistēma",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "score": -0.047619,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Mediāna_(statistika)",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "score": -0.045455,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Ģenētiskais_algoritms",
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Aritmētiskais_vidējais",
+    "score": -0.142857,
+    "ground_truth_PR": 0,
+    "predicted_PR": "patiess"
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Aritmētiskais_vidējais",
+    "score": 0.058824,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Beiesa_teorēma",
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Aritmētiskais_vidējais",
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "score": -0.142857,
+    "ground_truth_PR": 0,
+    "predicted_PR": "patiess"
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Korelācija",
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Klasteru_analīze",
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Beiesa_teorēma",
+    "concept_B": "Varbūtību_blīvuma_funkcija",
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Meklētājprogramma",
+    "score": 0.058824,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Korelācija",
+    "score": 0.058824,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Standartnovirze",
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Standartnovirze",
+    "score": 0.058824,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "score": 0.011204,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Ģenētiskais_algoritms",
+    "concept_B": "Mākslīgais_neironu_tīkls",
+    "score": -0.047619,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Klasteru_analīze",
+    "concept_B": "Standartnovirze",
+    "score": 0.0625,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Lineārās_regresijas_analīze",
+    "concept_B": "Aritmētiskais_vidējais",
+    "score": 0.071429,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Mākslīgais_neironu_tīkls",
+    "concept_B": "Mašīnmācīšanās",
+    "score": -0.041667,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Ģenētiskais_algoritms",
+    "concept_B": "Dabiskā_izlase",
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "Dispersija_(statistika)",
+    "concept_B": "Lineārās_regresijas_analīze",
+    "score": -0.071429,
+    "ground_truth_PR": 0,
+    "predicted_PR": "patiess"
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Ekspertsistēma",
+    "score": 0.041667,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  },
+  {
+    "concept_A": "T_tests",
+    "concept_B": "Standartnovirze",
+    "score": 0.166667,
+    "ground_truth_PR": 0,
+    "predicted_PR": "aplams"
+  }
+]

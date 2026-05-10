@@ -2,4945 +2,5769 @@
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Spectral clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.02947,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Level of measurement",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.542151,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Decision tree model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.034483,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Single-linkage clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.054134,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Hierarchical clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.065703,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.475778,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Maximum likelihood",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.105263,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "K-means clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.378903,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.016461,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Information retrieval",
     "concept_B": "F1 score",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.991031,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Likelihood function",
-    "concept_B": "Expectation\u2013maximization algorithm",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "concept_B": "Expectation–maximization algorithm",
+    "score": -0.091683,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Anomaly detection",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.239831,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Likelihood function",
     "concept_B": "Maximum likelihood",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.470135,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical population",
     "concept_B": "F1 score",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.994475,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Feedforward neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.517506,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.007067,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Artificial neural network",
     "concept_B": "Backpropagation",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.611494,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Mixture model",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.096296,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Boosting (machine learning)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.039604,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Fuzzy clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.086145,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Decision tree",
     "concept_B": "Pruning (decision trees)",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.004975,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Random forest",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.537583,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
-    "concept_A": "Expectation\u2013maximization algorithm",
+    "concept_A": "Expectation–maximization algorithm",
     "concept_B": "Bayesian network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.357339,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical population",
     "concept_B": "Sampling (statistics)",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.161492,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.297799,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Maxima and minima",
     "concept_B": "Gradient descent",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.023256,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability distribution",
     "concept_B": "Bayesian network",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.006497,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "F1 score",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.005305,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical population",
     "concept_B": "Student's t-test",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.093798,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.066951,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Spectral clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.068966,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Single-linkage clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.060606,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Null hypothesis",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.056491,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Bayesian network",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.12878,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "K-medoids",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.043115,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Biclustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.10487,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Single-linkage clustering",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.170455,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Outlier",
     "concept_B": "Anomaly detection",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.017841,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Mixture model",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.162963,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "Student's t-test",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.064909,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Mode (statistics)",
     "concept_B": "Level of measurement",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.546054,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.133333,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Regression analysis",
     "concept_B": "Least squares",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.539567,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Likelihood function",
     "concept_B": "Poisson regression",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.129393,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.027154,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.087988,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Feedforward neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.028724,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Backpropagation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.008169,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Information retrieval",
     "concept_B": "Precision and recall",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.083173,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Ensemble learning",
     "concept_B": "Boosting (machine learning)",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.104611,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Feedforward neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.02765,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Single-linkage clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.085897,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "AdaBoost",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.045455,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.046989,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Null hypothesis",
     "concept_B": "F1 score",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.005348,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Spectral clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.068966,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Bayesian network",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.124294,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.885135,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "K-means clustering",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.044891,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical population",
     "concept_B": "Type I and type II errors",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.622156,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Spectral clustering",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.213911,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Sample (statistics)",
     "concept_B": "Statistical significance",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.09596,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "OPTICS algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.106918,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.120691,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "DBSCAN",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.030583,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Multiclass classification",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.666025,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "F1 score",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.004505,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Null hypothesis",
     "concept_B": "Student's t-test",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.564171,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Prior probability",
     "concept_B": "Bayesian network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.197313,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Stepwise regression",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.261741,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Outlier",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.028911,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Multiclass classification",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.772472,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "Type I and type II errors",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.626274,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.47291,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Decision tree",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.025315,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Pruning (decision trees)",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.996885,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability distribution",
     "concept_B": "Likelihood function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.173025,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree",
     "concept_B": "Decision tree model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.024533,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.077143,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Sensitivity and specificity",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.274853,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "F1 score",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.990588,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Ensemble learning",
     "concept_B": "AdaBoost",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.530627,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "OPTICS algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.070506,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Genetic algorithm",
     "concept_B": "Mutation (genetic algorithm)",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.918367,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical population",
     "concept_B": "Confidence interval",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.018626,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical hypothesis testing",
     "concept_B": "Statistical significance",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.848485,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Likelihood function",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.097132,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Clustering high-dimensional data",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.050543,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Random forest",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.559578,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "DBSCAN",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.088889,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Anomaly detection",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.056581,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Dimensionality reduction",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.265226,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.023157,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Null hypothesis",
     "concept_B": "Precision and recall",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.03425,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.009709,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Artificial neural network",
     "concept_B": "Feedforward neural network",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.437788,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Median",
     "concept_B": "Interquartile range",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.213813,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Decision tree learning",
     "concept_B": "Random forest",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.092697,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Multiclass classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.054545,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Quartile",
     "concept_B": "Interquartile range",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.3581,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Conditional probability distribution",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.201961,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Support vector machine",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.466891,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Null hypothesis",
     "concept_B": "Type I and type II errors",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.098039,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Random forest",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.051282,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.388864,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Precision and recall",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.152081,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.032181,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayes' theorem",
     "concept_B": "Bayesian network",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.193373,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Likelihood function",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.020465,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "K-means clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.027397,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Central tendency",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.050125,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability distribution",
     "concept_B": "Bayes' theorem",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.17592,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "DBSCAN",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.054678,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability distribution",
     "concept_B": "Posterior probability",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.164865,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional independence",
     "concept_B": "Bayesian network",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.016303,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.394144,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Regression analysis",
     "concept_B": "Linear regression",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.17895,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Type I and type II errors",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.63593,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Posterior probability",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.030472,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "OPTICS algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.030897,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Single-linkage clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.056102,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Anomaly detection",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.189133,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Descriptive statistics",
     "concept_B": "Interquartile range",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.119216,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Clustering high-dimensional data",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.083333,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Bayes' theorem",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.30741,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Random forest",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.046154,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Conditional probability distribution",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.261165,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Precision and recall",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.397106,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.004183,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Random forest",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.041026,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Association rule learning",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.039548,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.150505,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Maximum likelihood",
-    "concept_B": "Expectation\u2013maximization algorithm",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "concept_B": "Expectation–maximization algorithm",
+    "score": -0.143969,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical dispersion",
     "concept_B": "Level of measurement",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.527593,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Genetic algorithm",
     "concept_B": "Fitness function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.282211,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability distribution",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.042105,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Regression analysis",
     "concept_B": "Poisson regression",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.45027,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.09694,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical population",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.027586,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.054462,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.078947,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Posterior probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.008423,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Hierarchical clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.081448,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Apriori algorithm",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.05,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.122046,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Bayes' theorem",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.001072,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Spectral clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.029978,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Sample (statistics)",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Clustering high-dimensional data",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.055556,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Level of measurement",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.556774,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "OPTICS algorithm",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.56463,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Pruning (decision trees)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -1.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Regression analysis",
     "concept_B": "Data mining",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.069572,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Fuzzy clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.101911,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Clustering high-dimensional data",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.324242,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Sample (statistics)",
     "concept_B": "F1 score",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical hypothesis testing",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.015361,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Mode (statistics)",
     "concept_B": "Central tendency",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.005661,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.007906,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Median",
     "concept_B": "Level of measurement",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.563596,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.689773,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Likelihood function",
     "concept_B": "Bayesian network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.210183,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Decision tree learning",
     "concept_B": "Pruning (decision trees)",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.995536,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Backpropagation",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.481154,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Hierarchical clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.045317,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.054267,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Student's t-test",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.054737,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Pruning (decision trees)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "AdaBoost",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.736011,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Regression analysis",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.414049,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.043768,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Bayesian network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.106113,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Natural selection",
     "concept_B": "Mutation (genetic algorithm)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.001145,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Support vector machine",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.446118,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Fuzzy clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.077998,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Least squares",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.415065,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical hypothesis testing",
     "concept_B": "F1 score",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "DBSCAN",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.506818,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "False positives and false negatives",
     "concept_B": "Sensitivity and specificity",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.163306,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability distribution",
     "concept_B": "Maximum likelihood",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.15,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.359615,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Pruning (decision trees)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Multiclass classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.048485,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability",
-    "concept_B": "Expectation\u2013maximization algorithm",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "concept_B": "Expectation–maximization algorithm",
+    "score": -0.066148,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.048622,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Posterior probability",
     "concept_B": "Bayesian network",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.193801,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Pruning (decision trees)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.0,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Maximum likelihood",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.117647,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Natural selection",
     "concept_B": "Genetic algorithm",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.069553,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical hypothesis testing",
     "concept_B": "Student's t-test",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.882353,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "K-medoids",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.042607,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Biclustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.104362,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.603175,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Hierarchical clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.049744,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.035714,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "K-means clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.030822,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Sample (statistics)",
     "concept_B": "Precision and recall",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.071429,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Boosting (machine learning)",
     "concept_B": "AdaBoost",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.506751,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Maximum likelihood",
     "concept_B": "Bayesian network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.152542,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Anomaly detection",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.011552,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Sample (statistics)",
     "concept_B": "Type I and type II errors",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.090686,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Fuzzy clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.041144,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Support vector machine",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.036,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
-    "concept_B": "Expectation\u2013maximization algorithm",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "concept_B": "Expectation–maximization algorithm",
+    "score": -0.081712,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.181982,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.760125,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Decision tree model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.017241,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability distribution",
     "concept_B": "Poisson regression",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.12136,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Sample (statistics)",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.012289,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Boosting (machine learning)",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.567734,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.268854,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Hyperplane",
     "concept_B": "Linear separability",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.192061,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Bayes' theorem",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.099128,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Maximum likelihood",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.815534,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical hypothesis testing",
     "concept_B": "Precision and recall",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.079365,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "K-means clustering",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.034993,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "False positives and false negatives",
     "concept_B": "Positive and negative predictive values",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.105673,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Poisson regression",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.050049,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Natural selection",
     "concept_B": "Fitness function",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.08497,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional independence",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.047368,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Confidence interval",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.119232,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Receiver operating characteristic",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.406464,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability distribution",
     "concept_B": "Conditional independence",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.046429,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Type I and type II errors",
     "concept_B": "F1 score",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.985294,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "K-medoids",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.044383,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Biclustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.046875,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical hypothesis testing",
     "concept_B": "Type I and type II errors",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.848039,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical population",
     "concept_B": "Statistical significance",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.575897,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Hierarchical clustering",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.420115,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Sample (statistics)",
     "concept_B": "Confidence interval",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.899204,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Anomaly detection",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.074576,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical population",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.872928,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Conditional independence",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.237255,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Hyperplane",
     "concept_B": "Support vector machine",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.016897,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "OPTICS algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.091152,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Association rule learning",
     "concept_B": "Apriori algorithm",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.038701,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Backpropagation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.284408,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Clustering high-dimensional data",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.078829,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.131896,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Boosting (machine learning)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.034653,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Ensemble learning",
     "concept_B": "Random forest",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.117254,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "Statistical significance",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.582275,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Fuzzy clustering",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.55904,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Regression analysis",
     "concept_B": "Stepwise regression",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.463111,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.870027,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Poisson regression",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.01198,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.068421,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Feedforward neural network",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.555991,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Linear regression",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.16036,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bootstrap aggregating",
     "concept_B": "Random forest",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.056145,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.046042,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Sample (statistics)",
     "concept_B": "Student's t-test",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.914027,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Association rule learning",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.418053,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Central tendency",
     "concept_B": "Level of measurement",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.52987,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Anomaly detection",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.033448,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Biclustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.125,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "K-means clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.022432,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "K-medoids",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.02381,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Conditional independence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.155479,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "K-medoids",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.346916,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Biclustering",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.197443,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability distribution",
-    "concept_B": "Expectation\u2013maximization algorithm",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "concept_B": "Expectation–maximization algorithm",
+    "score": -0.027237,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical population",
     "concept_B": "Sample (statistics)",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.900552,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "DBSCAN",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.073123,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Linear separability",
     "concept_B": "Support vector machine",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.115535,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Type I and type II errors",
     "concept_B": "Precision and recall",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.067694,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Dimensionality reduction",
     "concept_B": "Spectral clustering",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.103448,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.041475,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree",
     "concept_B": "Random forest",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.041485,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Backpropagation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.014857,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Poisson regression",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.01237,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Likelihood function",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.085995,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Null hypothesis",
     "concept_B": "Statistical significance",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.040553,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bootstrapping (statistics)",
     "concept_B": "Random forest",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.095677,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Null hypothesis",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.850267,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Median",
     "concept_B": "Central tendency",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.148883,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.343358,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "AdaBoost",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.039773,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Bayesian network",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.06566,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "K-means clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.071918,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.027338,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical population",
     "concept_B": "Precision and recall",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.168728,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Statistical significance",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.600942,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": 0.193157,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.924706,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "K-means clustering",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.306694,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": 0.019242,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Decision tree",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.050559,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Precision and recall",
     "concept_B": "F1 score",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.936508,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Support vector machine",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.04,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "Precision and recall",
-    "predicted_PR": "false",
-    "ground_truth_PR": 1
+    "score": -0.129595,
+    "ground_truth_PR": 1,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical dispersion",
     "concept_B": "Interquartile range",
-    "predicted_PR": "true",
-    "ground_truth_PR": 1
+    "score": -0.027805,
+    "ground_truth_PR": 1,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.046989,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Regression analysis",
     "concept_B": "Likelihood function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.260202,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Fuzzy clustering",
     "concept_B": "K-means clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.290027,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Regression analysis",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.166722,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Signal-to-noise ratio",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.100617,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.027338,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Spectral clustering",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.213911,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical hypothesis testing",
     "concept_B": "Statistical population",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.872928,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Anomaly detection",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.239831,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Central tendency",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.050125,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Poisson regression",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.050049,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Mixture model",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.133333,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Random forest",
     "concept_B": "Ensemble learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.117254,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Artificial neural network",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.804545,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Knowledge base",
     "concept_B": "Expert system",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.192221,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Spectral clustering",
     "concept_B": "K-means clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.103566,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Hierarchical clustering",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.081448,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Boosting (machine learning)",
     "concept_B": "Random forest",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.012643,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayes' theorem",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.30741,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Decision tree",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.025315,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical hypothesis testing",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.885135,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Expert system",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.073826,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Principal component analysis",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.193157,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Least squares",
     "concept_B": "Regression analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.539567,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional independence",
     "concept_B": "Conditional probability",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.237255,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Single-linkage clustering",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.060606,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Median",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.091061,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Outlier",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.821053,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Query language",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.026225,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "False positives and false negatives",
     "concept_B": "Accuracy and precision",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.11888,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Support vector machine",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.564,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Linear regression",
     "concept_B": "Stepwise regression",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.409792,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability distribution",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.311131,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Level of measurement",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.542151,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Sensitivity and specificity",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.274853,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Prior probability",
     "concept_B": "Bayes' theorem",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.117982,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Artificial neural network",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.845599,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Ensemble learning",
     "concept_B": "Stepwise regression",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.067036,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical model",
     "concept_B": "Stepwise regression",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.325751,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Maximum likelihood",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.105263,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Linear separability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.178778,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Decision tree",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.050559,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Accuracy and precision",
     "concept_B": "Precision and recall",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.244702,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Biclustering",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.10487,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Interquartile range",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.184975,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Hierarchical clustering",
     "concept_B": "OPTICS algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.162327,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Bayes' theorem",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.077891,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "DBSCAN",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.054678,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Likelihood function",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.097132,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "F-test",
     "concept_B": "Stepwise regression",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.258402,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "F1 score",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.990588,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Support vector machine",
     "concept_B": "Anomaly detection",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.062237,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayesian network",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.432758,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Backpropagation",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.611494,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Genetic algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.04077,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.343358,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Pruning (decision trees)",
-    "concept_B": "Alpha\u2013beta pruning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "concept_B": "Alpha–beta pruning",
+    "score": 0.99455,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.122046,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Artificial neural network",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.009709,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Multiclass classification",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.666025,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Prior probability",
     "concept_B": "Posterior probability",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.086691,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "K-means clustering",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.306694,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Mixture model",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.181982,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Gradient descent",
     "concept_B": "Feedforward neural network",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.00309,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Linear regression",
     "concept_B": "Regression analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.17895,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.019242,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Missing data",
-    "concept_B": "Expectation\u2013maximization algorithm",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "concept_B": "Expectation–maximization algorithm",
+    "score": -0.075105,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Principal component analysis",
     "concept_B": "K-means clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.227717,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cross-validation (statistics)",
     "concept_B": "Support vector machine",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.084594,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Histogram",
     "concept_B": "Interquartile range",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.068425,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Hierarchical clustering",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.065703,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Bayes' theorem",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.009226,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Discretization",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.001464,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Feedforward neural network",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.028724,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Anomaly detection",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.074576,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data modeling",
     "concept_B": "Query language",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.028448,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Maximum likelihood",
     "concept_B": "Confidence interval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.275862,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "AdaBoost",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.736011,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.103932,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Nonlinear system",
     "concept_B": "Backpropagation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.005378,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Gradient descent",
     "concept_B": "Maxima and minima",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.023256,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Cross-validation (statistics)",
     "concept_B": "Boosting (machine learning)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.116337,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "OPTICS algorithm",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.070506,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Backpropagation",
     "concept_B": "Pruning (decision trees)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.004598,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.359615,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Mixture model",
     "concept_B": "Hierarchical clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.006569,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Prior probability",
     "concept_B": "Maximum likelihood",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.379863,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Mixture model",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.023157,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Likelihood function",
     "concept_B": "Conditional probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.173025,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical model",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.884021,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical significance",
     "concept_B": "Sample (statistics)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.09596,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayesian network",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.12878,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Pruning (decision trees)",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree model",
     "concept_B": "Decision tree",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.024533,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Posterior probability",
     "concept_B": "Likelihood function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.209952,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional independence",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.526552,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "OPTICS algorithm",
     "concept_B": "DBSCAN",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.074528,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Hierarchical clustering",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.049744,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Precision and recall",
     "concept_B": "Null hypothesis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.03425,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "K-means clustering",
     "concept_B": "K-medoids",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.193738,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Prior probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.047692,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Web search engine",
     "concept_B": "Precision and recall",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.015873,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Multiclass classification",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.772472,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Ensemble learning",
     "concept_B": "Anomaly detection",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.106462,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Sample (statistics)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.012289,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
-    "concept_A": "Expectation\u2013maximization algorithm",
+    "concept_A": "Expectation–maximization algorithm",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.066148,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Fuzzy clustering",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.086145,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "K-means clustering",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.030822,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Arithmetic mean",
     "concept_B": "Precision and recall",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.119883,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Pruning (decision trees)",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.996885,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Single-linkage clustering",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.170455,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability distribution",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.201961,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Model selection",
     "concept_B": "Biclustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.104756,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Bayesian network",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.015819,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Outlier",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.095993,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Posterior probability",
     "concept_B": "Bayes' theorem",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.10194,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Precision and recall",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.079365,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Likelihood function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.085995,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Biclustering",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.120392,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Clustering high-dimensional data",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.078829,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Regression analysis",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.839482,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Classification rule",
     "concept_B": "Support vector machine",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.137846,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.054462,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree learning",
     "concept_B": "Decision tree",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.046042,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Stepwise regression",
     "concept_B": "Regression analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.463111,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree learning",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.032181,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
-    "concept_A": "Expectation\u2013maximization algorithm",
+    "concept_A": "Expectation–maximization algorithm",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.034789,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Posterior probability",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.008423,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Spectral clustering",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.029978,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Regression analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.362507,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Anomaly detection",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.056581,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Linear separability",
     "concept_B": "Backpropagation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.053675,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Bayes' theorem",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.099128,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data reduction",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.059524,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree model",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.016626,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "F1 score",
     "concept_B": "Precision and recall",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.936508,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Linear regression",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.041388,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Linear regression",
     "concept_B": "Gradient descent",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.213964,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Boosting (machine learning)",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.034653,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "K-means clustering",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.071918,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "F1 score",
     "concept_B": "Type I and type II errors",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.985294,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Posterior probability",
     "concept_B": "Conditional probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.164865,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.689773,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Outlier",
     "concept_B": "Interquartile range",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.575569,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.20996,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Accuracy and precision",
     "concept_B": "Sensitivity and specificity",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.132281,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Decision tree",
     "concept_B": "Support vector machine",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.0281,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Clustering high-dimensional data",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.083333,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayesian network",
     "concept_B": "Conditional probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.006497,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.054267,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Prior probability",
     "concept_B": "Minimum description length",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.637942,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Hierarchical clustering",
     "concept_B": "Single-linkage clustering",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.171397,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "False positives and false negatives",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.272141,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Anomaly detection",
     "concept_B": "Outlier",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.017841,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical model",
     "concept_B": "Statistical classification",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.039964,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data processing",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.980892,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Type I and type II errors",
     "concept_B": "Confidence interval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.626274,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayesian network",
     "concept_B": "Posterior probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.193801,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree",
     "concept_B": "Boosting (machine learning)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.044481,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Cluster analysis",
-    "concept_B": "Expectation\u2013maximization algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "concept_B": "Expectation–maximization algorithm",
+    "score": -0.315308,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Random forest",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.082294,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Median",
     "concept_B": "K-means clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.046494,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Spectral clustering",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.068966,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical population",
     "concept_B": "Mixture model",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.133456,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "AdaBoost",
     "concept_B": "Boosting (machine learning)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.506751,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Anomaly detection",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.011552,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Support vector machine",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.036,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "F1 score",
     "concept_B": "Information retrieval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.991031,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Sampling (statistics)",
     "concept_B": "Bayes' theorem",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.055215,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
-    "concept_A": "Expectation\u2013maximization algorithm",
+    "concept_A": "Expectation–maximization algorithm",
     "concept_B": "Conditional probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.027237,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Random forest",
     "concept_B": "Decision tree",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.041485,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Random forest",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.046154,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Receiver operating characteristic",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.406464,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Positive and negative predictive values",
     "concept_B": "False positives and false negatives",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.105673,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Multiclass classification",
     "concept_B": "Support vector machine",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.606303,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Feedforward neural network",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.517506,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayesian network",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.06566,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Hierarchical clustering",
     "concept_B": "DBSCAN",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.096883,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Precision and recall",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.397106,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "DBSCAN",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.506818,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.068421,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Prior probability",
     "concept_B": "Likelihood function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.104487,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Interquartile range",
     "concept_B": "Quartile",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.3581,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Conditional independence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.047368,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree model",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.034483,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Backpropagation",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.014857,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Boosting (machine learning)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.350998,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Bootstrap aggregating",
     "concept_B": "Boosting (machine learning)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.067372,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Poisson regression",
     "concept_B": "Likelihood function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.129393,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Type I and type II errors",
     "concept_B": "Statistical population",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.622156,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical hypothesis testing",
     "concept_B": "Null hypothesis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.850267,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Signal-to-noise ratio",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.030491,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Maximum likelihood",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.117647,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Confusion matrix",
     "concept_B": "Precision and recall",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.326287,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Artificial neural network",
     "concept_B": "Pruning (decision trees)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -1.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "K-means clustering",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.044891,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "Likelihood function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.179809,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Poisson regression",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.01237,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree model",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.017241,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Expert system",
     "concept_B": "Random forest",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.019756,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical model",
     "concept_B": "Feedforward neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.089981,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Statistical significance",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.044425,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Support vector machine",
     "concept_B": "Linear separability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.115535,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Prior probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.07547,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Type I and type II errors",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.63593,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Single-linkage clustering",
     "concept_B": "OPTICS algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.035449,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Prior probability",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.067277,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Outlier",
     "concept_B": "OPTICS algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.085733,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Type I and type II errors",
     "concept_B": "Null hypothesis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.098039,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Stepwise regression",
     "concept_B": "F-test",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.258402,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Maximum likelihood",
     "concept_B": "Mixture model",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.17037,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Information retrieval",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.011889,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Random forest",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.092697,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "K-medoids",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.042607,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Artificial neural network",
     "concept_B": "Gradient descent",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.689922,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree learning",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.043768,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.027154,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Linear regression",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.023614,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Poisson regression",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.01198,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Type I and type II errors",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.848039,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Interquartile range",
     "concept_B": "Median",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.213813,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Association rule learning",
     "concept_B": "Anomaly detection",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.225989,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Mutation (genetic algorithm)",
     "concept_B": "Natural selection",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.001145,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data type",
     "concept_B": "DBSCAN",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.016667,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "K-means clustering",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.022432,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Bayesian network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.084822,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Decision tree learning",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.47291,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Posterior probability",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.964865,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Confusion matrix",
     "concept_B": "Positive and negative predictive values",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.158395,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.008472,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Poisson regression",
     "concept_B": "Conditional probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.12136,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Median",
     "concept_B": "Confidence interval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.148401,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "OPTICS algorithm",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.56463,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayes' theorem",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.001072,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional independence",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.155479,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical dispersion",
     "concept_B": "Central tendency",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.035403,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "AdaBoost",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.045455,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical model",
     "concept_B": "Maximum likelihood",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.319588,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.066951,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Anomaly detection",
     "concept_B": "DBSCAN",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.234746,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Accuracy and precision",
     "concept_B": "Statistical significance",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.02856,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayes' theorem",
     "concept_B": "Conditional probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.17592,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Central tendency",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.107213,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional independence",
     "concept_B": "Conditional probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.046429,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Outlier",
     "concept_B": "Regression analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.02099,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Single-linkage clustering",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.056102,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Maximum likelihood",
     "concept_B": "Conditional probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.15,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Information retrieval",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.009936,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Quartile",
     "concept_B": "Central tendency",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.317668,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "Sample (statistics)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.899204,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Apriori algorithm",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.05,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Active learning (machine learning)",
     "concept_B": "Support vector machine",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.249963,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Gradient descent",
     "concept_B": "Poisson regression",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.008631,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.096596,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical significance",
     "concept_B": "Sensitivity and specificity",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.051428,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Likelihood function",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.020465,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Descriptive statistics",
     "concept_B": "Central tendency",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.058605,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "DBSCAN",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.088889,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Random forest",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.051282,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Histogram",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.117303,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Median",
     "concept_B": "Statistical population",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.173179,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Multiclass classification",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.048485,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Anomaly detection",
     "concept_B": "OPTICS algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.301588,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "F1 score",
     "concept_B": "Sample (statistics)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Support vector machine",
     "concept_B": "Hyperplane separation theorem",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.012889,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "K-medoids",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.02381,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Support vector machine",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.446118,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Receiver operating characteristic",
     "concept_B": "Precision and recall",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.298886,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Expert system",
     "concept_B": "Bayesian network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.050165,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Fuzzy clustering",
-    "concept_B": "Expectation\u2013maximization algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "concept_B": "Expectation–maximization algorithm",
+    "score": 0.26127,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Sensitivity and specificity",
     "concept_B": "Confidence interval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.156167,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Student's t-test",
     "concept_B": "Sample (statistics)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.914027,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Linear separability",
     "concept_B": "Feedforward neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.046726,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Boosting (machine learning)",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.039604,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Classification rule",
     "concept_B": "Decision tree",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.028511,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Random forest",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.559578,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Single-linkage clustering",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.054134,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree learning",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.475778,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Principal component analysis",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.268854,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Precision and recall",
     "concept_B": "Type I and type II errors",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.067694,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Web search engine",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.983103,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Bayesian network",
     "concept_B": "Likelihood function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.210183,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Least squares",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.415065,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "F1 score",
     "concept_B": "Confidence interval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.005305,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Interquartile range",
     "concept_B": "Statistical dispersion",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.027805,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical significance",
     "concept_B": "Confidence interval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.582275,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Backpropagation",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.284408,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Boosting (machine learning)",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.567734,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.041475,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Biclustering",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.104362,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Semi-supervised learning",
     "concept_B": "K-means clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.664384,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Model selection",
     "concept_B": "Stepwise regression",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.37569,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Cross-validation (statistics)",
     "concept_B": "Pruning (decision trees)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -1.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Artificial neural network",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.007067,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
-    "concept_A": "Expectation\u2013maximization algorithm",
+    "concept_A": "Expectation–maximization algorithm",
     "concept_B": "Likelihood function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.091683,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayesian network",
     "concept_B": "Bayes' theorem",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.193373,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Linear separability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.132476,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Central tendency",
     "concept_B": "Mode (statistics)",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.005661,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Mixture model",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.096296,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Gradient descent",
     "concept_B": "Backpropagation",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.069781,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Stepwise regression",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.119682,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Statistical significance",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.023321,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Precision and recall",
     "concept_B": "Information retrieval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.083173,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Confidence interval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.016461,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Level of measurement",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.556774,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Regression analysis",
     "concept_B": "Random forest",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.495744,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "OPTICS algorithm",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.106918,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.388864,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "OPTICS algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.46567,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Central tendency",
     "concept_B": "Median",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.148883,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "AdaBoost",
     "concept_B": "Ensemble learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.530627,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Anomaly detection",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.322433,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Prior probability",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.032037,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayesian network",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.124294,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Support vector machine",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.466891,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "DBSCAN",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.073123,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Apriori algorithm",
     "concept_B": "Association rule learning",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.038701,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayesian network",
     "concept_B": "Prior probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.197313,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical significance",
     "concept_B": "Statistical population",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.575897,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Sensitivity and specificity",
     "concept_B": "Confusion matrix",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.160676,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Level of measurement",
     "concept_B": "Mode (statistics)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.546054,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Gradient descent",
     "concept_B": "Boosting (machine learning)",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.011935,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Mixture model",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.120691,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Mutation (genetic algorithm)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.995846,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Mutation (genetic algorithm)",
     "concept_B": "Genetic algorithm",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.918367,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
-    "concept_A": "Expectation\u2013maximization algorithm",
+    "concept_A": "Expectation–maximization algorithm",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.081712,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical model",
     "concept_B": "Likelihood function",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.129353,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.965517,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Bayesian network",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.106113,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Pruning (decision trees)",
     "concept_B": "Decision tree",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.004975,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability distribution",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.261165,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Discretization",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.015789,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical significance",
     "concept_B": "Regression analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.665262,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Nonlinear system",
     "concept_B": "Gradient descent",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.018577,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Outlier",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.123977,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Fitness function",
     "concept_B": "Natural selection",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.08497,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Level of measurement",
     "concept_B": "Median",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.563596,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Correlation and dependence",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.394144,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Hierarchical clustering",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.045317,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Sensitivity and specificity",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.908654,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Statistical population",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.027586,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Linear regression",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.16036,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical significance",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.600942,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Artificial neural network",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.558036,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Backpropagation",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.481154,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Minkowski distance",
     "concept_B": "DBSCAN",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.006493,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Support vector machine",
     "concept_B": "Hyperplane",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.016897,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Association rule learning",
     "concept_B": "Decision tree",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.047896,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical significance",
     "concept_B": "Null hypothesis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.040553,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Conditional independence",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.526552,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Mutation (genetic algorithm)",
     "concept_B": "Fitness function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.850746,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Biclustering",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.125,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "DBSCAN",
     "concept_B": "Hierarchical clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.096883,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayesian network",
     "concept_B": "Conditional independence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.016303,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "DBSCAN",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.030583,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree learning",
     "concept_B": "Support vector machine",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.043821,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Regression analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.069572,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Maximum likelihood",
     "concept_B": "Minimum description length",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.658537,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "K-means clustering",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.027397,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Mixture model",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.162963,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Joint probability distribution",
     "concept_B": "Confidence interval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.038813,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Sensitivity and specificity",
     "concept_B": "False positives and false negatives",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.163306,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.004183,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Boosting (machine learning)",
     "concept_B": "Ensemble learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.104611,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Gradient descent",
     "concept_B": "Hill climbing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.406373,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical significance",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.848485,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Null hypothesis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.056491,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Outlier",
     "concept_B": "DBSCAN",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.064035,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.817204,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "K-medoids",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.346916,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayesian network",
-    "concept_B": "Expectation\u2013maximization algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "concept_B": "Expectation–maximization algorithm",
+    "score": -0.357339,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Bayesian network",
     "concept_B": "Maximum likelihood",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.152542,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree learning",
     "concept_B": "Decision tree model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.016626,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Probability density function",
     "concept_B": "Interquartile range",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.007455,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Regression analysis",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.294875,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Linear regression",
     "concept_B": "Conditional probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.151577,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "OPTICS algorithm",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.091152,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.015361,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.334389,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Bootstrap aggregating",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.137213,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Genetic algorithm",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.892857,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Outlier",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.028911,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Fuzzy clustering",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.077998,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Pruning (decision trees)",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.995536,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.297799,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Regression analysis",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.414049,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.048775,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
-    "concept_A": "Expectation\u2013maximization algorithm",
+    "concept_A": "Expectation–maximization algorithm",
     "concept_B": "Maximum likelihood",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.143969,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Maximum likelihood",
     "concept_B": "Likelihood function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.470135,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.131896,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Regression analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.006897,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Feedforward neural network",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.02765,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Anomaly detection",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.189133,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Clustering high-dimensional data",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.050543,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Linear regression",
     "concept_B": "Poisson regression",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.179496,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Mode (statistics)",
     "concept_B": "Random forest",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.0712,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Linear regression",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.477477,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Hierarchical clustering",
     "concept_B": "Biclustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.0847,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Standard deviation",
     "concept_B": "Likelihood function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.078568,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.077143,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Stepwise regression",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.261741,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Precision and recall",
     "concept_B": "Sensitivity and specificity",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.173993,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Spectral clustering",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.02947,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Mixture model",
-    "concept_B": "Expectation\u2013maximization algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "concept_B": "Expectation–maximization algorithm",
+    "score": 0.034789,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "OPTICS algorithm",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.030897,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Anomaly detection",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.033448,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Support vector machine",
     "concept_B": "Boosting (machine learning)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.121703,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Mixture model",
     "concept_B": "Maximum likelihood",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.17037,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Feedforward neural network",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.555991,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Artificial neural network",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.924706,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Level of measurement",
     "concept_B": "Statistical dispersion",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.527593,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree learning",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.340864,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Cluster analysis",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.09694,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Principal component analysis",
     "concept_B": "Dimensionality reduction",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.265226,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Precision and recall",
     "concept_B": "Sample (statistics)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.071429,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.01559,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "K-means clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.227232,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Linear regression",
     "concept_B": "Maximum likelihood",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.477477,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Posterior probability",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.875676,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical classification",
     "concept_B": "Posterior probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.089285,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Maximum likelihood",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.815534,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Level of measurement",
     "concept_B": "Central tendency",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.52987,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.007906,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Pruning (decision trees)",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Positive and negative predictive values",
     "concept_B": "Accuracy and precision",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.132855,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Fuzzy clustering",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.101911,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Precision and recall",
     "concept_B": "Confidence interval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.129595,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Sampling (statistics)",
     "concept_B": "Statistical population",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.161492,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Association rule learning",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.039548,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Confusion matrix",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.092534,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Biclustering",
     "concept_B": "Hierarchical clustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.0847,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Biclustering",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.046875,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Sample (statistics)",
     "concept_B": "Statistical population",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.900552,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Decision tree learning",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.035714,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Ensemble learning",
     "concept_B": "Backpropagation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.107918,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Clustering high-dimensional data",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.055556,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.054378,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Pruning (decision trees)",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 1.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Hyperplane separation theorem",
     "concept_B": "Support vector machine",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.012889,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Conditional probability",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.314314,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Maximum likelihood",
     "concept_B": "Poisson regression",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.338902,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Fitness function",
     "concept_B": "Genetic algorithm",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": 0.282211,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.052975,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Discretization",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.967213,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Biclustering",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.197443,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Linear regression",
     "concept_B": "Support vector machine",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.416757,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "Stepwise regression",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.259255,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Spectral clustering",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.068966,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayes' theorem",
     "concept_B": "Confidence interval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.034499,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Mode (statistics)",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.191068,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Outlier",
     "concept_B": "Support vector machine",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.057895,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "DBSCAN",
     "concept_B": "OPTICS algorithm",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.074528,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Artificial neural network",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.760125,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Local optimum",
     "concept_B": "K-means clustering",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.027397,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Random forest",
     "concept_B": "Bootstrap aggregating",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.056145,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Histogram",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.039775,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "K-means clustering",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.025013,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Feedforward neural network",
     "concept_B": "Backpropagation",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.026951,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Precision and recall",
     "concept_B": "Statistical population",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.168728,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Posterior probability",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.030472,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "DBSCAN",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.413646,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "K-means clustering",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.034993,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Support vector machine",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.360842,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Interquartile range",
     "concept_B": "Descriptive statistics",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.119216,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Student's t-test",
     "concept_B": "Confidence interval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.064909,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Random forest",
     "concept_B": "Naive Bayes classifier",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.465047,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Support vector machine",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.04,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "AdaBoost",
     "concept_B": "Decision tree",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.05255,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Linear separability",
     "concept_B": "Hyperplane",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.192061,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Mixture model",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.150505,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Precision and recall",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.152081,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Interquartile range",
     "concept_B": "Central tendency",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.052015,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "AdaBoost",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.039773,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "Statistical population",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.018626,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Posterior probability",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.131231,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Genetic algorithm",
     "concept_B": "Natural selection",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.069553,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Conditional probability",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.078947,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Poisson regression",
     "concept_B": "Regression analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.45027,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Random forest",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.041026,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Feedforward neural network",
     "concept_B": "Artificial neural network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.437788,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Regression analysis",
     "concept_B": "Support vector machine",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.383398,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Hierarchical clustering",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.420115,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Random forest",
     "concept_B": "Bootstrapping (statistics)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.095677,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data mining",
     "concept_B": "Association rule learning",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.418053,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "Regression analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.453911,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical hypothesis testing",
     "concept_B": "Sample (statistics)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Linear regression",
     "concept_B": "Data matrix (multivariate statistics)",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.994595,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "F1 score",
     "concept_B": "Statistical population",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.994475,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Confidence interval",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.119232,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Statistical classification",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.087988,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data analysis",
     "concept_B": "Association rule learning",
-    "predicted_PR": "true",
-    "ground_truth_PR": 0
+    "score": -0.016072,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Prior probability",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.89016,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Backpropagation",
     "concept_B": "Probability density function",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.008169,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Random forest",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.537583,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Mixture model",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.01384,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "K-medoids",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.043115,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Linear regression",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.023634,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Student's t-test",
     "concept_B": "Statistical population",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.093798,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Statistical dispersion",
     "concept_B": "Regression analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.480244,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "K-means clustering",
     "concept_B": "Machine learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.378903,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Multiclass classification",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.054545,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Principal component analysis",
     "concept_B": "Correlation and dependence",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.603175,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Outlier",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.180102,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.048622,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Bayesian network",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.029646,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Mode (statistics)",
     "concept_B": "Biclustering",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.104098,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Pruning (decision trees)",
     "concept_B": "Joint probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "F1 score",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.004505,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Type I and type II errors",
     "concept_B": "Sample (statistics)",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.090686,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Genetic algorithm",
     "concept_B": "Decision tree",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.01556,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Machine learning",
     "concept_B": "Expert system",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.103076,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "F1 score",
     "concept_B": "Null hypothesis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.005348,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Precision and recall",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.40018,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Bayes' theorem",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.04908,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Minkowski distance",
     "concept_B": "K-medoids",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.02381,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Single-linkage clustering",
     "concept_B": "Arithmetic mean",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.085897,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Statistical hypothesis testing",
     "concept_B": "Confidence interval",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.870027,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Fuzzy clustering",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.041144,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Student's t-test",
     "concept_B": "Standard deviation",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.054737,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Data matrix (multivariate statistics)",
     "concept_B": "Principal component analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.007215,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Student's t-test",
     "concept_B": "Null hypothesis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.564171,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Spectral clustering",
     "concept_B": "Dimensionality reduction",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.103448,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Fuzzy clustering",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.55904,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "F1 score",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.0,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "K-medoids",
     "concept_B": "Data analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.044383,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Outlier",
     "concept_B": "K-medoids",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.037093,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Hierarchical clustering",
     "concept_B": "Data mining",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.329184,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Student's t-test",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.882353,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "K-means clustering",
-    "concept_B": "Expectation\u2013maximization algorithm",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "concept_B": "Expectation–maximization algorithm",
+    "score": -0.034033,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Clustering high-dimensional data",
     "concept_B": "Cluster analysis",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.324242,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   },
   {
     "concept_A": "Model selection",
     "concept_B": "Statistical hypothesis testing",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": -0.882217,
+    "ground_truth_PR": 0,
+    "predicted_PR": "true"
   },
   {
     "concept_A": "Naive Bayes classifier",
     "concept_B": "Conditional probability distribution",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
+    "score": 0.042105,
+    "ground_truth_PR": 0,
+    "predicted_PR": "false"
   }
 ]

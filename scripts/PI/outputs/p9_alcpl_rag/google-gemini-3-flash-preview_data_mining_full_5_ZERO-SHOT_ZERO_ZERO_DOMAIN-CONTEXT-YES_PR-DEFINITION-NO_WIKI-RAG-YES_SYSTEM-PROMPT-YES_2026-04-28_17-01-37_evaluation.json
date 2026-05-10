@@ -2,7 +2,7 @@
   {
     "precision": 0.69,
     "recall": 0.716,
-    "accuracy": 0.786,
+    "accuracy": 0.785,
     "F1": 0.703,
     "MCC": 0.535
   }

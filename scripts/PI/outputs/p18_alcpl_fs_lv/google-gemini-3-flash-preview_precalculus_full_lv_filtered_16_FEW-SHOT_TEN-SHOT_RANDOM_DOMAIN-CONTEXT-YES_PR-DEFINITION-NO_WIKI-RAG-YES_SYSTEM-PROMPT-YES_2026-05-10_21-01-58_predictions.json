@@ -1,0 +1,6098 @@
+[
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Ņūtona binoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Analītiskā ģeometrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Sinuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Rinda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Līnija",
+    "concept_B": "Līklīnijas kustība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Nevienādība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Analītiskā ģeometrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Matricu reizināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Skalārais reizinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Diferenciālvienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Atņemšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Algebras pamatteorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Lineārs vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Trigonometrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Konusa šķēlums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Lineāra nevienādība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Līnija",
+    "concept_B": "Asimptota",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Kompleksi saistītais skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Leņķis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Bāze (lineārā algebra)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Dalīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Polinoms",
+    "concept_B": "Algebras pamatteorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kopa",
+    "concept_B": "Tukša kopa",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Konusa šķēlums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ņūtona binoms",
+    "concept_B": "Binomiālkoeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matrica",
+    "concept_B": "Determinants",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Kvadrātvienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Lineāru vienādojumu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Polinoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Funkcijas grafiks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Polinoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Naturālais logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Polinomu dalīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Sfēriskā kosinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Lineāra nevienādība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Matemātisks pierādījums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Sektors",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Periodiska funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Taisne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Konuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Kvadrātfunkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Vektoriālais reizinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Polinoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Lineāra funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Absolūtā vērtība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Robeža (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Logaritms",
+    "concept_B": "Naturālais logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trigonometrija",
+    "concept_B": "Sinuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Saskaitīšana",
+    "concept_B": "Summa",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Rēķini",
+    "concept_B": "Funkcijas robeža",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "EDGE (nozīmju atdalīšana)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Rēķini",
+    "concept_B": "Lineāra nevienādība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Konuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Kvadrātvienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Summa",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Binārā skaitīšanas sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kvadrāts (algebra)",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Kvadrāts (algebra)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Ņūtona binoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Analītiskā ģeometrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Nevienādība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "EDGE (nozīmju atdalīšana)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trigonometrija",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Skalārais reizinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Konuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Diferenciālvienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Saskaitīšana",
+    "concept_B": "Algebras pamatteorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Grāds (leņķis)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Polinoms",
+    "concept_B": "Ņūtona binoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Binomiālkoeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Sekante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Matricu reizināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Vektoriālais reizinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Determinants",
+    "concept_B": "Minors (lineārā algebra)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Ņūtona binoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Matemātiskā formula",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Algebras pamatteorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Lineārs vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Polinoms",
+    "concept_B": "Binomiālkoeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Algebras pamatteorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Konusa šķēlums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Intervāls (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Līnija",
+    "concept_B": "Elipse",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Binomiālkoeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Sekante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Funkcijas grafiks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Lineāru vienādojumu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Polinoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Naturālais logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Leņķis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Binomiālkoeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Absolūtā vērtība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Polinomu dalīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Analītiskā ģeometrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Ņūtona binoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Nevienādība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Diferenciālvienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Lineāru vienādojumu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Polinomu dalīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Skalārais reizinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Līnija",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Sinuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Kvadrātfunkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Binomiālkoeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Imaginārs skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Pāra un nepāra skaitļi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Funkcijas robeža",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Vektoriālais reizinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Rādiuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Lineāra nevienādība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Rēķini",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Trigonometrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Polinomu dalīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Taisne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Analītiskā ģeometrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Polārā koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Saskaitīšana",
+    "concept_B": "Ņūtona binoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Rēķini",
+    "concept_B": "Rinda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Naturālais logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātisks pierādījums",
+    "concept_B": "Matemātiskā indukcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trigonometrija",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Sektors",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trigonometrija",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Konuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Līklīnijas kustība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Algebras pamatteorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Naturāls skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Skalārais reizinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "EDGE (nozīmju atdalīšana)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Analītiskā ģeometrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Atņemšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Bāze (lineārā algebra)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Elipse",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "EDGE (nozīmju atdalīšana)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "EDGE (nozīmju atdalīšana)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Līklīnijas kustība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Līnija",
+    "concept_B": "Konusa šķēlums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "E (matemātiska konstante)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Saskaitīšana",
+    "concept_B": "Polinoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Periodiska funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Kompleksi saistītais skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Polārā koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Racionāls skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Asimptota",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Imaginārs skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matrica",
+    "concept_B": "Minors (lineārā algebra)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Polinoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Līklīnijas kustība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Robeža (matemātika)",
+    "concept_B": "Funkcijas robeža",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Lineāru vienādojumu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Polinomu dalīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Rēķini",
+    "concept_B": "Robeža (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Līnija",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Sekante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "E (matemātiska konstante)",
+    "concept_B": "Naturālais logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Dalīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Līnija",
+    "concept_B": "Sektors",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Analītiskā ģeometrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Lineārs vienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Polinoms",
+    "concept_B": "Polinomu dalīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Līnija",
+    "concept_B": "Konuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Lineāra nevienādība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lineāra funkcija",
+    "concept_B": "Lineāra nevienādība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Analītiskā ģeometrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Lineārs vienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matrica",
+    "concept_B": "Vienības matrica",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Analītiskā ģeometrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Kvadrāts (algebra)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matrica",
+    "concept_B": "Matricu reizināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Nevienādība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Grāds (leņķis)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Lineāra funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Summa",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Sfēriskā kosinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Lineāru vienādojumu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Algebra",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Polārā koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Atņemšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Kompleksi saistītais skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Algebras pamatteorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Matricu reizināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Lineāra nevienādība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Konusa šķēlums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Līnija",
+    "concept_B": "Sekante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Taisnstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Algebras pamatteorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Elipse",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Saskaitīšana",
+    "concept_B": "Binomiālkoeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Ņūtona binoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Matemātiskā analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Matricu reizināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Bāze (lineārā algebra)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Dalīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Elipse",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Konusa šķēlums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Algebras pamatteorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Saskaitīšana",
+    "concept_B": "Polinomu dalīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Algebras pamatteorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Binomiālkoeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Kvadrātvienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Līklīnijas kustība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Algebras pamatteorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kāpināšana",
+    "concept_B": "Logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Asimptota",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Negatīvs skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Imaginārs skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Sektors",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Polinomu dalīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Asimptota",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Lineārs vienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Matemātiskā indukcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trigonometrija",
+    "concept_B": "Sfēriskā kosinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Vektoriālais reizinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Līnija",
+    "concept_B": "Horda (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Naturālais logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Rēķini",
+    "concept_B": "Lineāra funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Sektors",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Sfēriskā kosinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kāpināšana",
+    "concept_B": "Naturālais logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Summa",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Grāds (leņķis)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Funkcijas robeža",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Taisnleņķa trijstūris",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Lineāra nevienādība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lineārs vienādojums",
+    "concept_B": "Lineāru vienādojumu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Analītiskā ģeometrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Algebra",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Polārā koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Inversās trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Kvadrāts (algebra)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Naturālais logaritms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Racionāls skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas grafiks",
+    "concept_B": "Kvadrātvienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Skalārais reizinājums",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Trigonometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Bāze (lineārā algebra)",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sektors",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līklīnijas kustība",
+    "concept_B": "Līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Polinoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kompleksi saistītais skaitlis",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskā riņķa līnija",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Asociativitāte",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kāpināšana",
+    "concept_B": "Asociativitāte",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Skalārais reizinājums",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Naturāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Bāze (lineārā algebra)",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārs vienādojums",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Lineāra funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Periodiska funkcija",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas grafiks",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātfunkcija",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tukša kopa",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atņemšana",
+    "concept_B": "Naturāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas grafiks",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Polinoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Negatīvs skaitlis",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātfunkcija",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Intervāls (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Negatīvs skaitlis",
+    "concept_B": "Naturāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts (algebra)",
+    "concept_B": "Pāra un nepāra skaitļi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kompleksi saistītais skaitlis",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tukša kopa",
+    "concept_B": "Intervāls (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinusu teorēma",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Asociativitāte",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Sekante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas grafiks",
+    "concept_B": "Lineāra funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diferenciālvienādojums",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rēķini",
+    "concept_B": "Sekante",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas grafiks",
+    "concept_B": "Funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elipse",
+    "concept_B": "Konuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "EDGE (nozīmju atdalīšana)",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Periodiska funkcija",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskā riņķa līnija",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kāpināšana",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas grafiks",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturāls skaitlis",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Lineāra funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektoru lauks",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Aritmētika",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kāpināšana",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matricu reizināšana",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Grāds (leņķis)",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matemātiskā indukcija",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Logaritms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "E (matemātiska konstante)",
+    "concept_B": "Logaritms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātsakne",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātvienādojums",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Atņemšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Periodiska funkcija",
+    "concept_B": "Funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Punkts (ģeometrija)",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra nevienādība",
+    "concept_B": "Rēķini",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Robeža (matemātika)",
+    "concept_B": "Bezgalība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matemātisks pierādījums",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinomu dalīšana",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "E (matemātiska konstante)",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Zinātniskais pieraksts",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Robeža (matemātika)",
+    "concept_B": "Rēķini",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pāra un nepāra skaitļi",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra nevienādība",
+    "concept_B": "Lineāra funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konusa šķēlums",
+    "concept_B": "Līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra nevienādība",
+    "concept_B": "Funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matemātiskā analīze",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas grafiks",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elipse",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Logaritms",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sektors",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Imaginārs skaitlis",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Dekarta koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinusu teorēma",
+    "concept_B": "Trigonometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atņemšana",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Saskaitīšana",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Sfēriskā kosinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diferenciālvienādojums",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polārā koordinātu sistēma",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Funkcijas grafiks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Dalīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinusu teorēma",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matemātisks pierādījums",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Pirmskaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra nevienādība",
+    "concept_B": "Lineārs vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polārā koordinātu sistēma",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Polinoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra nevienādība",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona binoms",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komutativitāte",
+    "concept_B": "Asociativitāte",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinoms",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinomu dalīšana",
+    "concept_B": "Asimptota",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atņemšana",
+    "concept_B": "Komutativitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Negatīvs skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līnija",
+    "concept_B": "Taisne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sakne (matemātika)",
+    "concept_B": "Racionāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sektors",
+    "concept_B": "Līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Imaginārs skaitlis",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elipse",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Simetrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "E (matemātiska konstante)",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Laukums",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atņemšana",
+    "concept_B": "Negatīvs skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas robeža",
+    "concept_B": "Rēķini",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskā riņķa līnija",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matemātiskā formula",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts (algebra)",
+    "concept_B": "Algebra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Ņūtona binoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Minors (lineārā algebra)",
+    "concept_B": "Matrica",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturāls skaitlis",
+    "concept_B": "Logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rinda (matemātika)",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturāls skaitlis",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matricu reizināšana",
+    "concept_B": "Vektoru lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Grāds (leņķis)",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Determinants",
+    "concept_B": "Matrica",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Binomiālkoeficients",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Zinātniskais pieraksts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kopa",
+    "concept_B": "Asociativitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturālais logaritms",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atņemšana",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līnija",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturālais logaritms",
+    "concept_B": "Logaritms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometrija",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atvasinājums",
+    "concept_B": "Lineāra funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Sfēriskā kosinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atņemšana",
+    "concept_B": "Zinātniskais pieraksts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskā riņķa līnija",
+    "concept_B": "Līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra nevienādība",
+    "concept_B": "Algebra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līklīnijas kustība",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisne",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Simetrija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Atņemšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Asimptota",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturāls skaitlis",
+    "concept_B": "Kopa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Binomiālkoeficients",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāru vienādojumu sistēma",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Naturāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matricu reizināšana",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturālais logaritms",
+    "concept_B": "Funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts (algebra)",
+    "concept_B": "Imaginārs skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinusu teorēma",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tukša kopa",
+    "concept_B": "Naturāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Grafs (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātvienādojums",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Rēķini",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "E (matemātiska konstante)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektoru lauks",
+    "concept_B": "Determinants",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Summa",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinomu dalīšana",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona binoms",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polārā koordinātu sistēma",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinusu teorēma",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātvienādojums",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Summa",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēriskā kosinusu teorēma",
+    "concept_B": "Trigonometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Sfēriskā kosinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Kopa",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Summa",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturāls skaitlis",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sakne (matemātika)",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Naturāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātfunkcija",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāru vienādojumu sistēma",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Intervāls (matemātika)",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Asimptota",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tukša kopa",
+    "concept_B": "Funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Kvadrātvienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinomu dalīšana",
+    "concept_B": "Pirmskaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturālais logaritms",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Saskaitīšana",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Vektoru lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Logaritms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sakne (matemātika)",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Kopa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atvasinājums",
+    "concept_B": "Vektoru lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas grafiks",
+    "concept_B": "Polinomu dalīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tukša kopa",
+    "concept_B": "Kopa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atvasinājums",
+    "concept_B": "Sekante",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāru vienādojumu sistēma",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinoms",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sakne (matemātika)",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinusu teorēma",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskā riņķa līnija",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Lineārs vienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātvienādojums",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Polinoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Negatīvs skaitlis",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atņemšana",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Racionāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elipse",
+    "concept_B": "Līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātfunkcija",
+    "concept_B": "Funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līnija",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konusa šķēlums",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Imaginārs skaitlis",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līklīnijas kustība",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometrija",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātvienādojums",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kāpināšana",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sakne (matemātika)",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Funkcijas grafiks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Kopa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Orbītas lielā pusass",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra nevienādība",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinomu dalīšana",
+    "concept_B": "Kvadrātvienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Lineāra funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Grāds (leņķis)",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sekante",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Absolūtā vērtība",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matricu reizināšana",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Dalīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas grafiks",
+    "concept_B": "Lineārs vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāru vienādojumu sistēma",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "EDGE (nozīmju atdalīšana)",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Binomiālkoeficients",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kopa",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Komutativitāte",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātsakne",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Matemātiskā indukcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Intervāls (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Vektoru lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturālais logaritms",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Naturāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Negatīvs skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Zinātniskais pieraksts",
+    "concept_B": "Logaritms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Zinātniskais pieraksts",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matemātisks pierādījums",
+    "concept_B": "Pāra un nepāra skaitļi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sakne (matemātika)",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Naturāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Algebra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektoriālais reizinājums",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinomu dalīšana",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienības matrica",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Intervāls (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konusa šķēlums",
+    "concept_B": "Konuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sakne (matemātika)",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinomu dalīšana",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Sinuss",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "E (matemātiska konstante)",
+    "concept_B": "Kopa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Logaritms",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Saskaitīšana",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Asimptota",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Komutativitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinomu dalīšana",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātsakne",
+    "concept_B": "Sakne (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sekante",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Pāra un nepāra skaitļi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātsakne",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Asimptota",
+    "concept_B": "Sekante",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Atņemšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "EDGE (nozīmju atdalīšana)",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Lineārs vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra nevienādība",
+    "concept_B": "Nevienādība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matricu reizināšana",
+    "concept_B": "Minors (lineārā algebra)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kopa",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Orbītas lielā pusass",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Zinātniskais pieraksts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Sektors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Kvadrātvienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārs vienādojums",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas grafiks",
+    "concept_B": "Sinuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskās funkcijas",
+    "concept_B": "Trigonometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Bāze (lineārā algebra)",
+    "concept_B": "Algebra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinusu teorēma",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra funkcija",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konusa šķēlums",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinoms",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Skalārais reizinājums",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sakne (matemātika)",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Binārā skaitīšanas sistēma",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinoms",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hiperbola",
+    "concept_B": "Orbītas lielā pusass",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Maksimums un minimums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienības matrica",
+    "concept_B": "Minors (lineārā algebra)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Asimptota",
+    "concept_B": "Līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturāls skaitlis",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturāls skaitlis",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Lineārs vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Laukums",
+    "concept_B": "Sektors",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra funkcija",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Binomiālkoeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Logaritms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Ģeometriskā progresija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturālais logaritms",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturālais logaritms",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēriskā kosinusu teorēma",
+    "concept_B": "Trigonometriskās funkcijas",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturāls skaitlis",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra funkcija",
+    "concept_B": "Funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēriskā kosinusu teorēma",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Trijstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rēķini",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturālais logaritms",
+    "concept_B": "E (matemātiska konstante)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rinda (matemātika)",
+    "concept_B": "Rēķini",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturālais logaritms",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Lineāra funkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Binomiālkoeficients",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konusa šķēlums",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Robeža (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komutativitāte",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektoriālais reizinājums",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Vektors",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātvienādojums",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Komutativitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līklīnijas kustība",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātvienādojums",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matemātika",
+    "concept_B": "Spēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kāpināšana",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Skaitlis",
+    "concept_B": "Pāra un nepāra skaitļi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Negatīvs skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona binoms",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Koordinātu sistēma",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātsakne",
+    "concept_B": "Algebra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Sinuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "E (matemātiska konstante)",
+    "concept_B": "Zinātniskais pieraksts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atņemšana",
+    "concept_B": "Asociativitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sekante",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Minors (lineārā algebra)",
+    "concept_B": "Determinants",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sakne (matemātika)",
+    "concept_B": "Kvadrātvienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Intervāls (matemātika)",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "EDGE (nozīmju atdalīšana)",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tukša kopa",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona binoms",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kopa",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Sinuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kopa",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona binoms",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komutativitāte",
+    "concept_B": "Kopa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Kvadrātvienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinomu dalīšana",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sakne (matemātika)",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rēķini",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Skalārais reizinājums",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Trigonometriskā riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona binoms",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektoru lauks",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Hiperbola",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Logaritms",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dalīšana",
+    "concept_B": "Zinātniskais pieraksts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts (algebra)",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matemātiskā formula",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sakne (matemātika)",
+    "concept_B": "Logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sekante",
+    "concept_B": "Līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Negatīvs skaitlis",
+    "concept_B": "Kvadrātvienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāru vienādojumu sistēma",
+    "concept_B": "Lineārs vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komutativitāte",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Vektoriālais reizinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Intervāls (matemātika)",
+    "concept_B": "Kopa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atņemšana",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrāts (algebra)",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātvienādojums",
+    "concept_B": "Lineārs vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polārā koordinātu sistēma",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Diferenciālvienādojums",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēriskā kosinusu teorēma",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matricu reizināšana",
+    "concept_B": "Matrica",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinusu teorēma",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atņemšana",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Leņķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sakne (matemātika)",
+    "concept_B": "Funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atņemšana",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinoms",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matrica",
+    "concept_B": "Lineāra funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra nevienādība",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Daudzstūris",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konusa šķēlums",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Saskaitīšana",
+    "concept_B": "Asociativitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Negatīvs skaitlis",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matricu reizināšana",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "E (matemātiska konstante)",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atņemšana",
+    "concept_B": "Polinoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienības matrica",
+    "concept_B": "Matrica",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Intervāls (matemātika)",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Kopa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātvienādojums",
+    "concept_B": "Kvadrātfunkcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra nevienādība",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kāpināšana",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komplekss skaitlis",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Garums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Dalīšana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra nevienādība",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trijstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tukša kopa",
+    "concept_B": "Kvadrātfunkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Robeža (matemātika)",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Zinātniskais pieraksts",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Intervāls (matemātika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturālais logaritms",
+    "concept_B": "Zinātniskais pieraksts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Binomiālkoeficients",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Hiperbola",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Perpendikuls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Logaritms",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Līklīnijas kustība",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sektors",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārs vienādojums",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Intervāls (matemātika)",
+    "concept_B": "Sekante",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Lineārs vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinomu dalīšana",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nogrieznis",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēriskā kosinusu teorēma",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sektors",
+    "concept_B": "Grāds (leņķis)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Laukums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pāra un nepāra skaitļi",
+    "concept_B": "Pirmskaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektoru lauks",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Logaritms",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Kvadrātsakne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona binoms",
+    "concept_B": "Vesels skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Monoms",
+    "concept_B": "Polinoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Leņķis",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atņemšana",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Saskaitīšana",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Absolūtā vērtība",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātfunkcija",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Saskaitīšana",
+    "concept_B": "Logaritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vesels skaitlis",
+    "concept_B": "Atņemšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sfēriskā kosinusu teorēma",
+    "concept_B": "Sinusu teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Konuss",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Binomiālkoeficients",
+    "concept_B": "Ņūtona binoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Reāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Negatīvs skaitlis",
+    "concept_B": "Komplekss skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Racionāls skaitlis",
+    "concept_B": "Negatīvs skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinoms",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Rādiuss",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "EDGE (nozīmju atdalīšana)",
+    "concept_B": "Punkts (ģeometrija)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Kopa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Negatīvs skaitlis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas robeža",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Summa",
+    "concept_B": "Aritmētika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Perpendikuls",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārs vienādojums",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Polinoms",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinuss",
+    "concept_B": "Kāpināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Trigonometriskā riņķa līnija",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matemātiskā indukcija",
+    "concept_B": "Matemātisks pierādījums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektoru lauks",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinusu teorēma",
+    "concept_B": "Sinuss",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturāls skaitlis",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāra funkcija",
+    "concept_B": "Rēķini",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Nevienādība",
+    "concept_B": "Algebra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Asociativitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Asociativitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebra",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vienādojums",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas robeža",
+    "concept_B": "Robeža (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Matrica",
+    "concept_B": "Algebras pamatteorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcijas robeža",
+    "concept_B": "Funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāru vienādojumu sistēma",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektoru lauks",
+    "concept_B": "Matrica",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Daudzstūris",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturālais logaritms",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Inversās trigonometriskās funkcijas",
+    "concept_B": "Trigonometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektoriālais reizinājums",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pāra un nepāra skaitļi",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģeometrija",
+    "concept_B": "Laukums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Naturāls skaitlis",
+    "concept_B": "Polinoms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pāra un nepāra skaitļi",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sektors",
+    "concept_B": "Taisne",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Horda (matemātika)",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "E (matemātiska konstante)",
+    "concept_B": "Racionāls skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Binomiālkoeficients",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Riņķa līnija",
+    "concept_B": "Polinoms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kompleksi saistītais skaitlis",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Koordinātu sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Komutativitāte",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reāls skaitlis",
+    "concept_B": "Kvadrātvienādojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektoriālais reizinājums",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dekarta koordinātu sistēma",
+    "concept_B": "Riņķa līnija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Funkcija",
+    "concept_B": "Asociativitāte",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pitagora teorēma",
+    "concept_B": "Sfēriskā kosinusu teorēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnleņķa trijstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineāru vienādojumu sistēma",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Negatīvs skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātsakne",
+    "concept_B": "Kvadrāts (algebra)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Minors (lineārā algebra)",
+    "concept_B": "Reizināšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sinusu teorēma",
+    "concept_B": "Nogrieznis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Matemātika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kvadrātvienādojums",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Taisnstūris",
+    "concept_B": "Ģeometrija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārs vienādojums",
+    "concept_B": "Vienādojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Algebras pamatteorēma",
+    "concept_B": "Saskaitīšana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Analītiskā ģeometrija",
+    "concept_B": "Pitagora teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Reizināšana",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pāra un nepāra skaitļi",
+    "concept_B": "Determinants",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Tukša kopa",
+    "concept_B": "Skaitlis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pāra un nepāra skaitļi",
+    "concept_B": "Robeža (matemātika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  }
+]

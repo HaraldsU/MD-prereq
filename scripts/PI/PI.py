@@ -10,6 +10,7 @@ import re
 import random
 import threading
 import requests
+from urllib.parse import quote
 from concurrent.futures import ThreadPoolExecutor
 
 def make_openai_client():
@@ -69,7 +70,7 @@ def call_openrouter_api(client, model:str, template: str) -> str:
     raise ValueError(f'API returned None after {attempts} attempts')
 # }}}
 
-def generate_template_en(concept_a: str, concept_b: str, domain: str, examples: str) -> str:
+def generate_template_en(concept_a: str, concept_b: str, domain: str, examples: str, wiki_cache) -> str:
 # {{{
     instructions = f'<instructions>\nBinary classify whether the input concept A is a prerequisite for understanding the input concept B.\n</instructions>\n'
     context = f'<context>\nBoth of the concepts are related to the domain of "{domain}".\n</context>\n'
@@ -82,8 +83,8 @@ def generate_template_en(concept_a: str, concept_b: str, domain: str, examples: 
     definition = ''
 
     if WIKI_RAG == 'WIKI-RAG-YES':
-        concept_a_summary = fetch_wikipedia_article(concept_a.replace(' ', '_'))
-        concept_b_summary = fetch_wikipedia_article(concept_b.replace(' ', '_'))
+        concept_a_summary = fetch_wikipedia_article(concept_a, wiki_cache)
+        concept_b_summary = fetch_wikipedia_article(concept_b, wiki_cache)
 
         definition = f'<definition>\nConcept A definition: {concept_a_summary}\n</definition>\n<definition>\nConcept B definition: {concept_b_summary}\n</definition>\n'
 
@@ -102,7 +103,7 @@ def generate_template_en(concept_a: str, concept_b: str, domain: str, examples: 
     return template
 # }}}
 
-def generate_template_lv(concept_a: str, concept_b: str, domain: str, examples: str = ''):
+def generate_template_lv(concept_a: str, concept_b: str, domain: str, wiki_cache, examples: str = ''):
 # {{{
     instructions = f'<instrukcijas>\nBināri klasificē vai ievades koncepts A ir priekšnosacījums ievades koncepta B izpratnei.\n</instrukcijas>\n'
     definition = ''
@@ -116,11 +117,21 @@ def generate_template_lv(concept_a: str, concept_b: str, domain: str, examples: 
     if DOMAIN_CONTEXT == 'DOMAIN-CONTEXT-YES':
         context = f'<konteksts>\nVisiem noteiktajiem konceptiem jābūt saistītiem ar zināšanu sfēru "{domain}".\n</konteksts>\n'
     if WIKI_RAG == 'WIKI-RAG-YES':
-        concept_a_summary = fetch_wikipedia_article(concept_a.replace(' ', '_'))
-        concept_b_summary = fetch_wikipedia_article(concept_b.replace(' ', '_'))
+        # print(wiki_cache)
+
+        concept_a_summary = fetch_wikipedia_article(concept_a.replace(' ', '_'), wiki_cache)
+        concept_b_summary = fetch_wikipedia_article(concept_b.replace(' ', '_'), wiki_cache)
 
         if concept_a_summary == None or concept_b_summary == None:
-            return None
+            print('ca = ' + concept_a)
+            print('cb = ' + concept_b)
+            print(f'ca key = {concept_a.replace(" ", "_")}')
+            print(f'cb key = {concept_b.replace(" ", "_")}')
+            print(f'ca in cache: {concept_a.replace(" ", "_") in wiki_cache}')
+            print(f'cb in cache: {concept_b.replace(" ", "_") in wiki_cache}')
+            print(f'ca value: {repr(wiki_cache.get(concept_a.replace(" ", "_")))}')
+            print(f'cb value: {repr(wiki_cache.get(concept_b.replace(" ", "_")))}')
+            raise ValueError('WIKIPEDIA ERROR !!!')
 
         definition = f'<definīcija>\nKoncepta A definīcija: {concept_a_summary}\n</definīcija>\n<definīcija>\nKoncepta B definīcija: {concept_b_summary}\n</definīcija>\n'
     if PR_DEFINITION == 'PR-DEFINITION-YES':
@@ -170,7 +181,7 @@ def get_few_shot_examples(shot_amount, ds_path):
     return used_sections, examples
 # }}}
 
-def load_and_predict(client, model, ds_path, path_prefix, domain, fs_sections = [], examples = ''):
+def load_and_predict(client, model, ds_path, path_prefix, domain, wiki_cache, fs_sections = [], examples = ''):
 # {{{
     print('--- Getting predictions ---')
 
@@ -189,12 +200,12 @@ def load_and_predict(client, model, ds_path, path_prefix, domain, fs_sections = 
         retries = 5
 
         if LANGUAGE == 'LATVIAN':
-            template = generate_template_lv(concept_a, concept_b, domain, examples) 
+            template = generate_template_lv(concept_a, concept_b, domain, wiki_cache, examples) 
 
             if template == None:
-                continue
+               raise ValueError('WRONG TEMPLATE !!!')
         else:
-            template = generate_template_en(concept_a, concept_b, domain, examples) 
+            template = generate_template_en(concept_a, concept_b, domain, examples, wiki_cache) 
 
         if i % 50 == 0:
             print(f'{model}: {i}/{count}')
@@ -242,37 +253,202 @@ def load_and_predict(client, model, ds_path, path_prefix, domain, fs_sections = 
     print('Predicting finished, saving to file:\noutputs/' + path_prefix + 'predictions.json')
 # }}}
 
+def fetch_all_wikipedia_articles(ds_path: str) -> dict:
+# {{{
+    """Load dataset, collect unique concepts, and batch-fetch all Wikipedia extracts."""
+    with open(ds_path, 'r') as f:
+        data = json.load(f)
+
+    titles = set()
+
+    for item in data:
+        titles.add(item['concept_A'].replace(' ', '_'))
+        titles.add(item['concept_B'].replace(' ', '_'))
+
+    print(f'{ds_path}: {len(data)} pairs, {len(titles)} unique concepts')
+
+    lang_prefix = 'lv' if LANGUAGE == 'LATVIAN' else 'en'
+    base_url = f'https://{lang_prefix}.wikipedia.org/w/api.php'
+    extracts = {}
+    title_list = list(titles)
+
+    for i in range(0, len(title_list), 50):
+        batch = title_list[i:i+50]
+        params = {
+            'action': 'query',
+            'titles': '|'.join(batch),
+            'prop': 'extracts',
+            'exintro': True,
+            'explaintext': True,
+            'redirects': 1,
+            'format': 'json'
+        }
+        norm_map = {}
+        redirect_map = {}
+
+        while True:
+            resp = requests.get(base_url, params=params,
+                               headers={'User-Agent': 'MyApp/1.0'}, timeout=200)
+            if resp.status_code != 200 or not resp.text:
+                print(f'  Retrying (status={resp.status_code})...')
+                time.sleep(5)
+                continue
+            try:
+                result = resp.json()
+            except requests.exceptions.JSONDecodeError:
+                print(f'  Empty response, retrying...')
+                time.sleep(5)
+                continue
+
+            data_resp = result.get('query', {})
+
+            for n in data_resp.get('normalized', []):
+                norm_map[n['to']] = n['from']
+            for r in data_resp.get('redirects', []):
+                redirect_map[r['to']] = r['from']
+
+            for pid, page in data_resp.get('pages', {}).items():
+                if int(pid) < 0:
+                    continue
+
+                extract = page.get('extract')
+
+                if extract is None:
+                    continue
+
+                api_title = page['title']
+                pre_redirect = redirect_map.get(api_title, api_title)
+                pre_norm = norm_map.get(pre_redirect, pre_redirect)
+                original_key = pre_norm.replace(' ', '_')
+                extracts[original_key] = extract
+                api_key = api_title.replace(' ', '_')
+
+                if api_key in titles:
+                    extracts[api_key] = extract
+
+            if 'continue' in result:
+                params.update(result['continue'])
+            else:
+                break
+
+        print(f'  Fetched {min(i + 50, len(title_list))}/{len(title_list)}')
+        time.sleep(2)
+
+    none_count = sum(1 for v in extracts.values() if v is None)
+    missing = [t for t in title_list if t not in extracts]
+
+    print(f'  Missing: {missing}')
+    print(f'  None extracts: {none_count}')
+    print(f'  Cache size: {len(extracts)}')
+
+    return extracts
+# }}}
+
+def fetch_wikipedia_article(title: str, cache: dict):
+# {{{
+    key = title.replace(' ', '_')
+    return cache.get(key)
+# }}}
+
+def get_existing_titles(titles, language = 'lv'):
+# {{{
+    base_url = f'https://{language}.wikipedia.org/w/api.php'
+    existing = set()
+    missing = set()
+    title_list = list(titles)
+
+    for i in range(0, len(title_list), 50):
+        batch = title_list[i:i+50]
+        resp = requests.get(base_url, params={
+            'action': 'query',
+            'titles': '|'.join(batch),
+            'redirects': 1,
+            'format': 'json'
+        }, headers={'User-Agent': 'PrereqCheck/1.0 (your@email.com)'}, timeout=10)
+
+        data = resp.json().get('query', {})
+
+        for r in data.get('redirects', []):
+            existing.add(r['from'].replace(' ', '_'))
+
+        for pid, page in data.get('pages', {}).items():
+            title = page['title'].replace(' ', '_')
+
+            if int(pid) < 0:
+                missing.add(title)
+            else:
+                existing.add(title)
+
+        print(f'  Checked {min(i+50, len(title_list))}/{len(title_list)}')
+        time.sleep(1)
+
+    return existing, missing
+# }}}
+
 def test_ds_wiki(ds_path):
 # {{{
     with open(ds_path, 'r') as f:
-        ds_obj = json.load(f)
+        data = json.load(f)
 
-    count = len(ds_obj)
-    count_fails = 0
+    titles = set()
 
-    for i, item in enumerate(ds_obj):
-        if i % 50 == 0:
-            print(f'{i}/{count}')
-        concept_a = item['concept_A'].replace('_', ' ')
-        concept_b = item['concept_B'].replace('_', ' ')
-        concept_a_wiki = fetch_wikipedia_article(concept_a.replace(' ', '_'))
-        concept_b_wiki = fetch_wikipedia_article(concept_b.replace(' ', '_'))
+    for item in data:
+        titles.add(item['concept_A'])
+        titles.add(item['concept_B'])
 
-        if concept_a_wiki == None:
-            print(concept_a_wiki)
-            count_fails += 1
-        elif concept_b_wiki == None:
-            print(concept_b_wiki)
-            count_fails += 1
+    print(f'{ds_path}: {len(data)} pairs, {len(titles)} unique concepts')
 
-    print(f'{len(ds_obj)}/{len(ds_obj)}')
-    print(f'{ds_path} - Fails = {count_fails}')
+    existing, missing = get_existing_titles(titles)
+
+    print(f'  Existing: {len(existing)}')
+    print(f'  Missing:  {len(missing)}')
+
+    if missing:
+        for t in sorted(missing):
+            print(f'    FAIL: {t}')
+    print()
+# }}}
+
+def filter_ds_wiki(ds_path, output_path = None):
+# {{{
+    if output_path is None:
+        output_path = ds_path.replace('.json', '_filtered.json')
+
+    with open(ds_path, 'r') as f:
+        data = json.load(f)
+
+    titles = set()
+
+    for item in data:
+        titles.add(item['concept_A'])
+        titles.add(item['concept_B'])
+
+    print(f'{ds_path}: {len(data)} pairs, {len(titles)} unique concepts')
+    existing, missing = get_existing_titles(titles)
+    print(f'  Existing: {len(existing)}')
+    print(f'  Missing:  {len(missing)}')
+
+    filtered = [
+        item for item in data
+        if item['concept_A'] in existing and item['concept_B'] in existing
+    ]
+
+    if os.path.isdir(output_path):
+        stem = Path(ds_path).stem
+        output_path = os.path.join(output_path, f'{stem}_filtered.json')
+
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(filtered, f, indent=2, ensure_ascii=False)
+
+    print(f'  Kept {len(filtered)}/{len(data)} pairs -> {output_path}')
 # }}}
 
 def write_json(predictions, path_prefix, type = ''):
 # {{{
     with open('outputs/' + path_prefix + type + '.json', 'w') as f:
         json.dump(predictions, f, ensure_ascii = False, indent = 2)
+    # with open('outputs/' + (path_prefix.stem) + '_evaluation.json', 'w') as f:
+        # json.dump(predictions, f, ensure_ascii = False, indent = 2)
 # }}}
 
 def evaluate(path_prefix = ''):
@@ -280,6 +456,7 @@ def evaluate(path_prefix = ''):
     print('--- Evaluations ---')
     predictions_filename = path_prefix + 'predictions.json'
     predictions_json_path = (OUTPUTS_PATH / predictions_filename).expanduser()
+    # predictions_json_path = (OUTPUTS_PATH / path_prefix).expanduser()
     
     evaluation = []
     tp = 0
@@ -324,6 +501,7 @@ def evaluate(path_prefix = ''):
     })
 
     write_json(evaluation, path_prefix, 'evaluation')
+    # write_json(evaluation, predictions_json_path, 'evaluation')
     print('Evaluation finished, saving to file:\noutputs/' + path_prefix + 'evaluation.json')
 # }}}
 
@@ -339,41 +517,14 @@ def calc_exact_metrics(tp: int, tn: int, fp: int, fn: int):
     return round(prec, 3), round(rec, 3), round(acc, 3), round(f1, 3), round(mcc, 3)
 # }}}
 
-def fetch_wikipedia_article(title: str, retries = 5):
-# {{{
-    """Fetch a Wikipedia article summary via the free API."""
-    url = ''
-
-    if LANGUAGE == 'LATVIAN':
-        url = 'https://lv.wikipedia.org/api/rest_v1/page/summary/' + title
-    else:
-        url = 'https://en.wikipedia.org/api/rest_v1/page/summary/' + title
-
-    for attempt in range(retries):
-        try:
-            resp = requests.get(url, headers={'User-Agent': 'MyApp/1.0'}, timeout=10)
-
-            if resp.status_code == 200:
-                return resp.json().get('extract')
-            if resp.status_code in (429, 500, 502, 503, 504):
-                time.sleep(2 ** attempt)
-                continue
-
-            return None
-        except requests.RequestException:
-            time.sleep(2 ** attempt)
-
-    return None
-# }}}
-
 def print_parameters():
 # {{{
     print()
     # print('MODEL = ' + MODEL)
     print('MAX_TOKENS = ' + MAX_TOKENS)
     print('PROMPT_METHOD = ' + PROMPT_METHOD)
-    print('SHOT_AMOUNT = ' + SHOT_AMOUNT)
-    print('SHOT_TYPE = ' + SHOT_TYPE)
+    # print('SHOT_AMOUNT = ' + SHOT_AMOUNT)
+    # print('SHOT_TYPE = ' + SHOT_TYPE)
     # print('TIMESTAMP = ' + TIMESTAMP)
     print('DOMAIN_CONTEXT = ' + DOMAIN_CONTEXT)
     print('SYSTEM PROMPT = ' + SYSTEM_PROMPT)
@@ -381,7 +532,7 @@ def print_parameters():
     print()
 # }}}
 
-def run_model(client, model, ds_path, domain, fs_type = '', fs_amount = ''):
+def run_model(client, model, ds_path, domain, wiki_cache, fs_type = '', fs_amount = ''):
 # {{{
     timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
     path_prefix = model.replace('/', '-') + '_' + os.path.splitext(os.path.basename(ds_path))[0] + '_' + MAX_TOKENS + '_' + PROMPT_METHOD + '_' + fs_amount + '_' + fs_type + '_' + DOMAIN_CONTEXT + '_' + PR_DEFINITION + '_' + WIKI_RAG + '_' + SYSTEM_PROMPT + '_' + timestamp + '_'
@@ -389,10 +540,11 @@ def run_model(client, model, ds_path, domain, fs_type = '', fs_amount = ''):
     if PROMPT_METHOD == 'FEW-SHOT':
         fs_sections, examples = get_few_shot_examples(fs_amount, ds_path)
         print('fs_sections = ', fs_sections)
-        load_and_predict(client, model, ds_path, path_prefix, domain, fs_sections, examples)
+        load_and_predict(client, model, ds_path, path_prefix, domain, wiki_cache, fs_sections, examples)
         # print(generate_template_lv('latvija', 'pasaule', 'visums', examples))
     else:
-        load_and_predict(client, model, ds_path, path_prefix, domain)
+        load_and_predict(client, model, ds_path, path_prefix, domain, wiki_cache)
+        # print(generate_template_lv('latvija', 'pasaule', 'visums', wiki_cache))
 
     evaluate(path_prefix)
 
@@ -405,7 +557,8 @@ def run_model(client, model, ds_path, domain, fs_type = '', fs_amount = ''):
 OUTPUTS_PATH = Path('~/Downloads/prereq/scripts/PI/outputs/').expanduser()
 
 # --- Datasets ---
-BASE = Path('~/Downloads/prereq/datasets/AL-CPL').expanduser()
+# BASE = Path('~/Downloads/prereq/datasets/AL-CPL').expanduser()
+BASE = Path('~/Downloads/prereq/datasets/AL-CPL-LV').expanduser()
 # DS_PATHS = [BASE / f for f in [
     # 'data_mining_full.json',
     # 'geometry_full.json',
@@ -413,26 +566,26 @@ BASE = Path('~/Downloads/prereq/datasets/AL-CPL').expanduser()
     # 'precalculus_full.json',
 # ]]
 
-# DS_PATH = BASE / 'data_mining_full_lv.json'
+# DS_PATH = BASE / 'data_mining_full.json'
 DS_PATHS = [BASE / f for f in [
-    'data_mining_full_lv.json',
-    'geometry_full_lv.json',
-    'physics_full_lv.json',
-    'precalculus_full_lv.json',
+    # 'data_mining_full_lv_filtered.json',
+    # 'geometry_full_lv_filtered.json',
+    # 'physics_full_lv_filtered.json',
+    'precalculus_full_lv_filtered.json',
 ]]
 
 DOMAINS = [
-        'datizrace', 
-        'ģeometrija', 
-        'fizika', 
+        # 'datizrace', 
+        # 'ģeometrija', 
+        # 'fizika', 
         'algebra un trigonometrija',
 ]
 
 # --- Models ---
 # MODEL = ''
 # MODELS = ['google/gemma-3-27b-it', 'xiaomi/mimo-v2-flash', 'deepseek/deepseek-v3.2', 'x-ai/grok-4.1-fast', 'moonshotai/kimi-k2.5', 'z-ai/glm-4.7', 'google/gemini-3-flash-preview']
-# MODELS = ['google/gemma-3-27b-it']
 # MODELS = ['x-ai/grok-4.1-fast', 'google/gemini-3-flash-preview']
+# MODELS = ['google/gemma-3-27b-it']
 MODELS = ['google/gemini-3-flash-preview']
 # MODELS = ['x-ai/grok-4.1-fast', 'z-ai/glm-4.7', 'google/gemini-3-flash-preview']
 
@@ -449,6 +602,7 @@ MODELS = ['google/gemini-3-flash-preview']
 MAX_TOKENS = '16'
 SYSTEM_PROMPT = 'SYSTEM-PROMPT-YES'
 LANGUAGE = 'LATVIAN'
+# LANGUAGE = 'ENGLISH'
 
 # --- Methods ---
 # PROMPT_METHOD = 'ZERO-SHOT'
@@ -466,14 +620,14 @@ SHOT_AMOUNTS = ['FIVE-SHOT', 'TEN-SHOT', 'TWENTY-SHOT']
 # SHOT_TYPE = ''
 SHOT_TYPES = ['RANDOM']
 
-DOMAIN_CONTEXT = 'DOMAIN-CONTEXT-NO'
-# DOMAIN_CONTEXT = 'DOMAIN-CONTEXT-YES'
+# DOMAIN_CONTEXT = 'DOMAIN-CONTEXT-NO'
+DOMAIN_CONTEXT = 'DOMAIN-CONTEXT-YES'
 # DOMAIN_CONTEXT = 'DOMAIN-SUBCONTEXT-YES'
 # DOMAIN_CONTEXT = ''
 # DOMAIN_CONTEXTS = ['DOMAIN-CONTEXT-YES', 'DOMAIN-SUBCONTEXT-YES']
 
-PR_DEFINITION = 'PR-DEFINITION-YES'
-# PR_DEFINITION = 'PR-DEFINITION-NO'
+# PR_DEFINITION = 'PR-DEFINITION-YES'
+PR_DEFINITION = 'PR-DEFINITION-NO'
 WIKI_RAG = 'WIKI-RAG-YES'
 # WIKI_RAG = 'WIKI-RAG-NO'
 
@@ -501,12 +655,18 @@ threads = []
 
 # FEW-SHOT
 # {{{
-for fs_type in SHOT_TYPES:
-    for fs_amount in SHOT_AMOUNTS:
-        for ds_path, domain in zip(DS_PATHS, DOMAINS):
-            for model in MODELS:
+wiki_caches = {}
+
+for ds_path in DS_PATHS:
+    wiki_caches[ds_path] = fetch_all_wikipedia_articles(str(ds_path))
+
+for model in MODELS:
+    for ds_path, domain in zip(DS_PATHS, DOMAINS):
+        for fs_type in SHOT_TYPES:
+            for fs_amount in SHOT_AMOUNTS:
                 client = make_openai_client()
-                t = threading.Thread(target = run_model, args = (client, model, ds_path, domain, fs_type, fs_amount))
+                wiki_cache = wiki_caches[ds_path]
+                t = threading.Thread(target = run_model, args = (client, model, ds_path, domain, wiki_cache, fs_type, fs_amount))
                 threads.append(t)
                 t.start()
 
@@ -514,9 +674,28 @@ for t in threads:
     t.join()
 # }}}
 
+# Other
+# {{{
+# paths = [
+    # # BASE / 'data_mining_full.json',
+    # # BASE / 'geometry_full.json',
+    # # BASE / 'physics_full.json',
+    # # BASE / 'precalculus_full.json'
+    # BASE / 'data_mining_full_lv.json',
+    # BASE / 'geometry_full_lv.json',
+    # BASE / 'physics_full_lv.json',
+    # BASE / 'precalculus_full_lv.json',
+# ]
+# 
+# 
+# for path in paths:
+    # # test_ds_wiki(path)
+    # filter_ds_wiki(path, '/home/dust/Downloads/prereq/datasets/AL-CPL-LV/')
 
 # print(generate_template_lv('latvija', 'pasaule', 'visums'))
-# evaluate('google-gemini-3-flash-preview_physics_full_5_FEW-SHOT_TWENTY-SHOT_RANDOM_DOMAIN-CONTEXT-YES_PR-DEFINITION-NO_WIKI-RAG-YES_SYSTEM-PROMPT-YES_2026-04-29_18-05-31_')
+
+# evaluate('google-gemini-3-flash-preview_geometry_full_lv_filtered_16_ZERO-SHOT___DOMAIN-CONTEXT-YES_PR-DEFINITION-NO_WIKI-RAG-YES_SYSTEM-PROMPT-YES_2026-05-10_03-19-48_')
+# }}}
 
 elapsed = time.time() - start
 print(f"\nTotal elapsed time: {elapsed:.2f}s")

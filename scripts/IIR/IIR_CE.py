@@ -141,10 +141,11 @@ def generate_template_lv(prompt_type: str, section_name: str, section_text: str,
 
     if PROMPT_METHOD == 'ZERO-SHOT':
     # {{{
+
         definition = ''
 
         if DOMAIN_CONTEXT == 'DOMAIN-SUBCONTEXT-YES':
-            context = f'<konteksts>\nVisām izvilktajām galvenajām frāzēm jābūt saistītām ar zināšanu sfēras "{DOMAIN}" apakašnozari "{section_name}".\n</konteksts>\n'
+            context = f'<konteksts>\nVisām izvilktajām galvenajām frāzēm jābūt saistītām ar zināšanu sfēras "{DOMAIN}" apakšnozari "{section_name}".\n</konteksts>\n'
         elif CONCEPT_DEFINITION == 'CONCEPT-DEFINITION-YES':
             definition = f'<definīcija>\nGalvenās frāzes ir vārdi vai vārdu savienojumi, kuri raksturo kādu cilvēkiem lietderı̄gu jēdzienu, kurš taksonomiski pieder kādai zināšanu sfērai.\n</definīcija>\n'
         elif CONCEPT_DEFINITION == 'CONCEPT-DEFINITION-WIKIPEDIA':
@@ -266,17 +267,12 @@ def load_and_predict_ds(client, model, prompt_type, path_prefix, examples: str, 
     print('Predicting finished, saving to file:\noutputs/' + path_prefix + 'predictions.json')
 # }}}
 
-def write_json(predictions, path_prefix, type = ''):
-# {{{
-    with open(str(OUTPUTS_PATH) + '/' + path_prefix + type + '.json', 'w') as f:
-        json.dump(predictions, f, ensure_ascii = False, indent = 2)
-# }}}
-
-def evaluate_ds(path_prefix = ''):
+def evaluate(path_prefix = ''):
 # {{{
     print('--- Evaluations ---')
-    predictions_filename = path_prefix + 'predictions.json'
-    predictions_json_path = (OUTPUTS_PATH / predictions_filename).expanduser()
+    # predictions_filename = path_prefix + 'predictions.json'
+    # predictions_json_path = (OUTPUTS_PATH / predictions_filename).expanduser()
+    predictions_json_path = (OUTPUTS_PATH / path_prefix).expanduser()
     
     evaluation = []
     count = 0
@@ -374,8 +370,17 @@ def evaluate_ds(path_prefix = ''):
     print(f'Average: p={(prec_total / count):.3f} r={(rec_total / count):.3f} F1:{(f1_total / count):.3f}')
     print(f'Average (sem): p_sem={(sem_prec_total / count):.3f} r_sem={(sem_rec_total / count):.3f} F1_sem:{(sem_f1_total / count):.3f}')
 
-    write_json(evaluation, path_prefix, 'evaluation')
+    # write_json(evaluation, path_prefix, 'evaluation')
+    write_json(evaluation, predictions_json_path, 'evaluation')
     print('Evaluation finished, saving to file:\noutputs/' + path_prefix + 'evaluation.json')
+# }}}
+
+def write_json(predictions, path_prefix, type = ''):
+# {{{
+    # with open(str(OUTPUTS_PATH) + '/' + path_prefix + type + '.json', 'w') as f:
+        # json.dump(predictions, f, ensure_ascii = False, indent = 2)
+    with open('outputs/' + (path_prefix.stem) + '_evaluation.json', 'w') as f:
+        json.dump(predictions, f, ensure_ascii = False, indent = 2)
 # }}}
 
 def get_IIR_ground_truth_paths() -> list[str]:
@@ -535,7 +540,7 @@ def fix_rounding_errors(folder_path: Path):
             # print(file.name)
             # print(file_path)
             # print(str(OUTPUTS_PATH) + '/' + file.name)
-            evaluate_ds(file_path, file.name)
+            evaluate(file_path, file.name)
 # }}}
 
 def make_iir_sections_full_file():
@@ -585,7 +590,7 @@ def run_model(client, model, timestamp, prompt_type, fs_type, fs_amount):
     else:
         load_and_predict_ds(client, model, prompt_type, path_prefix, '', [])
 
-    evaluate_ds(path_prefix)
+    evaluate(path_prefix)
 
     # evaluate_ds('google-gemini-3-flash-preview_1024_FEW-SHOT_FIVE-SHOT_RANDOM_TERMS_ENGLISH_DOMAIN-CONTEXT-YES_CONCEPT-DEFINITION-NO_SYSTEM-PROMPT-YES_-CONSENSUS_STEMMED_2026-04-30_23-55-44_')
     # print(generate_template_lv(prompt_type, 'WORLD', 'HELLO', examples))
@@ -602,8 +607,8 @@ DS_JSON_PATH = Path('~/Downloads/prereq/scripts/IIR/iir_sections_full.json').exp
 # DS_JSON_PATH = Path('~/Downloads/prereq/scripts/CE-Books-LV/outputs/bio_vsk_mg.json').expanduser()
 # DS_JSON_PATH = Path('~/Downloads/prereq/scripts/CE-Books-LV/outputs/chem_vsk_mg.json').expanduser()
 
-OUTPUTS_PATH = Path('~/Downloads/prereq/scripts/IIR/outputs/').expanduser()
-# OUTPUTS_PATH = Path('~/Downloads/prereq/scripts/CE-Books-LV/outputs/').expanduser()
+# OUTPUTS_PATH = Path('~/Downloads/prereq/scripts/IIR/outputs/').expanduser()
+OUTPUTS_PATH = Path('~/Downloads/prereq/scripts/CE-Books-LV/outputs/').expanduser()
 
 # IIR_FOLDER_PATH = Path('~/Downloads/prereq/datasets/IIR-dataset/annotation').expanduser()
 IIR_FOLDER_PATH = ''
@@ -634,8 +639,8 @@ SYSTEM_PROMPT = 'SYSTEM-PROMPT-YES'
 CONSENSUS = ''
 NORMALIZATION = 'STEMMED'
 
-LANGUAGE = 'ENGLISH'
-# LANGUAGE = 'LATVIAN'
+# LANGUAGE = 'ENGLISH'
+LANGUAGE = 'LATVIAN'
 
 # DOMAIN = 'Ķīmija 12. klasei'
 # DOMAIN = 'Bioloģija vidusskolai'
@@ -708,13 +713,13 @@ else:
 
 # ONE-SHOT RUN
 # {{{
-for model in MODELS:
-    for prompt_type in PROMPT_TYPES:
-        client = make_openai_client()
-        timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
-        t = threading.Thread(target = run_model, args = (client, model, timestamp, prompt_type, '', ''))
-        threads.append(t)
-        t.start()
+# for model in MODELS:
+    # for prompt_type in PROMPT_TYPES:
+        # client = make_openai_client()
+        # timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+        # t = threading.Thread(target = run_model, args = (client, model, timestamp, prompt_type, '', ''))
+        # threads.append(t)
+        # t.start()
 # }}}
 
 # FEW-SHOT RUN
@@ -734,7 +739,8 @@ for model in MODELS:
 # for t in threads:
     # t.join()
 
-# evaluate_ds('xiaomi-mimo-v2-flash_1024_FEW-SHOT_FIVE-SHOT_FIRST_GALVENĀS-FRĀZES_LATVIAN_DOMAIN-CONTEXT-YES_CONCEPT-DEFINITION-KEY_SYSTEM-PROMPT-YES_-CONSENSUS_STEMMED_2026-04-30_04-38-13_1_')
+# evaluate('/home/dust/Downloads/prereq/scripts/IIR/outputs/baseline/IIR_yake/IIR_YAKE_predictions.json')
+evaluate('/home/dust/Downloads/prereq/scripts/CE-Books-LV/outputs/baseline/bio_yake/BIO_YAKE_predictions.json')
 # print(generate_template_lv('GALVENĀS-FRĀZES', 'AUGI', 'HELLO WORLD!'))
 
 elapsed = time.time() - start

@@ -1,0 +1,824 @@
+Arithmetic mean	Spectral clustering
+Arithmetic mean	Level of measurement
+Conditional probability	Decision tree model
+Data analysis	Single-linkage clustering
+Standard deviation	Hierarchical clustering
+Machine learning	Decision tree learning
+Maximum likelihood	Naive Bayes classifier
+Machine learning	K-means clustering
+Confidence interval	Data mining
+Information retrieval	F1 score
+Likelihood function	Expectation–maximization algorithm
+Cluster analysis	Anomaly detection
+Likelihood function	Maximum likelihood
+Statistical population	F1 score
+Statistical classification	Feedforward neural network
+Joint probability distribution	Artificial neural network
+Artificial neural network	Backpropagation
+Conditional probability	Mixture model
+Probability density function	Boosting (machine learning)
+Standard deviation	Fuzzy clustering
+Decision tree	Pruning (decision trees)
+Machine learning	Random forest
+Expectation–maximization algorithm	Bayesian network
+Statistical population	Sampling (statistics)
+Standard deviation	Cluster analysis
+Maxima and minima	Gradient descent
+Conditional probability distribution	Bayesian network
+Confidence interval	F1 score
+Statistical population	Student's t-test
+Standard deviation	Naive Bayes classifier
+Data analysis	Spectral clustering
+Correlation and dependence	Single-linkage clustering
+Null hypothesis	Data mining
+Conditional probability	Bayesian network
+Standard deviation	K-medoids
+Standard deviation	Biclustering
+Cluster analysis	Single-linkage clustering
+Outlier	Anomaly detection
+Probability density function	Mixture model
+Confidence interval	Student's t-test
+Mode (statistics)	Level of measurement
+Correlation and dependence	Mixture model
+Regression analysis	Least squares
+Likelihood function	Poisson regression
+Cluster analysis	Data mining
+Statistical classification	Naive Bayes classifier
+Joint probability distribution	Feedforward neural network
+Probability density function	Backpropagation
+Information retrieval	Precision and recall
+Ensemble learning	Boosting (machine learning)
+Probability density function	Feedforward neural network
+Arithmetic mean	Single-linkage clustering
+Probability density function	AdaBoost
+Joint probability distribution	Machine learning
+Null hypothesis	F1 score
+Correlation and dependence	Spectral clustering
+Probability density function	Bayesian network
+Standard deviation	Statistical hypothesis testing
+Standard deviation	K-means clustering
+Statistical population	Type I and type II errors
+Cluster analysis	Spectral clustering
+Sample (statistics)	Statistical significance
+Correlation and dependence	OPTICS algorithm
+Arithmetic mean	Mixture model
+Data analysis	DBSCAN
+Statistical classification	Multiclass classification
+Standard deviation	F1 score
+Null hypothesis	Student's t-test
+Prior probability	Bayesian network
+Arithmetic mean	Stepwise regression
+Outlier	Data mining
+Machine learning	Multiclass classification
+Confidence interval	Type I and type II errors
+Statistical classification	Decision tree learning
+Conditional probability	Decision tree
+Machine learning	Pruning (decision trees)
+Conditional probability distribution	Likelihood function
+Decision tree	Decision tree model
+Joint probability distribution	Naive Bayes classifier
+Statistical classification	Sensitivity and specificity
+Statistical classification	F1 score
+Ensemble learning	AdaBoost
+Arithmetic mean	OPTICS algorithm
+Genetic algorithm	Mutation (genetic algorithm)
+Statistical population	Confidence interval
+Statistical hypothesis testing	Statistical significance
+Conditional probability	Likelihood function
+Arithmetic mean	Clustering high-dimensional data
+Statistical classification	Random forest
+Correlation and dependence	DBSCAN
+Standard deviation	Anomaly detection
+Dimensionality reduction	Principal component analysis
+Data analysis	Mixture model
+Null hypothesis	Precision and recall
+Probability density function	Artificial neural network
+Artificial neural network	Feedforward neural network
+Median	Interquartile range
+Decision tree learning	Random forest
+Joint probability distribution	Multiclass classification
+Quartile	Interquartile range
+Conditional probability	Conditional probability distribution
+Machine learning	Support vector machine
+Null hypothesis	Type I and type II errors
+Conditional probability	Random forest
+Probability density function	Joint probability distribution
+Standard deviation	Precision and recall
+Joint probability distribution	Decision tree learning
+Bayes' theorem	Bayesian network
+Probability density function	Likelihood function
+Joint probability distribution	K-means clustering
+Arithmetic mean	Central tendency
+Conditional probability distribution	Bayes' theorem
+Arithmetic mean	DBSCAN
+Conditional probability distribution	Posterior probability
+Conditional independence	Bayesian network
+Standard deviation	Correlation and dependence
+Regression analysis	Linear regression
+Standard deviation	Type I and type II errors
+Conditional probability	Posterior probability
+Data analysis	OPTICS algorithm
+Standard deviation	Single-linkage clustering
+Anomaly detection	Data mining
+Descriptive statistics	Interquartile range
+Data analysis	Clustering high-dimensional data
+Conditional probability	Bayes' theorem
+Joint probability distribution	Random forest
+Probability density function	Conditional probability distribution
+Statistical classification	Precision and recall
+Standard deviation	Data mining
+Probability density function	Random forest
+Conditional probability	Association rule learning
+Cluster analysis	Mixture model
+Maximum likelihood	Expectation–maximization algorithm
+Statistical dispersion	Level of measurement
+Genetic algorithm	Fitness function
+Conditional probability distribution	Naive Bayes classifier
+Regression analysis	Poisson regression
+Data analysis	Cluster analysis
+Statistical population	Data mining
+Probability density function	Machine learning
+Conditional probability	Naive Bayes classifier
+Probability density function	Posterior probability
+Correlation and dependence	Hierarchical clustering
+Conditional probability	Apriori algorithm
+Statistical classification	Data mining
+Probability density function	Bayes' theorem
+Standard deviation	Spectral clustering
+Sample (statistics)	Statistical hypothesis testing
+Correlation and dependence	Clustering high-dimensional data
+Standard deviation	Level of measurement
+Cluster analysis	OPTICS algorithm
+Statistical classification	Pruning (decision trees)
+Regression analysis	Data mining
+Correlation and dependence	Fuzzy clustering
+Cluster analysis	Clustering high-dimensional data
+Sample (statistics)	F1 score
+Statistical hypothesis testing	Data mining
+Mode (statistics)	Central tendency
+Conditional probability	Data mining
+Median	Level of measurement
+Correlation and dependence	Cluster analysis
+Likelihood function	Bayesian network
+Decision tree learning	Pruning (decision trees)
+Machine learning	Backpropagation
+Arithmetic mean	Hierarchical clustering
+Probability density function	Naive Bayes classifier
+Standard deviation	Student's t-test
+Conditional probability	Pruning (decision trees)
+Machine learning	AdaBoost
+Arithmetic mean	Regression analysis
+Conditional probability	Decision tree learning
+Machine learning	Bayesian network
+Natural selection	Mutation (genetic algorithm)
+Statistical classification	Support vector machine
+Arithmetic mean	Fuzzy clustering
+Arithmetic mean	Least squares
+Statistical hypothesis testing	F1 score
+Cluster analysis	DBSCAN
+False positives and false negatives	Sensitivity and specificity
+Conditional probability distribution	Maximum likelihood
+Arithmetic mean	Cluster analysis
+Joint probability distribution	Pruning (decision trees)
+Probability density function	Multiclass classification
+Conditional probability	Expectation–maximization algorithm
+Arithmetic mean	Naive Bayes classifier
+Posterior probability	Bayesian network
+Probability density function	Pruning (decision trees)
+Conditional probability	Maximum likelihood
+Natural selection	Genetic algorithm
+Statistical hypothesis testing	Student's t-test
+Arithmetic mean	K-medoids
+Arithmetic mean	Biclustering
+Correlation and dependence	Principal component analysis
+Data analysis	Hierarchical clustering
+Probability density function	Decision tree learning
+Probability density function	K-means clustering
+Sample (statistics)	Precision and recall
+Boosting (machine learning)	AdaBoost
+Maximum likelihood	Bayesian network
+Data analysis	Anomaly detection
+Sample (statistics)	Type I and type II errors
+Data analysis	Fuzzy clustering
+Joint probability distribution	Support vector machine
+Probability density function	Expectation–maximization algorithm
+Standard deviation	Mixture model
+Machine learning	Artificial neural network
+Statistical classification	Decision tree model
+Conditional probability distribution	Poisson regression
+Sample (statistics)	Data mining
+Machine learning	Boosting (machine learning)
+Arithmetic mean	Principal component analysis
+Hyperplane	Linear separability
+Bayes' theorem	Naive Bayes classifier
+Probability density function	Maximum likelihood
+Statistical hypothesis testing	Precision and recall
+Arithmetic mean	K-means clustering
+False positives and false negatives	Positive and negative predictive values
+Conditional probability	Poisson regression
+Natural selection	Fitness function
+Conditional independence	Naive Bayes classifier
+Standard deviation	Confidence interval
+Statistical classification	Receiver operating characteristic
+Conditional probability distribution	Conditional independence
+Type I and type II errors	F1 score
+Data analysis	K-medoids
+Data analysis	Biclustering
+Statistical hypothesis testing	Type I and type II errors
+Statistical population	Statistical significance
+Cluster analysis	Hierarchical clustering
+Sample (statistics)	Confidence interval
+Correlation and dependence	Anomaly detection
+Statistical population	Statistical hypothesis testing
+Conditional probability	Conditional independence
+Hyperplane	Support vector machine
+Standard deviation	OPTICS algorithm
+Association rule learning	Apriori algorithm
+Statistical classification	Backpropagation
+Standard deviation	Clustering high-dimensional data
+Data analysis	Data mining
+Joint probability distribution	Boosting (machine learning)
+Ensemble learning	Random forest
+Confidence interval	Statistical significance
+Cluster analysis	Fuzzy clustering
+Regression analysis	Stepwise regression
+Confidence interval	Statistical hypothesis testing
+Probability density function	Poisson regression
+Correlation and dependence	Naive Bayes classifier
+Machine learning	Feedforward neural network
+Arithmetic mean	Linear regression
+Bootstrap aggregating	Random forest
+Decision tree	Decision tree learning
+Sample (statistics)	Student's t-test
+Association rule learning	Data mining
+Central tendency	Level of measurement
+Arithmetic mean	Anomaly detection
+Correlation and dependence	Biclustering
+Data analysis	K-means clustering
+Correlation and dependence	K-medoids
+Probability density function	Conditional independence
+Cluster analysis	K-medoids
+Cluster analysis	Biclustering
+Conditional probability distribution	Expectation–maximization algorithm
+Statistical population	Sample (statistics)
+Standard deviation	DBSCAN
+Linear separability	Support vector machine
+Type I and type II errors	Precision and recall
+Dimensionality reduction	Spectral clustering
+Correlation and dependence	Data mining
+Decision tree	Random forest
+Joint probability distribution	Backpropagation
+Arithmetic mean	Poisson regression
+Likelihood function	Naive Bayes classifier
+Null hypothesis	Statistical significance
+Bootstrapping (statistics)	Random forest
+Null hypothesis	Statistical hypothesis testing
+Median	Central tendency
+Arithmetic mean	Correlation and dependence
+Joint probability distribution	AdaBoost
+Joint probability distribution	Bayesian network
+Correlation and dependence	K-means clustering
+Machine learning	Naive Bayes classifier
+Statistical population	Precision and recall
+Standard deviation	Statistical significance
+Standard deviation	Principal component analysis
+Statistical classification	Artificial neural network
+Cluster analysis	K-means clustering
+Arithmetic mean	Data mining
+Statistical classification	Decision tree
+Precision and recall	F1 score
+Probability density function	Support vector machine
+Confidence interval	Precision and recall
+Statistical dispersion	Interquartile range
+Machine learning	Joint probability distribution
+Regression analysis	Likelihood function
+Fuzzy clustering	K-means clustering
+Regression analysis	Principal component analysis
+Standard deviation	Signal-to-noise ratio
+Naive Bayes classifier	Machine learning
+Spectral clustering	Cluster analysis
+Statistical hypothesis testing	Statistical population
+Anomaly detection	Cluster analysis
+Central tendency	Arithmetic mean
+Poisson regression	Conditional probability
+Mixture model	Correlation and dependence
+Random forest	Ensemble learning
+Artificial neural network	Cluster analysis
+Knowledge base	Expert system
+Spectral clustering	K-means clustering
+Hierarchical clustering	Correlation and dependence
+Boosting (machine learning)	Random forest
+Bayes' theorem	Conditional probability
+Decision tree	Conditional probability
+Statistical hypothesis testing	Standard deviation
+Expert system	Artificial neural network
+Principal component analysis	Standard deviation
+Least squares	Regression analysis
+Conditional independence	Conditional probability
+Single-linkage clustering	Correlation and dependence
+Median	Probability density function
+Outlier	Correlation and dependence
+Data mining	Query language
+False positives and false negatives	Accuracy and precision
+Support vector machine	Artificial neural network
+Linear regression	Stepwise regression
+Conditional probability distribution	Joint probability distribution
+Level of measurement	Arithmetic mean
+Sensitivity and specificity	Statistical classification
+Prior probability	Bayes' theorem
+Artificial neural network	Principal component analysis
+Ensemble learning	Stepwise regression
+Statistical model	Stepwise regression
+Naive Bayes classifier	Maximum likelihood
+Machine learning	Linear separability
+Decision tree	Statistical classification
+Accuracy and precision	Precision and recall
+Biclustering	Standard deviation
+Standard deviation	Interquartile range
+Hierarchical clustering	OPTICS algorithm
+Bayes' theorem	Mixture model
+DBSCAN	Arithmetic mean
+Likelihood function	Conditional probability
+F-test	Stepwise regression
+F1 score	Statistical classification
+Support vector machine	Anomaly detection
+Bayesian network	Decision tree learning
+Backpropagation	Artificial neural network
+Cluster analysis	Genetic algorithm
+Correlation and dependence	Arithmetic mean
+Pruning (decision trees)	Alpha–beta pruning
+Data mining	Statistical classification
+Artificial neural network	Probability density function
+Multiclass classification	Statistical classification
+Prior probability	Posterior probability
+K-means clustering	Cluster analysis
+Mixture model	Standard deviation
+Gradient descent	Feedforward neural network
+Linear regression	Regression analysis
+Data mining	Arithmetic mean
+Missing data	Expectation–maximization algorithm
+Principal component analysis	K-means clustering
+Cross-validation (statistics)	Support vector machine
+Histogram	Interquartile range
+Hierarchical clustering	Standard deviation
+Data mining	Bayes' theorem
+Discretization	Decision tree learning
+Feedforward neural network	Joint probability distribution
+Anomaly detection	Correlation and dependence
+Data modeling	Query language
+Maximum likelihood	Confidence interval
+AdaBoost	Machine learning
+Cluster analysis	Principal component analysis
+Nonlinear system	Backpropagation
+Gradient descent	Maxima and minima
+Cross-validation (statistics)	Boosting (machine learning)
+OPTICS algorithm	Arithmetic mean
+Backpropagation	Pruning (decision trees)
+Cluster analysis	Arithmetic mean
+Mixture model	Hierarchical clustering
+Prior probability	Maximum likelihood
+Mixture model	Data analysis
+Likelihood function	Conditional probability distribution
+Statistical model	Statistical hypothesis testing
+Statistical significance	Sample (statistics)
+Bayesian network	Conditional probability
+Pruning (decision trees)	Probability density function
+Decision tree model	Decision tree
+Posterior probability	Likelihood function
+Conditional independence	Joint probability distribution
+OPTICS algorithm	DBSCAN
+Hierarchical clustering	Data analysis
+Precision and recall	Null hypothesis
+K-means clustering	K-medoids
+Data analysis	Prior probability
+Web search engine	Precision and recall
+Multiclass classification	Machine learning
+Ensemble learning	Anomaly detection
+Data mining	Sample (statistics)
+Expectation–maximization algorithm	Conditional probability
+Fuzzy clustering	Standard deviation
+K-means clustering	Probability density function
+Arithmetic mean	Precision and recall
+Pruning (decision trees)	Machine learning
+Single-linkage clustering	Cluster analysis
+Conditional probability distribution	Conditional probability
+Model selection	Biclustering
+Bayesian network	Mixture model
+Outlier	Cluster analysis
+Posterior probability	Bayes' theorem
+Precision and recall	Statistical hypothesis testing
+Naive Bayes classifier	Likelihood function
+Data mining	Biclustering
+Clustering high-dimensional data	Standard deviation
+Regression analysis	Artificial neural network
+Classification rule	Support vector machine
+Machine learning	Probability density function
+Decision tree learning	Decision tree
+Stepwise regression	Regression analysis
+Decision tree learning	Joint probability distribution
+Expectation–maximization algorithm	Mixture model
+Posterior probability	Probability density function
+Spectral clustering	Standard deviation
+Standard deviation	Regression analysis
+Anomaly detection	Standard deviation
+Linear separability	Backpropagation
+Naive Bayes classifier	Bayes' theorem
+Data reduction	Principal component analysis
+Decision tree model	Decision tree learning
+F1 score	Precision and recall
+Linear regression	Conditional probability
+Linear regression	Gradient descent
+Boosting (machine learning)	Joint probability distribution
+K-means clustering	Correlation and dependence
+F1 score	Type I and type II errors
+Posterior probability	Conditional probability distribution
+Cluster analysis	Correlation and dependence
+Outlier	Interquartile range
+Statistical classification	Cluster analysis
+Accuracy and precision	Sensitivity and specificity
+Decision tree	Support vector machine
+Clustering high-dimensional data	Data analysis
+Bayesian network	Conditional probability distribution
+Naive Bayes classifier	Probability density function
+Prior probability	Minimum description length
+Hierarchical clustering	Single-linkage clustering
+False positives and false negatives	Cluster analysis
+Anomaly detection	Outlier
+Statistical model	Statistical classification
+Data processing	Artificial neural network
+Type I and type II errors	Confidence interval
+Bayesian network	Posterior probability
+Decision tree	Boosting (machine learning)
+Cluster analysis	Expectation–maximization algorithm
+Standard deviation	Random forest
+Median	K-means clustering
+Spectral clustering	Data analysis
+Statistical population	Mixture model
+AdaBoost	Boosting (machine learning)
+Anomaly detection	Data analysis
+Support vector machine	Joint probability distribution
+F1 score	Information retrieval
+Sampling (statistics)	Bayes' theorem
+Expectation–maximization algorithm	Conditional probability distribution
+Random forest	Decision tree
+Random forest	Joint probability distribution
+Receiver operating characteristic	Statistical classification
+Positive and negative predictive values	False positives and false negatives
+Multiclass classification	Support vector machine
+Feedforward neural network	Statistical classification
+Bayesian network	Joint probability distribution
+Hierarchical clustering	DBSCAN
+Precision and recall	Statistical classification
+DBSCAN	Cluster analysis
+Naive Bayes classifier	Correlation and dependence
+Prior probability	Likelihood function
+Interquartile range	Quartile
+Naive Bayes classifier	Conditional independence
+Decision tree model	Conditional probability
+Backpropagation	Joint probability distribution
+Data mining	Boosting (machine learning)
+Bootstrap aggregating	Boosting (machine learning)
+Poisson regression	Likelihood function
+Type I and type II errors	Statistical population
+Statistical hypothesis testing	Null hypothesis
+Signal-to-noise ratio	Principal component analysis
+Maximum likelihood	Conditional probability
+Confusion matrix	Precision and recall
+Artificial neural network	Pruning (decision trees)
+K-means clustering	Standard deviation
+Confidence interval	Likelihood function
+Poisson regression	Arithmetic mean
+Decision tree model	Statistical classification
+Expert system	Random forest
+Statistical model	Feedforward neural network
+Data analysis	Statistical significance
+Support vector machine	Linear separability
+Conditional probability	Prior probability
+Type I and type II errors	Standard deviation
+Single-linkage clustering	OPTICS algorithm
+Prior probability	Naive Bayes classifier
+Outlier	OPTICS algorithm
+Type I and type II errors	Null hypothesis
+Stepwise regression	F-test
+Maximum likelihood	Mixture model
+Information retrieval	Cluster analysis
+Random forest	Decision tree learning
+K-medoids	Arithmetic mean
+Artificial neural network	Gradient descent
+Decision tree learning	Conditional probability
+Data mining	Cluster analysis
+Linear regression	Joint probability distribution
+Poisson regression	Probability density function
+Type I and type II errors	Statistical hypothesis testing
+Interquartile range	Median
+Association rule learning	Anomaly detection
+Mutation (genetic algorithm)	Natural selection
+Data type	DBSCAN
+K-means clustering	Data analysis
+Standard deviation	Bayesian network
+Decision tree learning	Statistical classification
+Posterior probability	Artificial neural network
+Confusion matrix	Positive and negative predictive values
+Data mining	Principal component analysis
+Poisson regression	Conditional probability distribution
+Median	Confidence interval
+OPTICS algorithm	Cluster analysis
+Bayes' theorem	Probability density function
+Conditional independence	Probability density function
+Statistical dispersion	Central tendency
+AdaBoost	Probability density function
+Statistical model	Maximum likelihood
+Naive Bayes classifier	Standard deviation
+Anomaly detection	DBSCAN
+Accuracy and precision	Statistical significance
+Bayes' theorem	Conditional probability distribution
+Standard deviation	Central tendency
+Conditional independence	Conditional probability distribution
+Outlier	Regression analysis
+Single-linkage clustering	Standard deviation
+Maximum likelihood	Conditional probability distribution
+Information retrieval	Naive Bayes classifier
+Quartile	Central tendency
+Confidence interval	Sample (statistics)
+Apriori algorithm	Conditional probability
+Active learning (machine learning)	Support vector machine
+Gradient descent	Poisson regression
+Data mining	Naive Bayes classifier
+Statistical significance	Sensitivity and specificity
+Likelihood function	Probability density function
+Descriptive statistics	Central tendency
+DBSCAN	Correlation and dependence
+Random forest	Conditional probability
+Histogram	Mixture model
+Median	Statistical population
+Multiclass classification	Probability density function
+Anomaly detection	OPTICS algorithm
+F1 score	Sample (statistics)
+Support vector machine	Hyperplane separation theorem
+K-medoids	Correlation and dependence
+Support vector machine	Statistical classification
+Receiver operating characteristic	Precision and recall
+Expert system	Bayesian network
+Fuzzy clustering	Expectation–maximization algorithm
+Sensitivity and specificity	Confidence interval
+Student's t-test	Sample (statistics)
+Linear separability	Feedforward neural network
+Boosting (machine learning)	Probability density function
+Classification rule	Decision tree
+Random forest	Statistical classification
+Single-linkage clustering	Data analysis
+Decision tree learning	Machine learning
+Principal component analysis	Arithmetic mean
+Precision and recall	Type I and type II errors
+Data mining	Web search engine
+Bayesian network	Likelihood function
+Least squares	Arithmetic mean
+F1 score	Confidence interval
+Interquartile range	Statistical dispersion
+Statistical significance	Confidence interval
+Backpropagation	Statistical classification
+Boosting (machine learning)	Machine learning
+Data mining	Correlation and dependence
+Biclustering	Arithmetic mean
+Semi-supervised learning	K-means clustering
+Model selection	Stepwise regression
+Cross-validation (statistics)	Pruning (decision trees)
+Artificial neural network	Joint probability distribution
+Expectation–maximization algorithm	Likelihood function
+Bayesian network	Bayes' theorem
+Statistical classification	Linear separability
+Central tendency	Mode (statistics)
+Mixture model	Conditional probability
+Gradient descent	Backpropagation
+Data mining	Stepwise regression
+Conditional probability	Statistical significance
+Precision and recall	Information retrieval
+Data mining	Confidence interval
+Level of measurement	Standard deviation
+Regression analysis	Random forest
+OPTICS algorithm	Correlation and dependence
+Joint probability distribution	Probability density function
+Data mining	OPTICS algorithm
+Central tendency	Median
+AdaBoost	Ensemble learning
+Statistical classification	Anomaly detection
+Prior probability	Artificial neural network
+Bayesian network	Probability density function
+Support vector machine	Machine learning
+DBSCAN	Standard deviation
+Apriori algorithm	Association rule learning
+Bayesian network	Prior probability
+Statistical significance	Statistical population
+Sensitivity and specificity	Confusion matrix
+Level of measurement	Mode (statistics)
+Gradient descent	Boosting (machine learning)
+Mixture model	Arithmetic mean
+Machine learning	Mutation (genetic algorithm)
+Mutation (genetic algorithm)	Genetic algorithm
+Expectation–maximization algorithm	Probability density function
+Statistical model	Likelihood function
+Confidence interval	Artificial neural network
+Bayesian network	Machine learning
+Pruning (decision trees)	Decision tree
+Conditional probability distribution	Probability density function
+Discretization	Naive Bayes classifier
+Statistical significance	Regression analysis
+Nonlinear system	Gradient descent
+Outlier	Mixture model
+Fitness function	Natural selection
+Level of measurement	Median
+Correlation and dependence	Standard deviation
+Hierarchical clustering	Arithmetic mean
+Sensitivity and specificity	Statistical hypothesis testing
+Data mining	Statistical population
+Linear regression	Arithmetic mean
+Statistical significance	Standard deviation
+Artificial neural network	Decision tree learning
+Backpropagation	Machine learning
+Minkowski distance	DBSCAN
+Support vector machine	Hyperplane
+Association rule learning	Decision tree
+Statistical significance	Null hypothesis
+Joint probability distribution	Conditional independence
+Mutation (genetic algorithm)	Fitness function
+Biclustering	Correlation and dependence
+DBSCAN	Hierarchical clustering
+Bayesian network	Conditional independence
+DBSCAN	Data analysis
+Decision tree learning	Support vector machine
+Data mining	Regression analysis
+Maximum likelihood	Minimum description length
+K-means clustering	Joint probability distribution
+Mixture model	Probability density function
+Joint probability distribution	Confidence interval
+Sensitivity and specificity	False positives and false negatives
+Data mining	Standard deviation
+Boosting (machine learning)	Ensemble learning
+Gradient descent	Hill climbing
+Statistical significance	Statistical hypothesis testing
+Data mining	Null hypothesis
+Outlier	DBSCAN
+Data mining	Artificial neural network
+K-medoids	Cluster analysis
+Bayesian network	Expectation–maximization algorithm
+Bayesian network	Maximum likelihood
+Decision tree learning	Decision tree model
+Probability density function	Interquartile range
+Regression analysis	Statistical classification
+Linear regression	Conditional probability distribution
+OPTICS algorithm	Standard deviation
+Data mining	Statistical hypothesis testing
+Data mining	Decision tree learning
+Bootstrap aggregating	Decision tree learning
+Genetic algorithm	Artificial neural network
+Data mining	Outlier
+Fuzzy clustering	Arithmetic mean
+Pruning (decision trees)	Decision tree learning
+Cluster analysis	Standard deviation
+Regression analysis	Arithmetic mean
+Data analysis	Decision tree learning
+Expectation–maximization algorithm	Maximum likelihood
+Maximum likelihood	Likelihood function
+Data mining	Data analysis
+Machine learning	Regression analysis
+Feedforward neural network	Probability density function
+Data mining	Anomaly detection
+Clustering high-dimensional data	Arithmetic mean
+Linear regression	Poisson regression
+Mode (statistics)	Random forest
+Linear regression	Correlation and dependence
+Hierarchical clustering	Biclustering
+Standard deviation	Likelihood function
+Naive Bayes classifier	Joint probability distribution
+Stepwise regression	Arithmetic mean
+Precision and recall	Sensitivity and specificity
+Spectral clustering	Arithmetic mean
+Mixture model	Expectation–maximization algorithm
+OPTICS algorithm	Data analysis
+Anomaly detection	Arithmetic mean
+Support vector machine	Boosting (machine learning)
+Mixture model	Maximum likelihood
+Feedforward neural network	Machine learning
+Artificial neural network	Statistical classification
+Level of measurement	Statistical dispersion
+Decision tree learning	Principal component analysis
+Cluster analysis	Data analysis
+Principal component analysis	Dimensionality reduction
+Precision and recall	Sample (statistics)
+Decision tree	Data mining
+Data mining	K-means clustering
+Linear regression	Maximum likelihood
+Posterior probability	Statistical hypothesis testing
+Statistical classification	Posterior probability
+Maximum likelihood	Probability density function
+Level of measurement	Central tendency
+Data mining	Conditional probability
+Pruning (decision trees)	Conditional probability
+Positive and negative predictive values	Accuracy and precision
+Fuzzy clustering	Correlation and dependence
+Precision and recall	Confidence interval
+Sampling (statistics)	Statistical population
+Association rule learning	Conditional probability
+Confusion matrix	Cluster analysis
+Biclustering	Hierarchical clustering
+Biclustering	Data analysis
+Sample (statistics)	Statistical population
+Decision tree learning	Probability density function
+Ensemble learning	Backpropagation
+Clustering high-dimensional data	Correlation and dependence
+Data mining	Mixture model
+Pruning (decision trees)	Statistical classification
+Hyperplane separation theorem	Support vector machine
+Conditional probability	Joint probability distribution
+Maximum likelihood	Poisson regression
+Fitness function	Genetic algorithm
+Data analysis	Statistical classification
+Discretization	Artificial neural network
+Biclustering	Cluster analysis
+Linear regression	Support vector machine
+Confidence interval	Stepwise regression
+Spectral clustering	Correlation and dependence
+Bayes' theorem	Confidence interval
+Mode (statistics)	Mixture model
+Outlier	Support vector machine
+DBSCAN	OPTICS algorithm
+Artificial neural network	Machine learning
+Local optimum	K-means clustering
+Random forest	Bootstrap aggregating
+Histogram	Naive Bayes classifier
+K-means clustering	Mixture model
+Feedforward neural network	Backpropagation
+Precision and recall	Statistical population
+Posterior probability	Conditional probability
+Data mining	DBSCAN
+K-means clustering	Arithmetic mean
+Support vector machine	Naive Bayes classifier
+Interquartile range	Descriptive statistics
+Student's t-test	Confidence interval
+Random forest	Naive Bayes classifier
+Support vector machine	Probability density function
+AdaBoost	Decision tree
+Linear separability	Hyperplane
+Mixture model	Cluster analysis
+Precision and recall	Standard deviation
+Interquartile range	Central tendency
+AdaBoost	Joint probability distribution
+Confidence interval	Statistical population
+Posterior probability	Mixture model
+Genetic algorithm	Natural selection
+Naive Bayes classifier	Conditional probability
+Poisson regression	Regression analysis
+Random forest	Probability density function
+Feedforward neural network	Artificial neural network
+Regression analysis	Support vector machine
+Hierarchical clustering	Cluster analysis
+Random forest	Bootstrapping (statistics)
+Data mining	Association rule learning
+Confidence interval	Regression analysis
+Statistical hypothesis testing	Sample (statistics)
+Linear regression	Data matrix (multivariate statistics)
+F1 score	Statistical population
+Confidence interval	Standard deviation
+Naive Bayes classifier	Statistical classification
+Data analysis	Association rule learning
+Prior probability	Statistical hypothesis testing
+Backpropagation	Probability density function
+Random forest	Machine learning
+Naive Bayes classifier	Mixture model
+K-medoids	Standard deviation
+Linear regression	Principal component analysis
+Student's t-test	Statistical population
+Statistical dispersion	Regression analysis
+K-means clustering	Machine learning
+Multiclass classification	Joint probability distribution
+Principal component analysis	Correlation and dependence
+Outlier	Principal component analysis
+Naive Bayes classifier	Arithmetic mean
+Naive Bayes classifier	Bayesian network
+Mode (statistics)	Biclustering
+Pruning (decision trees)	Joint probability distribution
+F1 score	Standard deviation
+Type I and type II errors	Sample (statistics)
+Genetic algorithm	Decision tree
+Machine learning	Expert system
+F1 score	Null hypothesis
+Precision and recall	Cluster analysis
+Bayes' theorem	Statistical hypothesis testing
+Minkowski distance	K-medoids
+Single-linkage clustering	Arithmetic mean
+Statistical hypothesis testing	Confidence interval
+Fuzzy clustering	Data analysis
+Student's t-test	Standard deviation
+Data matrix (multivariate statistics)	Principal component analysis
+Student's t-test	Null hypothesis
+Spectral clustering	Dimensionality reduction
+Fuzzy clustering	Cluster analysis
+F1 score	Statistical hypothesis testing
+K-medoids	Data analysis
+Outlier	K-medoids
+Hierarchical clustering	Data mining
+Student's t-test	Statistical hypothesis testing
+K-means clustering	Expectation–maximization algorithm
+Clustering high-dimensional data	Cluster analysis
+Model selection	Statistical hypothesis testing
+Naive Bayes classifier	Conditional probability distribution

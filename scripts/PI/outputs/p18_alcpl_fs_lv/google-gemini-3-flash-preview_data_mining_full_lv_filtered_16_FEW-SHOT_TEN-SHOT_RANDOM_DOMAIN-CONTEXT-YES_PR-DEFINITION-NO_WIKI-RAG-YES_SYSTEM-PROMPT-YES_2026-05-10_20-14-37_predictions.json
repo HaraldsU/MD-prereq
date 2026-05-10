@@ -1,0 +1,224 @@
+[
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Varbūtību blīvuma funkcija",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "T tests",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Dabiskā izlase",
+    "concept_B": "Ģenētiskais algoritms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Korelācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Aritmētiskais vidējais",
+    "concept_B": "Datizrace",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ekspertsistēma",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mediāna (statistika)",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Beiesa teorēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Standartnovirze",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Klasteru analīze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Beiesa teorēma",
+    "concept_B": "Varbūtību blīvuma funkcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Meklētājprogramma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Korelācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Korelācija",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Datizrace",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģenētiskais algoritms",
+    "concept_B": "Mākslīgais neironu tīkls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Klasteru analīze",
+    "concept_B": "Standartnovirze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lineārās regresijas analīze",
+    "concept_B": "Aritmētiskais vidējais",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Lineārās regresijas analīze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mākslīgais neironu tīkls",
+    "concept_B": "Mašīnmācīšanās",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ģenētiskais algoritms",
+    "concept_B": "Dabiskā izlase",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mašīnmācīšanās",
+    "concept_B": "Ekspertsistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  }
+]

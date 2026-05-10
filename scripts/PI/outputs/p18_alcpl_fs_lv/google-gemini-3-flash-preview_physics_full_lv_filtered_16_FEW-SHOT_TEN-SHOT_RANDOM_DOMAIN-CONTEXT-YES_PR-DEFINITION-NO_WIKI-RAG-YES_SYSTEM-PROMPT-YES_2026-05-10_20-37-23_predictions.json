@@ -1,0 +1,6170 @@
+[
+  {
+    "concept_A": "Gaismas laušana",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Materiālu pretestība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gaisma",
+    "concept_B": "Gaismas stars",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Plaisa",
+    "concept_B": "Materiālu pretestība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gaisma",
+    "concept_B": "Lāzers",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vektors",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektrons",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Mehāniskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Stāvvilnis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Materiālu pretestība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Kinētiskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kustības ātrums",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Gravitācijas konstante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Magnēts",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Berze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Difrakcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Dispersija (optika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Gravitācijas lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Ātrums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gaisma",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Brīvais kritiens",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Jauda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vektors",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektrons",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Ņūtona likumi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Svira",
+    "concept_B": "Spēka moments",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Stāvvilnis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kustības ātrums",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Mehāniskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Jauda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Kinētiskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Ņūtona likumi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Frekvence",
+    "concept_B": "Hercs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Viļņi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Gravitācijas lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Spēka moments",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Elektrostatika",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Mehāniskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vektors",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Magnētiskais lauks",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gravitācija",
+    "concept_B": "Gravitācijas lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Stāvvilnis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Gravitācijas lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Spēka moments",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Elektrostatika",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Difrakcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Svira",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Brīvais kritiens",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Dispersija (optika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Paātrinājums",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Frekvence",
+    "concept_B": "Doplera efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Masa",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Elektrostatika",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektrons",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Elektrostatika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gravitācija",
+    "concept_B": "Brīvais kritiens",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Svira",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Brīvais kritiens",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Laušanas koeficients",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vektors",
+    "concept_B": "Elektrostatika",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gravitācija",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ņūtona vispasaules gravitācijas likums",
+    "concept_B": "Gravitācijas lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kulona likums",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Mehāniskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Doplera efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Refraktors",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vektors",
+    "concept_B": "Brīvais kritiens",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Magnēts",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kustības ātrums",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gaisma",
+    "concept_B": "Atstarošana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Elektrostatika",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Gravitācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Huka likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Magnēts",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Elektrostatika",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Sadursme (klasiskā mehānika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Atskaites sistēma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Jauda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Kinētiskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Huka likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gaismas stars",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Refraktors",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kulona likums",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Sadursme (klasiskā mehānika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gaisma",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Elektriskais izolators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gaismas laušana",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kinētiskā enerģija",
+    "concept_B": "Mehāniskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskais lādiņš",
+    "concept_B": "Elektriskā kapacitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Elektrostatika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Gravitācijas konstante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Magnētiskais lauks",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Brīvās krišanas paātrinājums",
+    "concept_B": "Brīvais kritiens",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Materiāla nogurums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Doplera efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Elektriskais vadītājs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gaismas laušana",
+    "concept_B": "Refraktors",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Gravitācijas lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Krāsa",
+    "concept_B": "Pigments",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kustības ātrums",
+    "concept_B": "Brīvais kritiens",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Magnētiskais lauks",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskais izolators",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Materiāla nogurums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ņūtona vispasaules gravitācijas likums",
+    "concept_B": "Gravitācijas konstante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Mehāniskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Teleskops",
+    "concept_B": "Refraktors",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Spēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Atstarošana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Virknes un paralēlais slēgums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kustības ātrums",
+    "concept_B": "Doplera efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Plūstamība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Frekvence",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kustības ātrums",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Virknes un paralēlais slēgums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Doplera efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Brīvais kritiens",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Gravitācija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gaisma",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Huka likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kulona likums",
+    "concept_B": "Elektrostatika",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Elektriskais vadītājs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Plūstamība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Magnēts",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Mehāniskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Mehāniskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Oma likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Paātrinājums",
+    "concept_B": "Brīvais kritiens",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Voltmetrs",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Doplera efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vektors",
+    "concept_B": "Mehāniskā enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Cietība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Gravitācijas lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Plaisa",
+    "concept_B": "Cietība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Viļņa garums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kulona likums",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Berze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Materiālu pretestība",
+    "concept_B": "Cietība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kulona likums",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Cietība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Magnēts",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Vektors",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Brīvais kritiens",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Amplitūda",
+    "concept_B": "Stāvvilnis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Gravitācijas konstante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Elektriskā kapacitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gaisma",
+    "concept_B": "Dispersija (optika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Krāsa",
+    "concept_B": "Dispersija (optika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Elektrostatika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Mehāniskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Kulona likums",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Doplera efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Oma likums",
+    "concept_B": "Virknes un paralēlais slēgums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gravitācija",
+    "concept_B": "Gravitācijas konstante",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Atstarošana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Viļņa garums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Gravitācija",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Frekvence",
+    "concept_B": "Stāvvilnis",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 1
+  },
+  {
+    "concept_A": "Lāzers",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Planēta",
+    "concept_B": "Lauks (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvais kritiens",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrons",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Vektors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hercs",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā kapacitāte",
+    "concept_B": "Spriegums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais vadītājs",
+    "concept_B": "Elektriskā strāva",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnēts",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas konstante",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Snelliusa likums",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Kulona likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvais kritiens",
+    "concept_B": "Ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Frekvence",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fotoelektriskais efekts",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Gravitācijas lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Atstarošana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Plūstamība",
+    "concept_B": "Huka likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētiskais lauks",
+    "concept_B": "Magnēts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Svira",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Svira",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Teleskops",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Džouls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Elektriskais vadītājs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Elektriskā kapacitāte",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gaismas stars",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Spēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais dzinējspēks",
+    "concept_B": "Kulona likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paātrinājums",
+    "concept_B": "Ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Frekvence",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Temperatūra",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvās krišanas paātrinājums",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Stāvvilnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cietība",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paātrinājums",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Kompass",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Huka likums",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvais kritiens",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācija",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kustības ātrums",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Temperatūra",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulona likums",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Frekvence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Temperatūra",
+    "concept_B": "Huka likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atstarošana",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Džouls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Huka likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Frekvence",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā kustība",
+    "concept_B": "Ņūtona likumi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Vektors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Virknes un paralēlais slēgums",
+    "concept_B": "Elektriskā strāva",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sadursme (klasiskā mehānika)",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Difrakcija",
+    "concept_B": "Lāzers",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stāvvilnis",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stāvvilnis",
+    "concept_B": "Frekvence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Vektors",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektors",
+    "concept_B": "Berze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hercs",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hercs",
+    "concept_B": "Stāvvilnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Refraktors",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā kapacitāte",
+    "concept_B": "Džouls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stāvvilnis",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Pigments",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais dzinējspēks",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Spēka moments",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gaismas stars",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Kulona likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Gaisma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais izolators",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atstarošana",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētiskais lauks",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Gaisma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Snelliusa likums",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Frekvence",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Elektriskā strāva",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gaismas laušana",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas konstante",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sadursme (klasiskā mehānika)",
+    "concept_B": "Kinētiskā enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hercs",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sadursme (klasiskā mehānika)",
+    "concept_B": "Ņūtona likumi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Doplera efekts",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais dzinējspēks",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cietība",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fotoelektriskais efekts",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētiskais lauks",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Planēta",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paātrinājums",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācija",
+    "concept_B": "Spēka moments",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Elektriskā strāva",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Teleskops",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cietība",
+    "concept_B": "Plaisa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona vispasaules gravitācijas likums",
+    "concept_B": "Ņūtona likumi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais izolators",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Vektors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācija",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Elektriskā kapacitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Frekvence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Gaisma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fotoelektriskais efekts",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Huka likums",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais dzinējspēks",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gaisma",
+    "concept_B": "Plaisa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrons",
+    "concept_B": "Spriegums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Laušanas koeficients",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hercs",
+    "concept_B": "Spriegums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Temperatūra",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Spēka moments",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas konstante",
+    "concept_B": "Gravitācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paātrinājums",
+    "concept_B": "Vektors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Ņūtona likumi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Temperatūra",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Džouls",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Lauks (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sadursme (klasiskā mehānika)",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Temperatūra",
+    "concept_B": "Plūstamība",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Snelliusa likums",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Planēta",
+    "concept_B": "Teleskops",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Spriegums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Spēka moments",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Huka likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Vektors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Difrakcija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Viļņi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Atskaites sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Džouls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Huka likums",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā kapacitāte",
+    "concept_B": "Elektriskais lādiņš",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētisms",
+    "concept_B": "Temperatūra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Atskaites sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Temperatūra",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fotoelektriskais efekts",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Jauda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hercs",
+    "concept_B": "Frekvence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Brīvais kritiens",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulona likums",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētisms",
+    "concept_B": "Magnēts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Spēka moments",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas konstante",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulona likums",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Džouls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sadursme (klasiskā mehānika)",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Refraktors",
+    "concept_B": "Teleskops",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kinētiskā enerģija",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Brīvais kritiens",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Planēta",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Lauks (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Elektriskā kapacitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Frekvence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Laušanas koeficients",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Difrakcija",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Gaismas stars",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais dzinējspēks",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Viļņi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Laušanas koeficients",
+    "concept_B": "Viļņa garums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Mehāniskā enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Lāzers",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrons",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā kapacitāte",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Huka likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kinētiskā enerģija",
+    "concept_B": "Džouls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kustības ātrums",
+    "concept_B": "Viļņi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Huka likums",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā kapacitāte",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Doplera efekts",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Kulona likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektors",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Snelliusa likums",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Hercs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Svira",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Elektriskā kapacitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētisms",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvās krišanas paātrinājums",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Spēka moments",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Jauda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Viļņi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Spēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Huka likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atstarošana",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Vektors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Spēka moments",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvais kritiens",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kinētiskā enerģija",
+    "concept_B": "Temperatūra",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Oms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Plūstamība",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētisms",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Huka likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvās krišanas paātrinājums",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Svira",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Materiālu pretestība",
+    "concept_B": "Materiāla nogurums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Elektriskais vadītājs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Frekvence",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētisms",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atskaites sistēma",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Svira",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Snelliusa likums",
+    "concept_B": "Gaisma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Huka likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācija",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Snelliusa likums",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Džouls",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Laušanas koeficients",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Džouls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Temperatūra",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paātrinājums",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvais kritiens",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Refraktors",
+    "concept_B": "Gaisma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Planēta",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Materiāla nogurums",
+    "concept_B": "Temperatūra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektors",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Refraktors",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sadursme (klasiskā mehānika)",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Elektriskais vadītājs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Oms",
+    "concept_B": "Spriegums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas konstante",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Laušanas koeficients",
+    "concept_B": "Difrakcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais dzinējspēks",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Krāsa",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Planēta",
+    "concept_B": "Brīvais kritiens",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Brīvās krišanas paātrinājums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais vadītājs",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Frekvence",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Ātrums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnēts",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Elektriskais vadītājs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Planēta",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sadursme (klasiskā mehānika)",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Amplitūda",
+    "concept_B": "Viļņa garums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Spēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Laušanas koeficients",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Svira",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Huka likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Ņūtona likumi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvais kritiens",
+    "concept_B": "Gravitācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Elektriskais izolators",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētiskais lauks",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Temperatūra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Amplitūda",
+    "concept_B": "Viļņi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Planēta",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Doplera efekts",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Refraktors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Attālums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Difrakcija",
+    "concept_B": "Gaismas stars",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Magnēts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Berze",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Lāzers",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Spēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Elektriskais izolators",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stāvvilnis",
+    "concept_B": "Viļņa garums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Voltmetrs",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona vispasaules gravitācijas likums",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Elektriskā kapacitāte",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētisms",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Frekvence",
+    "concept_B": "Viļņi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paātrinājums",
+    "concept_B": "Gravitācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Plūstamība",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Amplitūda",
+    "concept_B": "Voltmetrs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācija",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētiskais lauks",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Elektriskais izolators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Teleskops",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atstarošana",
+    "concept_B": "Teleskops",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Sadursme (klasiskā mehānika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Elektriskā strāva",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvās krišanas paātrinājums",
+    "concept_B": "Ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais vadītājs",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvais kritiens",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Difrakcija",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Laušanas koeficients",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais izolators",
+    "concept_B": "Elektriskais vadītājs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Spriegums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Svira",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Temperatūra",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Voltmetrs",
+    "concept_B": "Spriegums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Ņūtona likumi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sadursme (klasiskā mehānika)",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Materiāla nogurums",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrons",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kustības ātrums",
+    "concept_B": "Ātrums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnēts",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Teleskops",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kinētiskā enerģija",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Oms",
+    "concept_B": "Džouls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atstarošana",
+    "concept_B": "Elektromagnētisko viļņu skala",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvais kritiens",
+    "concept_B": "Vektors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kinētiskā enerģija",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Lauks (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Džouls",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrons",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Atskaites sistēma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Vektors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Elektrons",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Sadursme (klasiskā mehānika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atstarošana",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Pigments",
+    "concept_B": "Krāsa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Hercs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Lauks (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Oms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gaismas stars",
+    "concept_B": "Gaisma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvās krišanas paātrinājums",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrons",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Planēta",
+    "concept_B": "Ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lāzers",
+    "concept_B": "Kondensators",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Svira",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gaismas laušana",
+    "concept_B": "Gaisma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvās krišanas paātrinājums",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Planēta",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Amplitūda",
+    "concept_B": "Huka likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Huka likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Attālums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gaismas laušana",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Plūstamība",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētiskais lauks",
+    "concept_B": "Lauks (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Džouls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Elektrostatika",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētiskais lauks",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Difrakcija",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Plūstamība",
+    "concept_B": "Plaisa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Cietība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kustības ātrums",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atstarošana",
+    "concept_B": "Gaisma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Vektors",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais dzinējspēks",
+    "concept_B": "Elektriskā strāva",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Ampērmetrs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektors",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atstarošana",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Elektriskā kapacitāte",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnēts",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā kapacitāte",
+    "concept_B": "Elektriskais vadītājs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hercs",
+    "concept_B": "Gaisma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Materiāla nogurums",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrons",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hercs",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Kulona likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Džouls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Džouls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Temperatūra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvais kritiens",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Kulona likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kustības ātrums",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Gaisma",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Frekvence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Teleskops",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Laušanas koeficients",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lāzers",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Kinētiskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kustības ātrums",
+    "concept_B": "Viļņa garums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lāzers",
+    "concept_B": "Stāvvilnis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvās krišanas paātrinājums",
+    "concept_B": "Vektors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētiskais lauks",
+    "concept_B": "Oma likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Džouls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Huka likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Elektriskā kapacitāte",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācija",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Huka likums",
+    "concept_B": "Garums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Viļņi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Spriegums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Doplera efekts",
+    "concept_B": "Frekvence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Paātrinājums",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Kondensators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gaismas laušana",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Doplera efekts",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Temperatūra",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kinētiskā enerģija",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kustības ātrums",
+    "concept_B": "Spēka moments",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Elektriskā strāva",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Vektors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais dzinējspēks",
+    "concept_B": "Spriegums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atstarošana",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrons",
+    "concept_B": "Difrakcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kompass",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Snelliusa likums",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Huka likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais vadītājs",
+    "concept_B": "Elektrostatika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sadursme (klasiskā mehānika)",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrons",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Snelliusa likums",
+    "concept_B": "Viļņa garums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Lauks (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hercs",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sadursme (klasiskā mehānika)",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lāzers",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Džouls",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lāzers",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Dispersija (optika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Vektors",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Refraktors",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Teleskops",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Oma likums",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Elektriskā kapacitāte",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona vispasaules gravitācijas likums",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētisms",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Elektriskā strāva",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kinētiskā enerģija",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Viļņa garums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cietība",
+    "concept_B": "Materiālu pretestība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Gaisma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Temperatūra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais dzinējspēks",
+    "concept_B": "Lauks (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Oms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gaismas laušana",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnēts",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Temperatūra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Elektrostatika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais izolators",
+    "concept_B": "Kondensators",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Berze",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Oma likums",
+    "concept_B": "Spriegums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Dispersija (optika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Planēta",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Kinētiskā enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Difrakcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lāzers",
+    "concept_B": "Gaisma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona vispasaules gravitācijas likums",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atskaites sistēma",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Magnēts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Planēta",
+    "concept_B": "Elektriskā kapacitāte",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona likumi",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Temperatūra",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnētiskais lauks",
+    "concept_B": "Elektriskā strāva",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gaisma",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvais kritiens",
+    "concept_B": "Spriegums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais dzinējspēks",
+    "concept_B": "Oms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Dispersija (optika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Viļņi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrons",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hercs",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Krāsa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Spriegums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais dzinējspēks",
+    "concept_B": "Kulons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācija",
+    "concept_B": "Refraktors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Vektors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Teleskops",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Stāvvilnis",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Cietība",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atstarošana",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Cietība",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvās krišanas paātrinājums",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Doplera efekts",
+    "concept_B": "Lāzers",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Elektrons",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona vispasaules gravitācijas likums",
+    "concept_B": "Gravitācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Lāzers",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņi",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Frekvence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais izolators",
+    "concept_B": "Elektriskā strāva",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona likumi",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Elektriskais vadītājs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Spriegums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Lauks (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Difrakcija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Paātrinājums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Spriegums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Gravitācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Laušanas koeficients",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Svira",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Temperatūra",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atstarošana",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Dispersija (optika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Kinētiskā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Džouls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Magnēts",
+    "concept_B": "Plaisa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Oma likums",
+    "concept_B": "Oms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvās krišanas paātrinājums",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Lauks (fizika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Darbs (fizika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Hercs",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Viļņi",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Masa",
+    "concept_B": "Berze",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Kulona likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Hercs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Snelliusa likums",
+    "concept_B": "Gaismas stars",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Berze",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Difrakcija",
+    "concept_B": "Atstarošana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Džouls",
+    "concept_B": "Elektriskais dzinējspēks",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lāzers",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gaisma",
+    "concept_B": "Pigments",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Hercs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Doplera efekts",
+    "concept_B": "Ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona vispasaules gravitācijas likums",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvais kritiens",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskā strāva",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Kulona likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Materiālu pretestība",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Virknes un paralēlais slēgums",
+    "concept_B": "Spriegums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona likumi",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Hercs",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais lauks",
+    "concept_B": "Lauks (fizika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Oms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Potenciālā enerģija",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Laušanas koeficients",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Temperatūra",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gaismas laušana",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Lāzers",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvās krišanas paātrinājums",
+    "concept_B": "Gravitācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Gravitācijas lauks",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Lauks (fizika)",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Snelliusa likums",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Svira",
+    "concept_B": "Huka likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēka moments",
+    "concept_B": "Dielektriķis",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Doplera efekts",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvais kritiens",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Lauks (fizika)",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fizika",
+    "concept_B": "Elektrons",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Metrs",
+    "concept_B": "Oms",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Svira",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kinētiskā enerģija",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Enerģija",
+    "concept_B": "Spriegums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Refraktors",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētiskais starojums",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Džouls",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kompass",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Atstarošana",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Sadursme (klasiskā mehānika)",
+    "concept_B": "Mehāniskā enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Spriegums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Doplera efekts",
+    "concept_B": "Gravitācija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Temperatūra",
+    "concept_B": "Laušanas koeficients",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Temperatūra",
+    "concept_B": "Elektromagnētiskais starojums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Viļņa garums",
+    "concept_B": "Temperatūra",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Huka likums",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fotoelektriskais efekts",
+    "concept_B": "Gaisma",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Brīvās krišanas paātrinājums",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais dzinējspēks",
+    "concept_B": "Elektriskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Masa",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Fotoelektriskais efekts",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Magnētisms",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spriegums",
+    "concept_B": "Magnētiskais lauks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ātrums",
+    "concept_B": "Temperatūra",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektromagnētisko viļņu skala",
+    "concept_B": "Viļņa garums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Darbs (fizika)",
+    "concept_B": "Kustības ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Attālums",
+    "concept_B": "Svira",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Amplitūda",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Jauda",
+    "concept_B": "Amplitūda",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Ātrums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Teleskops",
+    "concept_B": "Ņūtona vispasaules gravitācijas likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Magnēts",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Materiālu pretestība",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Doplera efekts",
+    "concept_B": "Fizika",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dispersija (optika)",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Laušanas koeficients",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Difrakcija",
+    "concept_B": "Viļņi",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Frekvence",
+    "concept_B": "Gaismas laušana",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektriskais dzinējspēks",
+    "concept_B": "Elektrons",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Garums",
+    "concept_B": "Ātrums",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Elektrostatika",
+    "concept_B": "Enerģija",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Virknes un paralēlais slēgums",
+    "concept_B": "Oma likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Refraktors",
+    "concept_B": "Dispersija (optika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Doplera efekts",
+    "concept_B": "Viļņa garums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Mehāniskā enerģija",
+    "concept_B": "Spēks",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kulons",
+    "concept_B": "Berze",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Huka likums",
+    "concept_B": "Frekvence",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Planēta",
+    "concept_B": "Sadursme (klasiskā mehānika)",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Materiālu pretestība",
+    "concept_B": "Plaisa",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Teleskops",
+    "concept_B": "Snelliusa likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Frekvence",
+    "concept_B": "Fotoelektriskais efekts",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Potenciālā enerģija",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Ņūtona vispasaules gravitācijas likums",
+    "concept_B": "Attālums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Spēks",
+    "concept_B": "Vektors",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Kilograms",
+    "concept_B": "Jauda",
+    "predicted_PR": "patiess",
+    "ground_truth_PR": 0
+  },
+  {
+    "concept_A": "Dielektriķis",
+    "concept_B": "Huka likums",
+    "predicted_PR": "aplams",
+    "ground_truth_PR": 0
+  }
+]

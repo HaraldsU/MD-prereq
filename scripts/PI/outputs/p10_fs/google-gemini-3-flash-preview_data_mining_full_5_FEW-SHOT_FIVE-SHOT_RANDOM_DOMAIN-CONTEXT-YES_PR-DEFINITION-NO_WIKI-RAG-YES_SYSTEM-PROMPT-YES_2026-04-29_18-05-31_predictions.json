@@ -2364,12 +2364,6 @@
     "ground_truth_PR": 0
   },
   {
-    "concept_A": "Gain (information retrieval)",
-    "concept_B": "Accuracy and precision",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
-  },
-  {
     "concept_A": "Expectation\u2013maximization algorithm",
     "concept_B": "Conditional probability",
     "predicted_PR": "false",
@@ -3008,12 +3002,6 @@
   {
     "concept_A": "Random forest",
     "concept_B": "Decision tree learning",
-    "predicted_PR": "false",
-    "ground_truth_PR": 0
-  },
-  {
-    "concept_A": "Gain (information retrieval)",
-    "concept_B": "Positive and negative predictive values",
     "predicted_PR": "false",
     "ground_truth_PR": 0
   },
