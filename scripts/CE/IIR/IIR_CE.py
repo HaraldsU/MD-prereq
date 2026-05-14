@@ -602,8 +602,8 @@ def run_model(client, model, timestamp, prompt_type, fs_type, fs_amount):
 DS = 'iir_sections_full'
 # DS = 'iir_sections_full_index'
 
-DS_JSON_PATH = Path('~/Downloads/prereq/scripts/IIR/iir_sections_full.json').expanduser()
-# DS_JSON_PATH = Path('~/Downloads/prereq/scripts/IIR/iir_sections_full_index.json').expanduser()
+# DS_JSON_PATH = Path('~/Downloads/prereq/scripts/IIR/iir_sections_full.json').expanduser()
+DS_JSON_PATH = Path('~/Downloads/prereq/scripts/IIR/IIR-index_deduped.json').expanduser()
 # DS_JSON_PATH = Path('~/Downloads/prereq/scripts/CE-Books-LV/outputs/bio_vsk_mg.json').expanduser()
 # DS_JSON_PATH = Path('~/Downloads/prereq/scripts/CE-Books-LV/outputs/chem_vsk_mg.json').expanduser()
 
@@ -740,7 +740,14 @@ else:
     # t.join()
 
 # evaluate('/home/dust/Downloads/prereq/scripts/IIR/outputs/baseline/IIR_yake/IIR_YAKE_predictions.json')
+# evaluate('/home/dust/Downloads/prereq/scripts/CE-Books-LV/outputs/baseline/bio_yake/BIO_YAKE_predictions.json')
+# evaluate('/home/dust/Downloads/prereq/scripts/IIR/google-gemini-3-flash-preview_1024_FEW-SHOT_FIVE-SHOT_RANDOM_TERMS_ENGLISH_DOMAIN-CONTEXT-YES_CONCEPT-DEFINITION-NO_SYSTEM-PROMPT-YES_-CONSENSUS_STEMMED_2026-04-30_23-55-44_predictions_deduped.json')
+# evaluate('/home/dust/Downloads/prereq/scripts/IIR/outputs/baseline/IIR-index_yake/IIR_INDEX_YAKE_predictions.json')
+# evaluate('/home/dust/Downloads/prereq/scripts/CE-Books-LV/outputs/p5_CHEM_KU7b/xiaomi-mimo-v2-flash_1024_FEW-SHOT_FIVE-SHOT_FIRST_GALVENĀS-FRĀZES_LATVIAN_DOMAIN-CONTEXT-YES_CONCEPT-DEFINITION-KEY_SYSTEM-PROMPT-YES_-CONSENSUS_STEMMED_2026-04-30_20-10-23_predictions_deduped.json')
+
+# evaluate('/home/dust/Downloads/prereq/scripts/CE-Books-LV/outputs/baseline/chem_yake/CHEM_YAKE_predictions.json')
 evaluate('/home/dust/Downloads/prereq/scripts/CE-Books-LV/outputs/baseline/bio_yake/BIO_YAKE_predictions.json')
+
 # print(generate_template_lv('GALVENĀS-FRĀZES', 'AUGI', 'HELLO WORLD!'))
 
 elapsed = time.time() - start

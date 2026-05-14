@@ -1,0 +1,2232 @@
+[
+  {
+    "section_number": "1",
+    "section_name": "Boolean retrieval",
+    "predicted_concepts (pc)": [
+      "information retrieval",
+      "information",
+      "retrieval",
+      "search",
+      "documents",
+      "Information retrieval systems"
+    ],
+    "pc_count": 6,
+    "pc_count_to_text_len_ratio (%)": 0.708,
+    "ground_truth_concepts (gtc)": [
+      "database",
+      "information retrieval",
+      "semistructured retrieval",
+      "relational"
+    ],
+    "gtc_count": 4,
+    "gtc_count_to_text_len_ratio (%)": 0.472,
+    "section_text_count": 847
+  },
+  {
+    "section_number": "1.1",
+    "section_name": "An example information retrieval problem",
+    "predicted_concepts (pc)": [
+      "Shakespeare Collected Works",
+      "Shakespeare Collected",
+      "words",
+      "document",
+      "documents",
+      "Shakespeare",
+      "Brutus AND Caesar",
+      "Collected Works"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.626,
+    "ground_truth_concepts (gtc)": [
+      "inverted index",
+      "posting",
+      "regular expressions",
+      "precision",
+      "wildcard query",
+      "information need",
+      "query",
+      "retrieval model",
+      "relevance",
+      "document",
+      "lexicon",
+      "corpus",
+      "boolean",
+      "grep",
+      "effectiveness",
+      "vocabulary",
+      "postings list",
+      "term",
+      "incidence matrix",
+      "index",
+      "ad hoc retrieval",
+      "collection",
+      "recall",
+      "dictionary"
+    ],
+    "gtc_count": 24,
+    "gtc_count_to_text_len_ratio (%)": 1.878,
+    "section_text_count": 1278
+  },
+  {
+    "section_number": "1.2",
+    "section_name": "A first take at building an inverted index",
+    "predicted_concepts (pc)": [
+      "postings list",
+      "postings",
+      "list",
+      "postings lists",
+      "lists",
+      "document"
+    ],
+    "pc_count": 6,
+    "pc_count_to_text_len_ratio (%)": 0.908,
+    "ground_truth_concepts (gtc)": [
+      "sorting",
+      "docid",
+      "posting",
+      "document frequency",
+      "caching",
+      "sort-based",
+      "indexing",
+      "in index construction",
+      "dictionary"
+    ],
+    "gtc_count": 9,
+    "gtc_count_to_text_len_ratio (%)": 1.362,
+    "section_text_count": 661
+  },
+  {
+    "section_number": "1.3",
+    "section_name": "Processing Boolean queries",
+    "predicted_concepts (pc)": [
+      "postings lists",
+      "postings",
+      "postings list",
+      "lists",
+      "list",
+      "Figure",
+      "intermediate results list"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.786,
+    "ground_truth_concepts (gtc)": [
+      "merge",
+      "simple conjunctive",
+      "intersection",
+      "query",
+      "postings",
+      "postings list",
+      "merge algorithm",
+      "query optimization"
+    ],
+    "gtc_count": 8,
+    "gtc_count_to_text_len_ratio (%)": 0.898,
+    "section_text_count": 891
+  },
+  {
+    "section_number": "2.1",
+    "section_name": "The term vocabulary and postings lists",
+    "predicted_concepts (pc)": [
+      "document",
+      "documents",
+      "character sequence",
+      "sequence",
+      "character",
+      "characters",
+      "file",
+      "files"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.59,
+    "ground_truth_concepts (gtc)": [
+      "token",
+      "term",
+      "xml",
+      "indexing granularity",
+      "document"
+    ],
+    "gtc_count": 5,
+    "gtc_count_to_text_len_ratio (%)": 0.369,
+    "section_text_count": 1356
+  },
+  {
+    "section_number": "2.3",
+    "section_name": "Faster postings list intersection via skip pointers",
+    "predicted_concepts (pc)": [
+      "skip pointers",
+      "skip",
+      "postings list",
+      "list",
+      "postings"
+    ],
+    "pc_count": 5,
+    "pc_count_to_text_len_ratio (%)": 0.816,
+    "ground_truth_concepts (gtc)": [],
+    "gtc_count": 0,
+    "gtc_count_to_text_len_ratio (%)": 0.0,
+    "section_text_count": 613
+  },
+  {
+    "section_number": "2.4",
+    "section_name": "Positional postings and phrase queries",
+    "predicted_concepts (pc)": [
+      "phrase queries",
+      "phrase",
+      "index",
+      "Stanford University",
+      "phrase index",
+      "queries",
+      "query",
+      "biword index"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.588,
+    "ground_truth_concepts (gtc)": [
+      "phrase queries",
+      "phrase index",
+      "biword index",
+      "positional index",
+      "stop words",
+      "next word index"
+    ],
+    "gtc_count": 6,
+    "gtc_count_to_text_len_ratio (%)": 0.441,
+    "section_text_count": 1360
+  },
+  {
+    "section_number": "3.1",
+    "section_name": "Dictionaries and tolerant retrieval",
+    "predicted_concepts (pc)": [
+      "query term",
+      "search",
+      "handling Boolean",
+      "Boolean and proximity",
+      "query",
+      "search trees",
+      "search tree"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.678,
+    "ground_truth_concepts (gtc)": [
+      "wildcard query",
+      "b-tree",
+      "binary tree"
+    ],
+    "gtc_count": 3,
+    "gtc_count_to_text_len_ratio (%)": 0.29,
+    "section_text_count": 1033
+  },
+  {
+    "section_number": "3.2",
+    "section_name": "Wildcard queries",
+    "predicted_concepts (pc)": [
+      "Sydney vs. Sidney",
+      "Wildcard queries",
+      "wildcard query",
+      "Wildcard",
+      "query",
+      "terms",
+      "B-tree"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.651,
+    "ground_truth_concepts (gtc)": [
+      "wildcard query",
+      "n-gram index"
+    ],
+    "gtc_count": 2,
+    "gtc_count_to_text_len_ratio (%)": 0.186,
+    "section_text_count": 1075
+  },
+  {
+    "section_number": "3.3",
+    "section_name": "Spelling correction",
+    "predicted_concepts (pc)": [
+      "edit distance",
+      "query",
+      "edit",
+      "distance",
+      "terms",
+      "query term",
+      "term",
+      "correction",
+      "query string",
+      "spelling correction"
+    ],
+    "pc_count": 10,
+    "pc_count_to_text_len_ratio (%)": 0.471,
+    "ground_truth_concepts (gtc)": [
+      "edit distance",
+      "levenshtein distance",
+      "jaccard coefficient",
+      "n-gram index"
+    ],
+    "gtc_count": 4,
+    "gtc_count_to_text_len_ratio (%)": 0.189,
+    "section_text_count": 2122
+  },
+  {
+    "section_number": "3.4",
+    "section_name": "Phonetic correction",
+    "predicted_concepts (pc)": [
+      "soundex",
+      "final technique",
+      "technique for tolerant",
+      "tolerant retrieval",
+      "user types"
+    ],
+    "pc_count": 5,
+    "pc_count_to_text_len_ratio (%)": 1.046,
+    "ground_truth_concepts (gtc)": [
+      "soundex"
+    ],
+    "gtc_count": 1,
+    "gtc_count_to_text_len_ratio (%)": 0.209,
+    "section_text_count": 478
+  },
+  {
+    "section_number": "4.1",
+    "section_name": "Index construction",
+    "predicted_concepts (pc)": [
+      "disk",
+      "data",
+      "Section",
+      "indexing",
+      "chapter",
+      "memory"
+    ],
+    "pc_count": 6,
+    "pc_count_to_text_len_ratio (%)": 0.733,
+    "ground_truth_concepts (gtc)": [
+      "hardware issues",
+      "information retrieval",
+      "enterprise search",
+      "indexer",
+      "index construction",
+      "defined",
+      "indexing",
+      "seek time",
+      "caching",
+      "buffer",
+      "disk seek"
+    ],
+    "gtc_count": 11,
+    "gtc_count_to_text_len_ratio (%)": 1.345,
+    "section_text_count": 818
+  },
+  {
+    "section_number": "4.2",
+    "section_name": "Blocked sort-based indexing",
+    "predicted_concepts (pc)": [
+      "termID-docID pairs",
+      "collection",
+      "memory",
+      "Figure",
+      "index",
+      "pairs",
+      "disk"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.66,
+    "ground_truth_concepts (gtc)": [
+      "posting",
+      "single-pass in-memory indexing (spimi)",
+      "bsbi",
+      "described",
+      "postings",
+      "reuters-rcv1 collection",
+      "defined",
+      "blocked sort-based indexing algorithm",
+      "external sorting algorithm",
+      "in block sort-based indexing",
+      "reuters-rcv1",
+      "inversions",
+      "termid",
+      "inversion",
+      "blocked sort-based indexing algorithm (bsbi)"
+    ],
+    "gtc_count": 15,
+    "gtc_count_to_text_len_ratio (%)": 1.414,
+    "section_text_count": 1061
+  },
+  {
+    "section_number": "4.3",
+    "section_name": "Single-pass in-memory indexing",
+    "predicted_concepts (pc)": [
+      "postings list",
+      "SPIMI-I NVERT",
+      "SPIMI",
+      "excellent scaling properties",
+      "postings"
+    ],
+    "pc_count": 5,
+    "pc_count_to_text_len_ratio (%)": 0.804,
+    "ground_truth_concepts (gtc)": [
+      "single-pass in-memory indexing",
+      "spimi",
+      "single-pass in-memory indexing (spimi)",
+      "distributed indexing"
+    ],
+    "gtc_count": 4,
+    "gtc_count_to_text_len_ratio (%)": 0.643,
+    "section_text_count": 622
+  },
+  {
+    "section_number": "4.4",
+    "section_name": "Distributed indexing",
+    "predicted_concepts (pc)": [
+      "World Wide Web",
+      "index",
+      "Figure",
+      "index construction",
+      "segment files",
+      "term",
+      "distributed",
+      "distributed indexing"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.645,
+    "ground_truth_concepts (gtc)": [
+      "clusters",
+      "reduce phase",
+      "master node",
+      "distributed indexing",
+      "parser",
+      "map phase",
+      "inverter",
+      "cluster",
+      "term-partitioned index",
+      "document-partitioned index",
+      "mapreduce",
+      "defined",
+      "distributed index",
+      "segment file",
+      "dynamic indexing",
+      "splits",
+      "key-value pairs"
+    ],
+    "gtc_count": 17,
+    "gtc_count_to_text_len_ratio (%)": 1.37,
+    "section_text_count": 1241
+  },
+  {
+    "section_number": "4.5",
+    "section_name": "Dynamic indexing",
+    "predicted_concepts (pc)": [
+      "index",
+      "auxiliary index",
+      "indexes",
+      "auxiliary",
+      "postings",
+      "Bible or Shakespeare"
+    ],
+    "pc_count": 6,
+    "pc_count_to_text_len_ratio (%)": 0.721,
+    "ground_truth_concepts (gtc)": [
+      "auxiliary index",
+      "logarithmic merging"
+    ],
+    "gtc_count": 2,
+    "gtc_count_to_text_len_ratio (%)": 0.24,
+    "section_text_count": 832
+  },
+  {
+    "section_number": "4.6",
+    "section_name": "Other types of indexes",
+    "predicted_concepts (pc)": [
+      "postings",
+      "postings lists",
+      "access",
+      "lists",
+      "index"
+    ],
+    "pc_count": 5,
+    "pc_count_to_text_len_ratio (%)": 1.025,
+    "ground_truth_concepts (gtc)": [
+      "impact",
+      "idf",
+      "statistics",
+      "ranked retrieval models",
+      "security",
+      "large",
+      "ranked retrieval",
+      "described",
+      "retrieval systems",
+      "access control lists",
+      "collections",
+      "blocked sort-based indexing algorithm (bsbi)"
+    ],
+    "gtc_count": 12,
+    "gtc_count_to_text_len_ratio (%)": 2.459,
+    "section_text_count": 488
+  },
+  {
+    "section_number": "5.1",
+    "section_name": "Index compression",
+    "predicted_concepts (pc)": [
+      "postings",
+      "number",
+      "compression",
+      "collection",
+      "terms",
+      "size",
+      "postings list",
+      "Section",
+      "Chapter",
+      "postings lists"
+    ],
+    "pc_count": 10,
+    "pc_count_to_text_len_ratio (%)": 0.546,
+    "ground_truth_concepts (gtc)": [
+      "information retrieval",
+      "posting",
+      "caching",
+      "postings",
+      "statistical properties of",
+      "terms",
+      "compression and",
+      "preprocessing",
+      "compression",
+      "oxford english dictionary",
+      "lossless",
+      "heaps' law",
+      "lossy compression",
+      "lossy",
+      "indexes",
+      "effects of",
+      "rule of 30",
+      "zipf's law",
+      "of dictionaries",
+      "power law"
+    ],
+    "gtc_count": 20,
+    "gtc_count_to_text_len_ratio (%)": 1.092,
+    "section_text_count": 1832
+  },
+  {
+    "section_number": "5.2",
+    "section_name": "Dictionary compression",
+    "predicted_concepts (pc)": [
+      "term",
+      "dictionary",
+      "terms",
+      "bytes",
+      "term pointers",
+      "search",
+      "Figure",
+      "binary search"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.654,
+    "ground_truth_concepts (gtc)": [
+      "reuters-rcv1 collection",
+      "dictionary-as-a-string storage",
+      "blocked storage described",
+      "compression",
+      "hashing",
+      "of dictionaries",
+      "blocked storage",
+      "front coding",
+      "of postings list"
+    ],
+    "gtc_count": 9,
+    "gtc_count_to_text_len_ratio (%)": 0.735,
+    "section_text_count": 1224
+  },
+  {
+    "section_number": "5.3",
+    "section_name": "Postings file compression",
+    "predicted_concepts (pc)": [
+      "gaps",
+      "codes",
+      "code",
+      "Table",
+      "Variable byte codes",
+      "term",
+      "bits",
+      "size",
+      "Encoding",
+      "byte",
+      "postings"
+    ],
+    "pc_count": 11,
+    "pc_count_to_text_len_ratio (%)": 0.456,
+    "ground_truth_concepts (gtc)": [
+      "variable byte encoding",
+      "continuation bit",
+      "nibble",
+      "encoding",
+      "unary code",
+      "prefix-free code",
+      "compression",
+      "harmonic numbers",
+      "codes",
+      "harmonic number",
+      "of postings list",
+      "entropy",
+      "parameter-free compression",
+      "universal code"
+    ],
+    "gtc_count": 14,
+    "gtc_count_to_text_len_ratio (%)": 0.581,
+    "section_text_count": 2410
+  },
+  {
+    "section_number": "6",
+    "section_name": "Scoring, term weighting and the vector space model",
+    "predicted_concepts (pc)": [
+      "support Boolean queries",
+      "support Boolean",
+      "document",
+      "Section"
+    ],
+    "pc_count": 4,
+    "pc_count_to_text_len_ratio (%)": 1.156,
+    "ground_truth_concepts (gtc)": [
+      "free text"
+    ],
+    "gtc_count": 1,
+    "gtc_count_to_text_len_ratio (%)": 0.289,
+    "section_text_count": 346
+  },
+  {
+    "section_number": "6.1",
+    "section_name": "Parametric and zone indexes",
+    "predicted_concepts (pc)": [
+      "zone",
+      "weighted zone scoring",
+      "weighted zone",
+      "Boolean",
+      "zone scoring",
+      "document",
+      "zones",
+      "Query",
+      "weighted zone scores"
+    ],
+    "pc_count": 9,
+    "pc_count_to_text_len_ratio (%)": 0.52,
+    "ground_truth_concepts (gtc)": [
+      "field",
+      "weighted zone scoring",
+      "zone index",
+      "parametric index",
+      "zone",
+      "metadata",
+      "accumulator",
+      "ranked boolean retrieval",
+      "machine-learned relevance"
+    ],
+    "gtc_count": 9,
+    "gtc_count_to_text_len_ratio (%)": 0.52,
+    "section_text_count": 1732
+  },
+  {
+    "section_number": "6.2",
+    "section_name": "Term frequency and weighting",
+    "predicted_concepts (pc)": [
+      "term",
+      "document",
+      "query term",
+      "query",
+      "document frequency",
+      "documents",
+      "terms"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.644,
+    "ground_truth_concepts (gtc)": [
+      "free text",
+      "stop words",
+      "term frequency",
+      "bag of words",
+      "query",
+      "stop list",
+      "inverse document frequency",
+      "document frequency",
+      "document vector",
+      "tf-idf"
+    ],
+    "gtc_count": 10,
+    "gtc_count_to_text_len_ratio (%)": 0.92,
+    "section_text_count": 1087
+  },
+  {
+    "section_number": "6.3",
+    "section_name": "The vector space model for scoring",
+    "predicted_concepts (pc)": [
+      "document",
+      "vector",
+      "documents",
+      "document vector",
+      "vector space scores",
+      "vector space",
+      "query",
+      "vectors",
+      "document vectors",
+      "Figure"
+    ],
+    "pc_count": 10,
+    "pc_count_to_text_len_ratio (%)": 0.538,
+    "ground_truth_concepts (gtc)": [
+      "document vector",
+      "vector space model",
+      "cosine similarity",
+      "dot product",
+      "inner product",
+      "term-document matrix",
+      "euclidean length",
+      "length-normalization",
+      "free text query",
+      "term-at-a-time",
+      "accumulator",
+      "inverse document frequency",
+      "document-at-a-time"
+    ],
+    "gtc_count": 13,
+    "gtc_count_to_text_len_ratio (%)": 0.699,
+    "section_text_count": 1859
+  },
+  {
+    "section_number": "6.4",
+    "section_name": "Variant tf-idf functions",
+    "predicted_concepts (pc)": [
+      "document length",
+      "document length normalization",
+      "document",
+      "pivoted document length",
+      "length",
+      "documents",
+      "term",
+      "longer documents",
+      "normalization"
+    ],
+    "pc_count": 9,
+    "pc_count_to_text_len_ratio (%)": 0.603,
+    "ground_truth_concepts (gtc)": [
+      "smoothing",
+      "stop words",
+      "pivoted document length normalization",
+      "euclidean distance",
+      "distance"
+    ],
+    "gtc_count": 5,
+    "gtc_count_to_text_len_ratio (%)": 0.335,
+    "section_text_count": 1492
+  },
+  {
+    "section_number": "7.1",
+    "section_name": "Computing scores in a complete search system",
+    "predicted_concepts (pc)": [
+      "documents",
+      "query terms",
+      "query",
+      "document",
+      "postings",
+      "scores",
+      "terms",
+      "postings lists",
+      "Section",
+      "postings list",
+      "lists",
+      "term"
+    ],
+    "pc_count": 12,
+    "pc_count_to_text_len_ratio (%)": 0.457,
+    "ground_truth_concepts (gtc)": [
+      "static quality scores",
+      "term-at-a-time",
+      "document-at-a-time"
+    ],
+    "gtc_count": 3,
+    "gtc_count_to_text_len_ratio (%)": 0.114,
+    "section_text_count": 2623
+  },
+  {
+    "section_number": "7.2",
+    "section_name": "Components of an information retrieval system",
+    "predicted_concepts (pc)": [
+      "query",
+      "document",
+      "section",
+      "scoring",
+      "documents",
+      "query terms",
+      "vector space",
+      "vector space scoring"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.616,
+    "ground_truth_concepts (gtc)": [
+      "tiered indexes",
+      "champion lists",
+      "proximity weighting",
+      "free text query",
+      "evidence accumulation",
+      "caching",
+      "results snippets",
+      "spelling correction"
+    ],
+    "gtc_count": 8,
+    "gtc_count_to_text_len_ratio (%)": 0.616,
+    "section_text_count": 1299
+  },
+  {
+    "section_number": "7.3",
+    "section_name": "Vector space scoring and query operator interaction",
+    "predicted_concepts (pc)": [
+      "Vector space scoring",
+      "Vector space",
+      "vector space model"
+    ],
+    "pc_count": 3,
+    "pc_count_to_text_len_ratio (%)": 1.21,
+    "ground_truth_concepts (gtc)": [
+      "free text"
+    ],
+    "gtc_count": 1,
+    "gtc_count_to_text_len_ratio (%)": 0.403,
+    "section_text_count": 248
+  },
+  {
+    "section_number": "8.1",
+    "section_name": "Evaluation in information retrieval",
+    "predicted_concepts (pc)": [
+      "Information",
+      "Section",
+      "user",
+      "test collection",
+      "test",
+      "Information retrieval",
+      "Information retrieval system"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.806,
+    "ground_truth_concepts (gtc)": [
+      "ground truth",
+      "development test collection",
+      "parameter tuning",
+      "information need",
+      "relevance",
+      "gold standard"
+    ],
+    "gtc_count": 6,
+    "gtc_count_to_text_len_ratio (%)": 0.69,
+    "section_text_count": 869
+  },
+  {
+    "section_number": "8.2",
+    "section_name": "Standard test collections",
+    "predicted_concepts (pc)": [
+      "test collections",
+      "collections",
+      "test",
+      "test document collections",
+      "document collections"
+    ],
+    "pc_count": 5,
+    "pc_count_to_text_len_ratio (%)": 0.874,
+    "ground_truth_concepts (gtc)": [
+      "ntcir",
+      "topic",
+      "cranfield",
+      "trec",
+      "national  institute of standards and technology",
+      "reuters-21578",
+      "gov2",
+      "clef",
+      "reuters-rcv1",
+      "20 newsgroups",
+      "cross-language information retrieval"
+    ],
+    "gtc_count": 11,
+    "gtc_count_to_text_len_ratio (%)": 1.923,
+    "section_text_count": 572
+  },
+  {
+    "section_number": "8.3",
+    "section_name": "Evaluation of unranked retrieval sets",
+    "predicted_concepts (pc)": [
+      "recall",
+      "documents",
+      "precision",
+      "information retrieval system",
+      "information retrieval",
+      "relevant"
+    ],
+    "pc_count": 6,
+    "pc_count_to_text_len_ratio (%)": 0.703,
+    "ground_truth_concepts (gtc)": [
+      "precision",
+      "recall",
+      "f measure",
+      "accuracy",
+      "balanced f measure"
+    ],
+    "gtc_count": 5,
+    "gtc_count_to_text_len_ratio (%)": 0.586,
+    "section_text_count": 853
+  },
+  {
+    "section_number": "8.4",
+    "section_name": "Evaluation of ranked retrieval results",
+    "predicted_concepts (pc)": [
+      "Precision",
+      "average precision",
+      "ROC curve",
+      "interpolated precision",
+      "precision-recall curve",
+      "curve",
+      "Figure",
+      "recall",
+      "documents"
+    ],
+    "pc_count": 9,
+    "pc_count_to_text_len_ratio (%)": 0.597,
+    "ground_truth_concepts (gtc)": [
+      "sensitivity",
+      "ndcg",
+      "interpolated precision",
+      "roc curve",
+      "break-even point",
+      "precision at",
+      "map",
+      "11-point interpolated average precision",
+      "specificity",
+      "cumulative gain",
+      "r-precision",
+      "normalized discounted cumulative gain",
+      "dice coefficient",
+      "precision-recall curve"
+    ],
+    "gtc_count": 14,
+    "gtc_count_to_text_len_ratio (%)": 0.928,
+    "section_text_count": 1508
+  },
+  {
+    "section_number": "8.5",
+    "section_name": "Assessing relevance",
+    "predicted_concepts (pc)": [
+      "relevance",
+      "agreement",
+      "judges",
+      "information",
+      "kappa",
+      "properly evaluate"
+    ],
+    "pc_count": 6,
+    "pc_count_to_text_len_ratio (%)": 0.819,
+    "ground_truth_concepts (gtc)": [
+      "kappa statistic",
+      "pooling",
+      "marginal statistic"
+    ],
+    "gtc_count": 3,
+    "gtc_count_to_text_len_ratio (%)": 0.409,
+    "section_text_count": 733
+  },
+  {
+    "section_number": "8.5.1",
+    "section_name": "Critiques and justifications of the concept of relevance ",
+    "predicted_concepts (pc)": [
+      "relevance",
+      "documents",
+      "system parameters",
+      "comparative experiments",
+      "formal"
+    ],
+    "pc_count": 5,
+    "pc_count_to_text_len_ratio (%)": 0.861,
+    "ground_truth_concepts (gtc)": [
+      "marginal relevance"
+    ],
+    "gtc_count": 1,
+    "gtc_count_to_text_len_ratio (%)": 0.172,
+    "section_text_count": 581
+  },
+  {
+    "section_number": "8.6",
+    "section_name": "A broader perspective: System quality and user utility",
+    "predicted_concepts (pc)": [
+      "user",
+      "system",
+      "users",
+      "search",
+      "search engine",
+      "search engines",
+      "measures"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.731,
+    "ground_truth_concepts (gtc)": [
+      "clickthrough log analysis",
+      "clickstream mining",
+      "a/b test"
+    ],
+    "gtc_count": 3,
+    "gtc_count_to_text_len_ratio (%)": 0.313,
+    "section_text_count": 957
+  },
+  {
+    "section_number": "8.7",
+    "section_name": "Results snippets",
+    "predicted_concepts (pc)": [
+      "document",
+      "summary",
+      "documents",
+      "user",
+      "query",
+      "summaries",
+      "sentences"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.666,
+    "ground_truth_concepts (gtc)": [
+      "keyword-in-context",
+      "summary",
+      "natural language processing",
+      "snippet",
+      "text summarization",
+      "dynamic",
+      "static",
+      "metadata"
+    ],
+    "gtc_count": 8,
+    "gtc_count_to_text_len_ratio (%)": 0.761,
+    "section_text_count": 1051
+  },
+  {
+    "section_number": "9",
+    "section_name": "Relevance feedback and query expansion",
+    "predicted_concepts (pc)": [
+      "Relevance feedback",
+      "Section",
+      "query"
+    ],
+    "pc_count": 3,
+    "pc_count_to_text_len_ratio (%)": 1.149,
+    "ground_truth_concepts (gtc)": [
+      "synonymy"
+    ],
+    "gtc_count": 1,
+    "gtc_count_to_text_len_ratio (%)": 0.383,
+    "section_text_count": 261
+  },
+  {
+    "section_number": "9.1",
+    "section_name": "Relevance feedback and pseudo relevance feedback",
+    "predicted_concepts (pc)": [
+      "relevance feedback",
+      "feedback",
+      "relevance",
+      "relevant documents",
+      "documents",
+      "user",
+      "relevant",
+      "pseudo relevance feedback",
+      "query",
+      "relevance feedback Rocchio",
+      "Rocchio relevance feedback"
+    ],
+    "pc_count": 11,
+    "pc_count_to_text_len_ratio (%)": 0.433,
+    "ground_truth_concepts (gtc)": [
+      "rf",
+      "relevance feedback",
+      "classifier",
+      "cluster",
+      "in relevance feedback",
+      "pseudo relevance feedback",
+      "clickstream mining",
+      "implicit relevance feedback"
+    ],
+    "gtc_count": 8,
+    "gtc_count_to_text_len_ratio (%)": 0.315,
+    "section_text_count": 2539
+  },
+  {
+    "section_number": "9.2",
+    "section_name": "Global methods for query reformulation",
+    "predicted_concepts (pc)": [
+      "Query expansion",
+      "query",
+      "thesaurus",
+      "expansion",
+      "terms",
+      "user",
+      "query terms",
+      "search"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.696,
+    "ground_truth_concepts (gtc)": [
+      "query expansion"
+    ],
+    "gtc_count": 1,
+    "gtc_count_to_text_len_ratio (%)": 0.087,
+    "section_text_count": 1150
+  },
+  {
+    "section_number": "10",
+    "section_name": "XML retrieval",
+    "predicted_concepts (pc)": [
+      "XML",
+      "XML retrieval",
+      "retrieval",
+      "structured",
+      "structured retrieval",
+      "Information retrieval",
+      "text"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.712,
+    "ground_truth_concepts (gtc)": [
+      "structured query",
+      "named entity tagging",
+      "semistructured query",
+      "free text query",
+      "blog",
+      "zone search",
+      "data-centric xml",
+      "relational database",
+      "structured retrieval",
+      "parametric search",
+      "relational",
+      "patent databases",
+      "extensible markup language",
+      "database",
+      "xml",
+      "semistructured retrieval",
+      "digital libraries"
+    ],
+    "gtc_count": 17,
+    "gtc_count_to_text_len_ratio (%)": 1.729,
+    "section_text_count": 983
+  },
+  {
+    "section_number": "10.1",
+    "section_name": "Basic XML concepts",
+    "predicted_concepts (pc)": [
+      "XML document",
+      "XML",
+      "Figure",
+      "XML documents",
+      "document",
+      "element",
+      "XML Document Object"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.767,
+    "ground_truth_concepts (gtc)": [
+      "xpath",
+      "schema",
+      "xml element",
+      "nexi",
+      "xml dtd",
+      "xml attribute",
+      "query-by-example",
+      "xml schema",
+      "xml tag",
+      "xml",
+      "context",
+      "xml dom",
+      "metadata"
+    ],
+    "gtc_count": 13,
+    "gtc_count_to_text_len_ratio (%)": 1.424,
+    "section_text_count": 913
+  },
+  {
+    "section_number": "10.2",
+    "section_name": "Challenges in XML retrieval",
+    "predicted_concepts (pc)": [
+      "elements",
+      "Macbeth castle",
+      "Figure",
+      "Macbeth",
+      "query Macbeth castle",
+      "retrieval",
+      "structured document retrieval",
+      "Gates",
+      "structured retrieval",
+      "query Macbeth"
+    ],
+    "pc_count": 10,
+    "pc_count_to_text_len_ratio (%)": 0.537,
+    "ground_truth_concepts (gtc)": [
+      "nested elements",
+      "indexing unit",
+      "idf",
+      "extended query",
+      "structured document retrieval principle",
+      "schema diversity",
+      "schema heterogeneity",
+      "highlighting"
+    ],
+    "gtc_count": 8,
+    "gtc_count_to_text_len_ratio (%)": 0.43,
+    "section_text_count": 1862
+  },
+  {
+    "section_number": "10.3",
+    "section_name": "A vector space model for XML retrieval",
+    "predicted_concepts (pc)": [
+      "XML retrieval",
+      "XML",
+      "Figure",
+      "ERGE",
+      "document",
+      "XML contexts",
+      "query",
+      "term"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.644,
+    "ground_truth_concepts (gtc)": [
+      "structural term",
+      "lexicalized subtree",
+      "context resemblance"
+    ],
+    "gtc_count": 3,
+    "gtc_count_to_text_len_ratio (%)": 0.242,
+    "section_text_count": 1242
+  },
+  {
+    "section_number": "10.4",
+    "section_name": "Evaluation of XML retrieval",
+    "predicted_concepts (pc)": [
+      "INEX",
+      "XML retrieval",
+      "retrieval",
+      "component",
+      "CAS topics",
+      "Section",
+      "relevance",
+      "XML"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.658,
+    "ground_truth_concepts (gtc)": [
+      "component coverage",
+      "inex",
+      "topic",
+      "cas topics",
+      "co topics",
+      "in xml retrieval",
+      "wikipedia",
+      "topical relevance"
+    ],
+    "gtc_count": 8,
+    "gtc_count_to_text_len_ratio (%)": 0.658,
+    "section_text_count": 1216
+  },
+  {
+    "section_number": "10.5",
+    "section_name": "Text-centric vs. data-centric XML retrieval",
+    "predicted_concepts (pc)": [
+      "XML",
+      "XML retrieval",
+      "XML structure serves",
+      "data-centric XML",
+      "retrieval"
+    ],
+    "pc_count": 5,
+    "pc_count_to_text_len_ratio (%)": 0.912,
+    "ground_truth_concepts (gtc)": [
+      "text-centric xml",
+      "relational database",
+      "data-centric xml",
+      "relational",
+      "database"
+    ],
+    "gtc_count": 5,
+    "gtc_count_to_text_len_ratio (%)": 0.912,
+    "section_text_count": 548
+  },
+  {
+    "section_number": "11",
+    "section_name": "Probabilistic information retrieval",
+    "predicted_concepts (pc)": [
+      "discussion of relevance",
+      "relevance feedback",
+      "classifier that decides",
+      "information"
+    ],
+    "pc_count": 4,
+    "pc_count_to_text_len_ratio (%)": 1.153,
+    "ground_truth_concepts (gtc)": [],
+    "gtc_count": 0,
+    "gtc_count_to_text_len_ratio (%)": 0.0,
+    "section_text_count": 347
+  },
+  {
+    "section_number": "11.1",
+    "section_name": "Review of basic probability theory",
+    "predicted_concepts (pc)": [
+      "probability",
+      "event",
+      "probability theory previously",
+      "basic probability theory"
+    ],
+    "pc_count": 4,
+    "pc_count_to_text_len_ratio (%)": 1.183,
+    "ground_truth_concepts (gtc)": [
+      "chain rule",
+      "prior probability",
+      "posterior probability",
+      "bayes' rule",
+      "random variable",
+      "odds",
+      "likelihood",
+      "partition rule"
+    ],
+    "gtc_count": 8,
+    "gtc_count_to_text_len_ratio (%)": 2.367,
+    "section_text_count": 338
+  },
+  {
+    "section_number": "11.2",
+    "section_name": "The Probability Ranking Principle",
+    "predicted_concepts (pc)": [
+      "ranked retrieval setup",
+      "documents",
+      "PRP",
+      "Probability Ranking Principle",
+      "document"
+    ],
+    "pc_count": 5,
+    "pc_count_to_text_len_ratio (%)": 0.942,
+    "ground_truth_concepts (gtc)": [
+      "bayes optimal decision rule",
+      "probability ranking principle",
+      "bayes risk",
+      "1/0 loss"
+    ],
+    "gtc_count": 4,
+    "gtc_count_to_text_len_ratio (%)": 0.753,
+    "section_text_count": 531
+  },
+  {
+    "section_number": "11.3",
+    "section_name": "The Binary Independence Model",
+    "predicted_concepts (pc)": [
+      "documents",
+      "document",
+      "relevant documents",
+      "term",
+      "query terms",
+      "terms",
+      "Binary Independence Model",
+      "query",
+      "probability",
+      "relevant",
+      "estimate"
+    ],
+    "pc_count": 11,
+    "pc_count_to_text_len_ratio (%)": 0.435,
+    "ground_truth_concepts (gtc)": [
+      "binary independence model",
+      "conditional independence assumption",
+      "odds ratio",
+      "naive bayes assumption",
+      "retrieval status value",
+      "smoothing",
+      "maximum likelihood estimate",
+      "map",
+      "maximum a posteriori",
+      "relative frequency",
+      "bayesian prior",
+      "pseudocounts",
+      "add",
+      "idf"
+    ],
+    "gtc_count": 14,
+    "gtc_count_to_text_len_ratio (%)": 0.554,
+    "section_text_count": 2527
+  },
+  {
+    "section_number": "11.4",
+    "section_name": "An appraisal and some extensions",
+    "predicted_concepts (pc)": [
+      "term",
+      "probabilistic",
+      "model",
+      "document",
+      "query",
+      "probabilistic models",
+      "probabilistic models Probabilistic",
+      "term frequency",
+      "document term frequency"
+    ],
+    "pc_count": 9,
+    "pc_count_to_text_len_ratio (%)": 0.583,
+    "ground_truth_concepts (gtc)": [
+      "idf",
+      "smoothing",
+      "bm25 weights",
+      "okapi weighting",
+      "add",
+      "bayesian networks"
+    ],
+    "gtc_count": 6,
+    "gtc_count_to_text_len_ratio (%)": 0.389,
+    "section_text_count": 1544
+  },
+  {
+    "section_number": "12.1.1",
+    "section_name": "Finite automata and language models",
+    "predicted_concepts (pc)": [
+      "language model",
+      "probability",
+      "model",
+      "language",
+      "language models"
+    ],
+    "pc_count": 5,
+    "pc_count_to_text_len_ratio (%)": 0.896,
+    "ground_truth_concepts (gtc)": [
+      "likelihood ratio",
+      "language model",
+      "generative model",
+      "language"
+    ],
+    "gtc_count": 4,
+    "gtc_count_to_text_len_ratio (%)": 0.717,
+    "section_text_count": 558
+  },
+  {
+    "section_number": "12.1.3",
+    "section_name": "Multinomial distributions over words",
+    "predicted_concepts (pc)": [
+      "discussed in Chapter",
+      "model",
+      "words",
+      "multinomial"
+    ],
+    "pc_count": 4,
+    "pc_count_to_text_len_ratio (%)": 0.909,
+    "ground_truth_concepts (gtc)": [
+      "spelling correction",
+      "multinomial distribution"
+    ],
+    "gtc_count": 2,
+    "gtc_count_to_text_len_ratio (%)": 0.455,
+    "section_text_count": 440
+  },
+  {
+    "section_number": "12.2.1",
+    "section_name": "Using query likelihood language models in IR",
+    "predicted_concepts (pc)": [
+      "language model",
+      "Language",
+      "model",
+      "document"
+    ],
+    "pc_count": 4,
+    "pc_count_to_text_len_ratio (%)": 1.028,
+    "ground_truth_concepts (gtc)": [
+      "machine translation",
+      "lm",
+      "query likelihood model"
+    ],
+    "gtc_count": 3,
+    "gtc_count_to_text_len_ratio (%)": 0.771,
+    "section_text_count": 389
+  },
+  {
+    "section_number": "12.2.2",
+    "section_name": "Estimating the query generation probability",
+    "predicted_concepts (pc)": [
+      "document",
+      "model",
+      "smoothing",
+      "probability",
+      "language model",
+      "collection",
+      "words"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.684,
+    "ground_truth_concepts (gtc)": [
+      "sparseness",
+      "smoothing",
+      "maximum likelihood estimation",
+      "linear interpolation",
+      "bayesian prior"
+    ],
+    "gtc_count": 5,
+    "gtc_count_to_text_len_ratio (%)": 0.489,
+    "section_text_count": 1023
+  },
+  {
+    "section_number": "12.2.3",
+    "section_name": "Ponte and Croft’s Experiments",
+    "predicted_concepts (pc)": [
+      "Ponte and Croft",
+      "language modeling approach",
+      "language modeling"
+    ],
+    "pc_count": 3,
+    "pc_count_to_text_len_ratio (%)": 1.622,
+    "ground_truth_concepts (gtc)": [],
+    "gtc_count": 0,
+    "gtc_count_to_text_len_ratio (%)": 0.0,
+    "section_text_count": 185
+  },
+  {
+    "section_number": "12.3",
+    "section_name": "Language modeling versus other approaches in IR",
+    "predicted_concepts (pc)": [
+      "language modeling approach",
+      "language modeling",
+      "language",
+      "model",
+      "approach"
+    ],
+    "pc_count": 5,
+    "pc_count_to_text_len_ratio (%)": 0.938,
+    "ground_truth_concepts (gtc)": [
+      "query-by-example",
+      "natural language processing"
+    ],
+    "gtc_count": 2,
+    "gtc_count_to_text_len_ratio (%)": 0.375,
+    "section_text_count": 533
+  },
+  {
+    "section_number": "12.4",
+    "section_name": "Extended language modeling approaches",
+    "predicted_concepts (pc)": [
+      "model",
+      "language model",
+      "language",
+      "document language model",
+      "language modeling approach",
+      "document"
+    ],
+    "pc_count": 6,
+    "pc_count_to_text_len_ratio (%)": 0.916,
+    "ground_truth_concepts (gtc)": [
+      "cross-entropy",
+      "kullback-leibler divergence",
+      "machine translation",
+      "translation model",
+      "document likelihood model"
+    ],
+    "gtc_count": 5,
+    "gtc_count_to_text_len_ratio (%)": 0.763,
+    "section_text_count": 655
+  },
+  {
+    "section_number": "13",
+    "section_name": "Text classification and Naive Bayes",
+    "predicted_concepts (pc)": [
+      "classification",
+      "text classification",
+      "multicore computer chips",
+      "computer",
+      "standing query",
+      "standing queries",
+      "multicore computer",
+      "computer chips"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.622,
+    "ground_truth_concepts (gtc)": [
+      "sentiment detection",
+      "email",
+      "email sorting",
+      "topic classification",
+      "routing",
+      "topic",
+      "labeling",
+      "spam",
+      "defined",
+      "pornography filtering",
+      "topic spotting",
+      "text classification",
+      "classification",
+      "filtering",
+      "vertical search engines",
+      "ad hoc retrieval",
+      "sorting",
+      "statistical text classification",
+      "text categorization",
+      "standing query",
+      "web",
+      "rules in text classification",
+      "vertical search engine"
+    ],
+    "gtc_count": 23,
+    "gtc_count_to_text_len_ratio (%)": 1.788,
+    "section_text_count": 1286
+  },
+  {
+    "section_number": "13.1",
+    "section_name": "The text classification problem",
+    "predicted_concepts (pc)": [
+      "training set",
+      "classification",
+      "learning",
+      "text classification",
+      "set",
+      "document"
+    ],
+    "pc_count": 6,
+    "pc_count_to_text_len_ratio (%)": 0.923,
+    "ground_truth_concepts (gtc)": [
+      "learning method",
+      "category",
+      "label",
+      "classification function",
+      "classes",
+      "text classification",
+      "any-of classification",
+      "classifiers",
+      "document space",
+      "supervised learning",
+      "test data",
+      "overview",
+      "defined",
+      "training set",
+      "test set",
+      "learning algorithm",
+      "one-of classification"
+    ],
+    "gtc_count": 17,
+    "gtc_count_to_text_len_ratio (%)": 2.615,
+    "section_text_count": 650
+  },
+  {
+    "section_number": "13.2",
+    "section_name": "Naive Bayes text classification",
+    "predicted_concepts (pc)": [
+      "document",
+      "Chinese Chinese Chinese",
+      "class",
+      "training",
+      "Equation",
+      "training data",
+      "documents",
+      "Chinese"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.59,
+    "ground_truth_concepts (gtc)": [
+      "maximum likelihood estimate ( mle )",
+      "maximum a posteriori class",
+      "multinomial naive bayes",
+      "classes",
+      "sparseness",
+      "positional independence assumption",
+      "maximum likelihood estimate",
+      "in  text classification",
+      "maximum a posteriori",
+      "map",
+      "add-one smoothing",
+      "laplace smoothing",
+      "in text classification",
+      "smoothing",
+      "multinomial model",
+      "add"
+    ],
+    "gtc_count": 16,
+    "gtc_count_to_text_len_ratio (%)": 1.181,
+    "section_text_count": 1355
+  },
+  {
+    "section_number": "13.3",
+    "section_name": "The Bernoulli model",
+    "predicted_concepts (pc)": [
+      "Bernoulli model",
+      "model",
+      "Bernoulli",
+      "multinomial model"
+    ],
+    "pc_count": 4,
+    "pc_count_to_text_len_ratio (%)": 0.926,
+    "ground_truth_concepts (gtc)": [
+      "bernoulli model",
+      "multinomial model",
+      "multivariate bernoulli model"
+    ],
+    "gtc_count": 3,
+    "gtc_count_to_text_len_ratio (%)": 0.694,
+    "section_text_count": 432
+  },
+  {
+    "section_number": "13.4",
+    "section_name": "Properties of Naive Bayes",
+    "predicted_concepts (pc)": [
+      "model",
+      "Bernoulli model",
+      "document",
+      "multinomial model",
+      "conditional independence assumption",
+      "term",
+      "class",
+      "independence",
+      "independence assumption",
+      "terms"
+    ],
+    "pc_count": 10,
+    "pc_count_to_text_len_ratio (%)": 0.531,
+    "ground_truth_concepts (gtc)": [
+      "249.57 k nearest neighbor classification (knn)",
+      "optimal  classifier",
+      "random variable",
+      "noise feature",
+      "maximum a posteriori",
+      "sequence model",
+      "random variables",
+      "conditional independence assumption",
+      "bag of words",
+      "positional independence",
+      "multinomial naive bayes",
+      "positional independence assumption",
+      "multinomial naive bayesvs.",
+      "k nearest neighbor classification (knn)",
+      "as nonlinear classification",
+      "concept drift",
+      "optimal classifier",
+      "random  variable x",
+      "multinomial  naive  bayes",
+      "bag-of-words",
+      "bernoulli model",
+      "multinomial model"
+    ],
+    "gtc_count": 22,
+    "gtc_count_to_text_len_ratio (%)": 1.167,
+    "section_text_count": 1885
+  },
+  {
+    "section_number": "13.6",
+    "section_name": "Evaluation of text classification",
+    "predicted_concepts (pc)": [
+      "test set",
+      "classes",
+      "set",
+      "test",
+      "text classification",
+      "classification",
+      "Table",
+      "class",
+      "classifier"
+    ],
+    "pc_count": 9,
+    "pc_count_to_text_len_ratio (%)": 0.518,
+    "ground_truth_concepts (gtc)": [
+      "modapte split",
+      "held-out data",
+      "independent and identically distributed",
+      "effectiveness",
+      "training set",
+      "test set",
+      "efficiency",
+      "performance",
+      "i.i.d.",
+      "decision trees",
+      "text classification in",
+      "break-even",
+      "macroaveraging",
+      "reuters-21578 collection",
+      "independent and identically distributed ( iid )",
+      "microaveraging",
+      "development sets",
+      "concept drift",
+      "text classification",
+      "one-of classification",
+      "support vector machines ( svms )",
+      "two-class classifier",
+      "information gain",
+      "classifiers",
+      "two-class",
+      "development set",
+      "evalution of retrieval systems"
+    ],
+    "gtc_count": 27,
+    "gtc_count_to_text_len_ratio (%)": 1.554,
+    "section_text_count": 1738
+  },
+  {
+    "section_number": "14",
+    "section_name": "Vector space classification",
+    "predicted_concepts (pc)": [
+      "Naive Bayes",
+      "Vector space classification",
+      "vector space",
+      "classification",
+      "document",
+      "vector"
+    ],
+    "pc_count": 6,
+    "pc_count_to_text_len_ratio (%)": 0.896,
+    "ground_truth_concepts (gtc)": [
+      "prototype",
+      "contiguity hypothesis",
+      "decision hyperplane"
+    ],
+    "gtc_count": 3,
+    "gtc_count_to_text_len_ratio (%)": 0.448,
+    "section_text_count": 670
+  },
+  {
+    "section_number": "14.1",
+    "section_name": "Document representations and measures of relatedness in vector spaces",
+    "predicted_concepts (pc)": [
+      "Euclidean distance",
+      "vectors",
+      "distance"
+    ],
+    "pc_count": 3,
+    "pc_count_to_text_len_ratio (%)": 1.124,
+    "ground_truth_concepts (gtc)": [],
+    "gtc_count": 0,
+    "gtc_count_to_text_len_ratio (%)": 0.0,
+    "section_text_count": 267
+  },
+  {
+    "section_number": "14.2",
+    "section_name": "Rocchio classification",
+    "predicted_concepts (pc)": [
+      "Rocchio classification",
+      "Rocchio",
+      "classification",
+      "Figure",
+      "class",
+      "Rocchio relevance feedback",
+      "Rocchio relevance"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.648,
+    "ground_truth_concepts (gtc)": [
+      "decision boundary",
+      "centroid",
+      "normal vector",
+      "rocchio classification",
+      "multimodal class"
+    ],
+    "gtc_count": 5,
+    "gtc_count_to_text_len_ratio (%)": 0.463,
+    "section_text_count": 1080
+  },
+  {
+    "section_number": "14.3",
+    "section_name": "k nearest neighbor",
+    "predicted_concepts (pc)": [
+      "kNN",
+      "test document",
+      "training",
+      "document",
+      "training set",
+      "documents",
+      "training documents",
+      "training set training"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.581,
+    "ground_truth_concepts (gtc)": [
+      "nearest neighbor classification",
+      "knn classification",
+      "voronoi tessellation",
+      "held-out",
+      "polytope",
+      "bayes error rate",
+      "memory-based learning",
+      "instance-based learning"
+    ],
+    "gtc_count": 8,
+    "gtc_count_to_text_len_ratio (%)": 0.581,
+    "section_text_count": 1377
+  },
+  {
+    "section_number": "14.4",
+    "section_name": "Linear versus nonlinear classifiers",
+    "predicted_concepts (pc)": [
+      "linear classifier",
+      "linear",
+      "classifier",
+      "Figure",
+      "linear classifiers",
+      "Naive Bayes",
+      "classifiers",
+      "class"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.687,
+    "ground_truth_concepts (gtc)": [
+      "linear problem",
+      "nonlinear classifier",
+      "linear classifier",
+      "class boundary",
+      "linear separability",
+      "noise document",
+      "nonlinear problem",
+      "decision boundary",
+      "decision hyperplane"
+    ],
+    "gtc_count": 9,
+    "gtc_count_to_text_len_ratio (%)": 0.773,
+    "section_text_count": 1165
+  },
+  {
+    "section_number": "14.6",
+    "section_name": "The bias-variance tradeoff",
+    "predicted_concepts (pc)": [
+      "learning method",
+      "training set",
+      "training sets",
+      "learning",
+      "training",
+      "learning methods",
+      "documents",
+      "linear",
+      "method",
+      "set",
+      "classifier"
+    ],
+    "pc_count": 11,
+    "pc_count_to_text_len_ratio (%)": 0.481,
+    "ground_truth_concepts (gtc)": [
+      "learning error",
+      "optimal learning method",
+      "overfitting",
+      "variance",
+      "bias",
+      "model complexity",
+      "bias-variance tradeoff",
+      "optimal classifier",
+      "memory capacity",
+      "generative model"
+    ],
+    "gtc_count": 10,
+    "gtc_count_to_text_len_ratio (%)": 0.438,
+    "section_text_count": 2285
+  },
+  {
+    "section_number": "15",
+    "section_name": "Support vector machines and machine learning on documents",
+    "predicted_concepts (pc)": [
+      "regularized logistic regression",
+      "intensive machine-learning research",
+      "support vector machines",
+      "boosted decision trees"
+    ],
+    "pc_count": 4,
+    "pc_count_to_text_len_ratio (%)": 1.394,
+    "ground_truth_concepts (gtc)": [
+      "support vector machine"
+    ],
+    "gtc_count": 1,
+    "gtc_count_to_text_len_ratio (%)": 0.348,
+    "section_text_count": 287
+  },
+  {
+    "section_number": "15.1",
+    "section_name": "Support vector machines: The linearly separable case",
+    "predicted_concepts (pc)": [
+      "margin",
+      "functional margin",
+      "decision",
+      "data",
+      "decision surface",
+      "geometric margin",
+      "point",
+      "decision hyperplane",
+      "decision boundary"
+    ],
+    "pc_count": 9,
+    "pc_count_to_text_len_ratio (%)": 0.527,
+    "ground_truth_concepts (gtc)": [
+      "margin",
+      "quadratic programming",
+      "weight vector",
+      "functional margin",
+      "bias-variance tradeoff",
+      "geometric margin",
+      "support vector"
+    ],
+    "gtc_count": 7,
+    "gtc_count_to_text_len_ratio (%)": 0.41,
+    "section_text_count": 1707
+  },
+  {
+    "section_number": "15.2",
+    "section_name": "Extensions to the SVM model",
+    "predicted_concepts (pc)": [
+      "SVMs SVMs SVMs",
+      "SVMs",
+      "data",
+      "SVM",
+      "training",
+      "SVMs SVMs Figure",
+      "SVM training",
+      "margin",
+      "data set",
+      "kernel",
+      "linear SVM"
+    ],
+    "pc_count": 11,
+    "pc_count_to_text_len_ratio (%)": 0.465,
+    "ground_truth_concepts (gtc)": [
+      "regularization",
+      "slack variables",
+      "multiclass",
+      "structural svms",
+      "support vector machine",
+      "mercer kernel",
+      "kernel trick",
+      "kernel",
+      "kernel function",
+      "break-even"
+    ],
+    "gtc_count": 10,
+    "gtc_count_to_text_len_ratio (%)": 0.423,
+    "section_text_count": 2366
+  },
+  {
+    "section_number": "15.3",
+    "section_name": "Issues in the classification of text documents",
+    "predicted_concepts (pc)": [
+      "text classification",
+      "classification",
+      "text",
+      "training data",
+      "classifier",
+      "data",
+      "text classification problems",
+      "features",
+      "document",
+      "documents",
+      "words",
+      "training"
+    ],
+    "pc_count": 12,
+    "pc_count_to_text_len_ratio (%)": 0.422,
+    "ground_truth_concepts (gtc)": [
+      "transductive svms",
+      "active learning",
+      "expectation-maximization algorithm",
+      "concept drift",
+      "semi-supervised learning",
+      "zone"
+    ],
+    "gtc_count": 6,
+    "gtc_count_to_text_len_ratio (%)": 0.211,
+    "section_text_count": 2844
+  },
+  {
+    "section_number": "15.4",
+    "section_name": "Machine learning methods in ad hoc information retrieval",
+    "predicted_concepts (pc)": [
+      "document",
+      "query",
+      "Section",
+      "training",
+      "figure",
+      "relevance",
+      "relevant",
+      "documents",
+      "ranking",
+      "nonrelevant"
+    ],
+    "pc_count": 10,
+    "pc_count_to_text_len_ratio (%)": 0.557,
+    "ground_truth_concepts (gtc)": [
+      "machine-learned relevance",
+      "linear classifier",
+      "ranking svm",
+      "structural svm",
+      "classification",
+      "regression",
+      "ordinal regression"
+    ],
+    "gtc_count": 7,
+    "gtc_count_to_text_len_ratio (%)": 0.39,
+    "section_text_count": 1795
+  },
+  {
+    "section_number": "16",
+    "section_name": "Flat clustering",
+    "predicted_concepts (pc)": [
+      "Clustering",
+      "clusters",
+      "clustering algorithm",
+      "chapter",
+      "Section"
+    ],
+    "pc_count": 5,
+    "pc_count_to_text_len_ratio (%)": 0.965,
+    "ground_truth_concepts (gtc)": [
+      "hard clustering",
+      "hierarchical clustering",
+      "soft assignment",
+      "hard assignment",
+      "unsupervised learning",
+      "cluster",
+      "flat clustering",
+      "soft clustering"
+    ],
+    "gtc_count": 8,
+    "gtc_count_to_text_len_ratio (%)": 1.544,
+    "section_text_count": 518
+  },
+  {
+    "section_number": "16.1",
+    "section_name": "Clustering in information retrieval",
+    "predicted_concepts (pc)": [
+      "search results",
+      "search",
+      "Documents",
+      "Search result clustering",
+      "cluster",
+      "clustering",
+      "collection"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.632,
+    "ground_truth_concepts (gtc)": [
+      "cluster hypothesis",
+      "search results",
+      "scatter-gather",
+      "search result clustering"
+    ],
+    "gtc_count": 4,
+    "gtc_count_to_text_len_ratio (%)": 0.361,
+    "section_text_count": 1107
+  },
+  {
+    "section_number": "16.2",
+    "section_name": "Problem statement",
+    "predicted_concepts (pc)": [
+      "objective function",
+      "similarity",
+      "documents",
+      "objective",
+      "clustering"
+    ],
+    "pc_count": 5,
+    "pc_count_to_text_len_ratio (%)": 1.066,
+    "ground_truth_concepts (gtc)": [
+      "objective function",
+      "cardinality",
+      "in clustering"
+    ],
+    "gtc_count": 3,
+    "gtc_count_to_text_len_ratio (%)": 0.64,
+    "section_text_count": 469
+  },
+  {
+    "section_number": "16.3",
+    "section_name": "Evaluation of clustering",
+    "predicted_concepts (pc)": [
+      "cluster",
+      "clusters",
+      "clustering",
+      "documents",
+      "Purity",
+      "Typical objective functions",
+      "high intra-cluster similarity"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.649,
+    "ground_truth_concepts (gtc)": [
+      "mutual information",
+      "external criterion of quality",
+      "rand index",
+      "as an evaluation measure in clustering",
+      "false negative",
+      "nmi",
+      "purity",
+      "f measure",
+      "internal criterion of quality",
+      "normalized mutual information",
+      "entropy",
+      "false positive"
+    ],
+    "gtc_count": 12,
+    "gtc_count_to_text_len_ratio (%)": 1.113,
+    "section_text_count": 1078
+  },
+  {
+    "section_number": "16.4",
+    "section_name": "K-means",
+    "predicted_concepts (pc)": [
+      "cluster",
+      "clustering",
+      "centroid",
+      "K-means",
+      "documents",
+      "RSS",
+      "iterations",
+      "centroids"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.635,
+    "ground_truth_concepts (gtc)": [
+      "outlier",
+      "rss",
+      "residual sum of squares",
+      "k-medoids",
+      "centroid",
+      "medoid",
+      "singleton cluster",
+      "objective function",
+      "seed"
+    ],
+    "gtc_count": 9,
+    "gtc_count_to_text_len_ratio (%)": 0.715,
+    "section_text_count": 1259
+  },
+  {
+    "section_number": "16.4.1",
+    "section_name": "Cluster cardinality in K-means",
+    "predicted_concepts (pc)": [
+      "clusters",
+      "model",
+      "Equation",
+      "model complexity",
+      "AIC",
+      "number",
+      "Cluster"
+    ],
+    "pc_count": 7,
+    "pc_count_to_text_len_ratio (%)": 0.799,
+    "ground_truth_concepts (gtc)": [
+      "model complexity",
+      "independent and identically distributed",
+      "in clustering",
+      "akaike information criterion",
+      "distortion"
+    ],
+    "gtc_count": 5,
+    "gtc_count_to_text_len_ratio (%)": 0.571,
+    "section_text_count": 876
+  },
+  {
+    "section_number": "16.5",
+    "section_name": "Model-based clustering",
+    "predicted_concepts (pc)": [
+      "document",
+      "parameters",
+      "model",
+      "clustering",
+      "cluster",
+      "k-means",
+      "documents",
+      "assignment"
+    ],
+    "pc_count": 8,
+    "pc_count_to_text_len_ratio (%)": 0.603,
+    "ground_truth_concepts (gtc)": [
+      "expectation step",
+      "expectation-maximization algorithm",
+      "model-based clustering",
+      "natural language processing",
+      "maximization step",
+      "em algorithm"
+    ],
+    "gtc_count": 6,
+    "gtc_count_to_text_len_ratio (%)": 0.452,
+    "section_text_count": 1326
+  }
+]
