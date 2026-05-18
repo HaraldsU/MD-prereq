@@ -1,0 +1,4 @@
+- Direktorijs [AL-CPL-LV](https://github.com/HaraldsU/MD-prereq/tree/main/datasets/AL-CPL-LV) satur datu kopas *AL-CPL-LV* apakškopu failus.
+- Direktorijs [AL-CPL](https://github.com/HaraldsU/MD-prereq/tree/main/datasets/AL-CPL) satur datu kopas *AL-CPL* apakškopu failus.
+- Direktorijs [IIR-dataset](https://github.com/HaraldsU/MD-prereq/tree/main/datasets/IIR-dataset) satur *IIR* datu kopas failus.
+- Direktorijs [IIR-index](https://github.com/HaraldsU/MD-prereq/tree/main/datasets/IIR-index) satur *IIR-index* datu kopas failus.
