@@ -149,7 +149,7 @@ def generate_template_lv(prompt_type: str, section_name: str, section_text: str,
         elif CONCEPT_DEFINITION == 'CONCEPT-DEFINITION-YES':
             definition = f'<definīcija>\nGalvenās frāzes ir vārdi vai vārdu savienojumi, kuri raksturo kādu cilvēkiem lietderı̄gu jēdzienu, kurš taksonomiski pieder kādai zināšanu sfērai.\n</definīcija>\n'
         elif CONCEPT_DEFINITION == 'CONCEPT-DEFINITION-WIKIPEDIA':
-            definition = f'<definīcija>\nUzskati galvenās frāzes par jēdzieniem, kuri ir pietiekami nozīmīgi, lai tiem būtu pašiem savs Wikipedia šķirkļis.\n</definīcija>\n'
+            definition = f'<definīcija>\nUzskati galvenās frāzes par jēdzieniem, kuri ir pietiekami nozīmīgi, lai tiem būtu pašiem savs Wikipedia šķirklis.\n</definīcija>\n'
         # elif CONCEPT_DEFINITION == 'CONCEPT-DEFINITION-KEY':
             # # From WangEtAl16oct
             # definition = f'<definīcija>\nGalvenā frāze ir tāda frāze, kas ir ne tikai pieminētā tekstā, bet arī apspriesta un studēta tekstā.\n</definīcija>\n'
@@ -738,15 +738,6 @@ else:
 # 
 # for t in threads:
     # t.join()
-
-# evaluate('/home/dust/Downloads/prereq/scripts/IIR/outputs/baseline/IIR_yake/IIR_YAKE_predictions.json')
-# evaluate('/home/dust/Downloads/prereq/scripts/CE-Books-LV/outputs/baseline/bio_yake/BIO_YAKE_predictions.json')
-# evaluate('/home/dust/Downloads/prereq/scripts/IIR/google-gemini-3-flash-preview_1024_FEW-SHOT_FIVE-SHOT_RANDOM_TERMS_ENGLISH_DOMAIN-CONTEXT-YES_CONCEPT-DEFINITION-NO_SYSTEM-PROMPT-YES_-CONSENSUS_STEMMED_2026-04-30_23-55-44_predictions_deduped.json')
-# evaluate('/home/dust/Downloads/prereq/scripts/IIR/outputs/baseline/IIR-index_yake/IIR_INDEX_YAKE_predictions.json')
-# evaluate('/home/dust/Downloads/prereq/scripts/CE-Books-LV/outputs/p5_CHEM_KU7b/xiaomi-mimo-v2-flash_1024_FEW-SHOT_FIVE-SHOT_FIRST_GALVENĀS-FRĀZES_LATVIAN_DOMAIN-CONTEXT-YES_CONCEPT-DEFINITION-KEY_SYSTEM-PROMPT-YES_-CONSENSUS_STEMMED_2026-04-30_20-10-23_predictions_deduped.json')
-
-# evaluate('/home/dust/Downloads/prereq/scripts/CE-Books-LV/outputs/baseline/chem_yake/CHEM_YAKE_predictions.json')
-evaluate('/home/dust/Downloads/prereq/scripts/CE-Books-LV/outputs/baseline/bio_yake/BIO_YAKE_predictions.json')
 
 # print(generate_template_lv('GALVENĀS-FRĀZES', 'AUGI', 'HELLO WORLD!'))
 

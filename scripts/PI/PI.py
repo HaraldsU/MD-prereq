@@ -690,7 +690,6 @@ for t in threads:
 # 
 # for path in paths:
     # # test_ds_wiki(path)
-    # filter_ds_wiki(path, '/home/dust/Downloads/prereq/datasets/AL-CPL-LV/')
 
 # print(generate_template_lv('latvija', 'pasaule', 'visums'))
 
