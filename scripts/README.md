@@ -1,2 +1,3 @@
 - Direktorijs [CE](https://github.com/HaraldsU/MD-prereq/tree/main/scripts/CE) satur skriptus, kas tiek pielietoti konceptu noteikšanas uzdevumam.
 - Direktorijs [PI](https://github.com/HaraldsU/MD-prereq/tree/main/scripts/PI) satur skriptus, kas tiek pielietoti konceptu priekšnosacījumu relāciju noteikšanas uzdevumam.
+- Direktoriji `output` satur visu LVM iegūtos rezultātus ar visiem darbā definētajiem uzvedņu variantiem.
